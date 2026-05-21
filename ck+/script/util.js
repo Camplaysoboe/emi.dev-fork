@@ -81,7 +81,7 @@ function getPokeImage(poke, size, unownExtra = undefined) {
 	if (game.name == "pk") {
 		return 'https://img.pokemondb.net/sprites/platinum/' + shiny + '/' + poke + '.png';
 	}
-	return 'https://img.pokemondb.net/sprites/crystal/' + shiny + '/' + poke + '.png';
+	return 'https://img.pokemondb.net/sprites/black-white/' + shiny + '/' + poke + '.png';
 }
 
 function getTargeting(move) {
