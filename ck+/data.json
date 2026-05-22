@@ -41506,27 +41506,19 @@
           "name": "petilil",
                     "dvs": {
                         "atk": 14,
-			"def": 13,
-			"hp": 7,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 11,
           "item": "berry",
-                    "dvs": {
-                        "atk": 15,
-                        "def": 15,
-                        "hp": 15,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
           "moves": [
             "leech-seed",
             "mega-drain",
             "poisonpowder",
-            "hidden-power"
+            "hp-water"
           ]
         },
         {
