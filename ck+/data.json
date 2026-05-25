@@ -19066,7 +19066,7 @@
             ],
             "index": 202,
             "name": "giga-drain",
-            "power": 75,
+            "power": 60,
             "pp": 10,
             "template": "drain-half",
             "type": "grass"
