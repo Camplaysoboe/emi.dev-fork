@@ -18289,7 +18289,7 @@
             "type": "normal"
         },
         {
-            "accuracy": 70,
+            "accuracy": 100,
             "extra": [
                 "30% chance to poison opponent"
             ],
@@ -19149,11 +19149,11 @@
         {
             "accuracy": 100,
             "extra": [
-                "Has an increased critical hit rate"
+                "always hits"
             ],
             "index": 75,
             "name": "razor-leaf",
-            "power": 60,
+            "power": 55,
             "pp": 25,
             "type": "grass"
         },
@@ -19225,7 +19225,7 @@
         {
             "accuracy": 100,
             "extra": [
-                "raises the user's speed\nWill instantly thaw the user"
+                "Will instantly thaw the user"
             ],
             "index": 172,
             "name": "flame-wheel",
@@ -20447,7 +20447,7 @@
             "evolutions": [
                 {
                     "into": "palpitoad",
-                    "level": 16,
+                    "level": 25,
                     "method": "level"
                 }
             ],
@@ -20456,50 +20456,30 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "pound"
+                    "move": "tackle"
                 },
                 {
-                    "level": 1,
-                    "move": "withdraw"
+                    "level": 4,
+                    "move": "mud-slap"
                 },
                 {
-                    "level": 5,
-                    "move": "water-gun"
+                    "level": 7,
+                    "move": "bubble"
                 },
                 {
                     "level": 7,
                     "move": "bite"
                 },
                 {
-                    "level": 11,
-                    "move": "body-slam"
+                    "level": 13,
+                    "move": "water-gun"
                 },
                 {
-                    "level": 13,
+                    "level": 23,
                     "move": "bubblebeam"
                 },
                 {
-                    "level": 17,
-                    "move": "protect"
-                },
-                {
-                    "level": 22,
-                    "move": "rapid-spin"
-                },
-                {
-                    "level": 28,
-                    "move": "counter"
-                },
-                {
-                    "level": 30,
-                    "move": "submission"
-                },
-                {
-                    "level": 34,
-                    "move": "skull-bash"
-                },
-                {
-                    "level": 44,
+                    "level": 47,
                     "move": "hydro-pump"
                 }
             ],
@@ -20945,7 +20925,7 @@
             "evolutions": [
                 {
                     "into": "whirlipede",
-                    "level": 14,
+                    "level": 16,
                     "method": "level"
                 }
             ],
@@ -20957,9 +20937,17 @@
                     "move": "poison-sting"
                 },
                 {
-                    "level": 7,
-                    "move": "string-shot"
-                }
+                    "level": 1,
+                    "move": "smog"
+                },
+				{
+					"level": 7,
+					"move": "pin-missile"
+				},
+				{
+					"level": 12,
+					"move": "leech-life"
+				}
             ],
             "name": "venipede",
             "pokedex": 13,
@@ -20982,7 +20970,7 @@
             "evolutions": [
                 {
                     "into": "scolipede",
-                    "level": 30,
+                    "level": 32,
                     "method": "level"
                 }
             ],
@@ -20996,7 +20984,19 @@
                 {
                     "level": 7,
                     "move": "harden"
-                }
+                },
+				{
+					"level": 16,
+					"move": "rollout"
+				},
+				{
+					"level": 20,
+					"move": "sludge"
+				},
+				{
+					"level": 24,
+					"move": "string-shot"
+				}
             ],
             "name": "whirlipede",
             "pokedex": 14,
@@ -21120,7 +21120,7 @@
             "evolutions": [
                 {
                     "into": "tranquill",
-                    "level": 16,
+                    "level": 18,
                     "method": "level"
                 }
             ],
@@ -21129,43 +21129,27 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "gust"
+                    "move": "tackle"
                 },
                 {
                     "level": 5,
                     "move": "sand-attack"
                 },
                 {
-                    "level": 12,
-                    "move": "quick-attack"
+                    "level": 9,
+                    "move": "gust"
                 },
                 {
-                    "level": 14,
-                    "move": "wing-attack"
+                    "level": 15,
+                    "move": "quick-attack"
                 },
                 {
                     "level": 21,
                     "move": "whirlwind"
                 },
                 {
-                    "level": 22,
-                    "move": "drill-peck"
-                },
-                {
-                    "level": 25,
-                    "move": "extremespeed"
-                },
-                {
                     "level": 29,
-                    "move": "steel-wing"
-                },
-                {
-                    "level": 37,
-                    "move": "endure"
-                },
-                {
-                    "level": 47,
-                    "move": "aeroblast"
+                    "move": "wing-attack"
                 }
             ],
             "name": "pidove",
@@ -21210,7 +21194,7 @@
             "evolutions": [
                 {
                     "into": "unfezant",
-                    "level": 27,
+                    "level": 36,
                     "method": "level"
                 }
             ],
@@ -21219,43 +21203,27 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "gust"
+                    "move": "tackle"
                 },
                 {
-                    "level": 5,
-                    "move": "sand-attack"
+                    "level": 1,
+                    "move": "gust"
                 },
                 {
                     "level": 12,
                     "move": "quick-attack"
                 },
                 {
-                    "level": 16,
+                    "level": 18,
                     "move": "wing-attack"
                 },
                 {
-                    "level": 21,
-                    "move": "whirlwind"
-                },
-                {
                     "level": 22,
-                    "move": "drill-peck"
-                },
-                {
-                    "level": 25,
-                    "move": "extremespeed"
-                },
-                {
-                    "level": 29,
                     "move": "steel-wing"
                 },
                 {
-                    "level": 37,
-                    "move": "endure"
-                },
-                {
-                    "level": 47,
-                    "move": "aeroblast"
+                    "level": 33,
+                    "move": "drill-peck"
                 }
             ],
             "name": "tranquill",
@@ -23484,11 +23452,6 @@
                     "into": "vanilluxe",
                     "level": 47,
                     "method": "level"
-                },
-                {
-                    "into": "bellossom",
-                    "item": "leaf-stone",
-                    "method": "item"
                 }
             ],
             "gender": "f50",
@@ -25628,15 +25591,15 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "vine-whip"
+                    "move": "razor-leaf"
                 },
                 {
-                    "level": 1,
-                    "move": "acid"
+                    "level": 6,
+                    "move": "leech-life"
                 },
                 {
                     "level": 11,
-                    "move": "wrap"
+                    "move": "stun-spore"
                 },
                 {
                     "level": 15,
@@ -25647,24 +25610,8 @@
                     "move": "poisonpowder"
                 },
                 {
-                    "level": 19,
-                    "move": "stun-spore"
-                },
-                {
                     "level": 23,
-                    "move": "sweet-scent"
-                },
-                {
-                    "level": 30,
-                    "move": "giga-drain"
-                },
-                {
-                    "level": 37,
-                    "move": "razor-leaf"
-                },
-                {
-                    "level": 45,
-                    "move": "sludge-bomb"
+                    "move": "acid"
                 }
             ],
             "name": "sewaddle",
@@ -25708,7 +25655,7 @@
             "evolutions": [
                 {
                     "into": "leavanny",
-                    "level": 31,
+                    "level": 32,
                     "method": "level"
                 }
             ],
@@ -25717,15 +25664,7 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "vine-whip"
-                },
-                {
-                    "level": 1,
-                    "move": "acid"
-                },
-                {
-                    "level": 11,
-                    "move": "wrap"
+                    "move": "string-shot"
                 },
                 {
                     "level": 15,
@@ -25741,23 +25680,7 @@
                 },
                 {
                     "level": 24,
-                    "move": "acid"
-                },
-                {
-                    "level": 33,
-                    "move": "giga-drain"
-                },
-                {
-                    "level": 42,
-                    "move": "razor-leaf"
-                },
-                {
-                    "level": 54,
-                    "move": "sludge-bomb"
-                },
-                {
-                    "level": 66,
-                    "move": "solarbeam"
+                    "move": "synthesis"
                 }
             ],
             "name": "swadloon",
@@ -29603,27 +29526,23 @@
             "learnset": [
                 {
                     "level": 1,
+                    "move": "pound"
+                },
+                {
+                    "level": 9,
                     "move": "doubleslap"
                 },
                 {
-                    "level": 13,
-                    "move": "softboiled"
+                    "level": 16,
+                    "move": "sing"
                 },
                 {
-                    "level": 23,
-                    "move": "minimize"
-                },
-                {
-                    "level": 29,
-                    "move": "lovely-kiss"
+                    "level": 20,
+                    "move": "take-down"
                 },
                 {
                     "level": 35,
                     "move": "egg-bomb"
-                },
-                {
-                    "level": 57,
-                    "move": "heal-bell"
                 }
             ],
             "name": "audino",
@@ -30606,37 +30525,33 @@
                     "move": "quick-attack"
                 },
                 {
-                    "level": 7,
-                    "move": "leer"
-                },
-                {
-                    "level": 13,
-                    "move": "thunderpunch"
-                },
-                {
-                    "level": 19,
-                    "move": "ice-punch"
-                },
-                {
                     "level": 25,
-                    "move": "swift"
+                    "move": "flame-wheel"
+                },
+                {
+                    "level": 36,
+                    "move": "screech"
+                },
+                {
+                    "level": 47,
+                    "move": "thunderbolt"
+                },
+                {
+                    "level": 58,
+                    "move": "thunder"
                 },
                 {
                     "level": 31,
                     "move": "screech"
                 },
                 {
-                    "level": 37,
+                    "level": 47,
                     "move": "thunderbolt"
                 },
                 {
-                    "level": 43,
+                    "level": 58,
                     "move": "thunder"
-                },
-	  	{
-		    "level": 49,
-		    "move": "cross-chop"
-		}
+                }
             ],
             "name": "zebstrika",
             "pokedex": 125,
@@ -30945,13 +30860,21 @@
                     "move": "splash"
                 },
                 {
-                    "level": 15,
-                    "move": "tackle"
+                    "level": 2,
+                    "move": "string-shot"
                 },
                 {
-                    "level": 30,
-                    "move": "flail"
-                }
+                    "level": 6,
+                    "move": "ember"
+                },
+				{
+					"level": 15,
+					"move": "take-down"
+				},
+				{
+					level": 25,
+					"move": "flame-wheel"
+				}
             ],
             "name": "larvesta",
             "pokedex": 129,
@@ -34767,51 +34690,27 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "peck"
+                    "move": "gust"
                 },
                 {
-                    "level": 4,
-                    "move": "leer"
+                    "level": 1,
+                    "move": "confusion"
                 },
                 {
-                    "level": 11,
-                    "move": "psybeam"
-                },
-                {
-                    "level": 14,
-                    "move": "faint-attack"
-                },
-                {
-                    "level": 15,
+                    "level": 10,
                     "move": "night-shade"
                 },
                 {
-                    "level": 19,
-                    "move": "wing-attack"
+                    "level": 12,
+                    "move": "hypnosis"
                 },
                 {
-                    "level": 30,
-                    "move": "future-sight"
-                },
-                {
-                    "level": 36,
+                    "level": 12,
                     "move": "confuse-ray"
                 },
                 {
-                    "level": 42,
-                    "move": "psychic"
-                },
-                {
-                    "level": 48,
-                    "move": "drill-peck"
-                },
-                {
-                    "level": 50,
-                    "move": "giga-drain"
-                },
-                {
-                    "level": 66,
-                    "move": "thief"
+                    "level": 20,
+                    "move": "wing-attack"
                 }
             ],
             "name": "woobat",
@@ -34862,55 +34761,27 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "peck"
+                    "move": "confusion"
                 },
                 {
-                    "level": 4,
-                    "move": "leer"
-                },
-                {
-                    "level": 11,
-                    "move": "psybeam"
-                },
-                {
-                    "level": 14,
-                    "move": "faint-attack"
-                },
-                {
-                    "level": 15,
+                    "level": 10,
                     "move": "night-shade"
                 },
                 {
-                    "level": 23,
-                    "move": "wing-attack"
+                    "level": 22,
+                    "move": "psybeam"
                 },
                 {
-                    "level": 30,
+                    "level": 35,
                     "move": "future-sight"
                 },
                 {
-                    "level": 36,
+                    "level": 50,
                     "move": "confuse-ray"
                 },
                 {
-                    "level": 42,
+                    "level": 65,
                     "move": "psychic"
-                },
-                {
-                    "level": 48,
-                    "move": "drill-peck"
-                },
-                {
-                    "level": 50,
-                    "move": "giga-drain"
-                },
-                {
-                    "level": 57,
-                    "move": "ancientpower"
-                },
-                {
-                    "level": 66,
-                    "move": "thief"
                 }
             ],
             "name": "swoobat",
@@ -39102,12 +38973,12 @@
             "name": "sigilyph",
             "pokedex": 226,
             "stats": {
-                "atk": 40,
-                "def": 70,
-                "hp": 85,
-                "spa": 80,
-                "spd": 140,
-                "spe": 70
+                "atk": 58,
+                "def": 80,
+                "hp": 72,
+                "spa": 103,
+                "spd": 80,
+                "spe": 97
             },
             "tmhm": [
                 "headbutt",
@@ -39467,7 +39338,7 @@
             "evolutions": [
                 {
                     "into": "excadrill",
-                    "level": 22,
+                    "level": 40,
                     "method": "level"
                 }
             ],
@@ -39476,47 +39347,35 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "rock-throw"
+                    "move": "tackle"
                 },
                 {
                     "level": 1,
-                    "move": "growl"
+                    "move": "mud-slap"
                 },
                 {
                     "level": 9,
-                    "move": "defense-curl"
+                    "move": "rock-throw"
                 },
                 {
-                    "level": 11,
-                    "move": "headbutt"
-                },
-                {
-                    "level": 17,
-                    "move": "rollout"
-                },
-                {
-                    "level": 24,
+                    "level": 14,
                     "move": "dig"
                 },
                 {
+                    "level": 18,
+                    "move": "slash"
+                },
+                {
+                    "level": 20,
+                    "move": "metal-claw"
+                },
+                {
                     "level": 33,
-                    "move": "sweet-kiss"
+                    "move": "rock-slide"
                 },
                 {
                     "level": 41,
                     "move": "earthquake"
-                },
-                {
-                    "level": 45,
-                    "move": "rapid-spin"
-                },
-                {
-                    "level": 49,
-                    "move": "endure"
-                },
-                {
-                    "level": 51,
-                    "move": "rock-slide"
                 }
             ],
             "name": "drilbur",
@@ -40121,7 +39980,7 @@
             "evolutions": [
                 {
                     "into": "zebstrika",
-                    "level": 28,
+                    "level": 25,
                     "method": "level"
                 }
             ],
@@ -40133,37 +39992,29 @@
                     "move": "quick-attack"
                 },
                 {
-                    "level": 7,
-                    "move": "leer"
+                    "level": 1,
+                    "move": "double-kick"
                 },
                 {
-                    "level": 13,
-                    "move": "thunderpunch"
+                    "level": 9,
+                    "move": "spark"
                 },
                 {
-                    "level": 19,
-                    "move": "ice-punch"
+                    "level": 15,
+                    "move": "stomp"
                 },
                 {
-                    "level": 25,
+                    "level": 20,
                     "move": "swift"
                 },
                 {
-                    "level": 31,
-                    "move": "screech"
-                },
-                {
-                    "level": 37,
+                    "level": 41,
                     "move": "thunderbolt"
                 },
                 {
-                    "level": 43,
+                    "level": 49,
                     "move": "thunder"
-                },
-	  	{
-		    "level": 49,
-		    "move": "cross-chop"
-		}
+                }
             ],
             "name": "blitzle",
             "pokedex": 239,
