@@ -18283,7 +18283,7 @@
             ],
             "index": 3,
             "name": "doubleslap",
-            "power": 15,
+            "power": 25,
             "pp": 10,
             "template": "multi-hit",
             "type": "normal"
@@ -41790,7 +41790,7 @@
           ]
         },
         {
-          "name": "tranquill",
+          "name": "rufflet",
                     "dvs": {
                         "atk": 15,
                         "def": 15,
@@ -41802,9 +41802,9 @@
           "level": 16,
           "item": "berry",
           "moves": [
-            "fly",
+            "rock-smash",
             "quick-attack",
-            "steel-wing",
+            "swift",
             "wing-attack"
           ]
         },
@@ -41823,7 +41823,8 @@
           "moves": [
             "rock-throw",
             "wing-attack",
-	    "magnitude"
+	    "mud-slap",
+	    "steel-wing"
           ]
         },
         {
@@ -41873,7 +41874,7 @@
                         "spe": 15
                     },
           "level": 14,
-          "item": "chesto-berry",
+          "item": "mint-berry",
           "moves": [
             "confusion",
             "hypnosis",
@@ -43217,6 +43218,77 @@
     },
     {
       "area": "Azalea Gym",
+      "name": "leader-cheren",
+      "team": [
+        {
+          "name": "cinccino",
+          "level": 23,
+          "item": "miracleberry",
+          "moves": [
+            "doubleslap",
+            "attract",
+            "bubblebeam",
+            "thunderbolt"
+          ]
+        },
+        {
+          "name": "liepard",
+          "level": 24,
+          "item": "miracleberry",
+          "moves": [
+            "bite",
+            "slash",
+            "shadow-ball",
+            "thunder-wave"
+          ]
+        },
+        {
+          "name": "fraxure",
+          "level": 23,
+          "item": "leftovers",
+          "moves": [
+            "dragonbreath",
+            "sludge",
+            "fire-punch",
+            "headbutt"
+          ]
+        },
+        {
+          "name": "bouffalant",
+          "level": 23,
+          "item": "berry",
+          "moves": [
+            "skull-bash",
+            "mud-slap"
+          ]
+        },
+        {
+          "name": "watchog",
+          "level": 25,
+          "item": "miracleberry",
+          "moves": [
+            "crunch",
+            "hyper-fang",
+            "iron-tail",
+            "hypnosis"
+          ]
+        },
+        {
+          "name": "tranquill",
+          "level": 24,
+          "item": "sharp-beak",
+          "moves": [
+            "wing-attack",
+            "quick-attack",
+            "steel-wing",
+            "tri-attack"
+          ]
+        }
+      ]
+    },
+    {
+
+      "area": "Azalea Gym",
       "name": "leader-bugsy",
       "team": [
         {
@@ -44148,69 +44220,67 @@
       "name": "leader-whitney",
       "team": [
         {
-          "name": "escavalier",
-          "level": 27,
-          "item": "quick-claw",
+          "name": "cinccino",
+          "level": 23,
+          "item": "miracleberry",
           "moves": [
-            "metal-claw",
-            "wing-attack",
-            "cut",
-            "mach-punch"
+            "doubleslap",
+            "attract",
+            "bubblebeam",
+            "thunderbolt"
           ]
         },
         {
-          "name": "magcargo",
-          "level": 27,
+          "name": "liepard",
+          "level": 24,
+          "item": "miracleberry",
+          "moves": [
+            "bite",
+            "slash",
+            "shadow-ball",
+            "thunder-wave"
+          ]
+        },
+        {
+          "name": "fraxure",
+          "level": 23,
           "item": "leftovers",
           "moves": [
-            "flame-wheel",
-            "recover",
-            "rock-slide",
-            "giga-drain"
+            "dragonbreath",
+            "sludge",
+            "fire-punch",
+            "headbutt"
           ]
         },
         {
-          "name": "yanma",
-          "level": 27,
-          "item": "miracle-seed",
+          "name": "bouffalant",
+          "level": 23,
+          "item": "berry",
           "moves": [
-            "giga-drain",
-            "psybeam",
-            "dragon-rage",
-            "faint-attack"
+            "skull-bash",
+            "mud-slap"
           ]
         },
         {
-          "name": "parasect",
-          "level": 27,
-          "item": "silverpowder",
+          "name": "watchog",
+          "level": 25,
+          "item": "miracleberry",
           "moves": [
-            "spore",
-            "leech-seed",
-            "leech-life",
-            "sludge-bomb"
+            "crunch",
+            "hyper-fang",
+            "iron-tail",
+            "hypnosis"
           ]
         },
         {
-          "name": "carracosta",
-          "level": 27,
-          "item": "scope-lens",
+          "name": "tranquill",
+          "level": 24,
+          "item": "sharp-beak",
           "moves": [
-            "crabhammer",
-            "fury-cutter",
-            "slash",
-            "karate-chop"
-          ]
-        },
-        {
-          "name": "heracross",
-          "level": 27,
-          "item": "berry-juice",
-          "moves": [
-            "vital-throw",
             "wing-attack",
-            "rock-throw",
-            "fury-cutter"
+            "quick-attack",
+            "steel-wing",
+            "tri-attack"
           ]
         }
       ]
