@@ -833,34 +833,34 @@
                         {
                             "chance": 70,
                             "level": 10,
-                            "pokemon": "cubchoo"
-                        },
-                        {
-                            "chance": 15,
-                            "level": 10,
-                            "pokemon": "horsea"
+                            "pokemon": "tynamo"
                         },
                         {
                             "chance": 15,
                             "level": 10,
                             "pokemon": "ducklett"
+                        },
+                        {
+                            "chance": 15,
+                            "level": 10,
+                            "pokemon": "cubchoo"
                         }
                     ],
                     "night": [
                         {
                             "chance": 70,
                             "level": 10,
+                            "pokemon": "tynamo"
+                        },
+                        {
+                            "chance": 15,
+                            "level": 10,
+                            "pokemon": "ducklett"
+                        },
+                        {
+                            "chance": 15,
+                            "level": 10,
                             "pokemon": "cubchoo"
-                        },
-                        {
-                            "chance": 15,
-                            "level": 10,
-                            "pokemon": "horsea"
-                        },
-                        {
-                            "chance": 15,
-                            "level": 10,
-                            "pokemon": "basculin"
                         }
                     ]
                 },
