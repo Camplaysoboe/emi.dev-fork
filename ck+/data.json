@@ -2880,15 +2880,15 @@
                     "type": "surfing"
                 },
                 {
-                    "pool": "fishing.pond.old",
+                    "pool": "fishing.lake.old",
                     "type": "old-rod"
                 },
                 {
-                    "pool": "fishing.pond.good",
+                    "pool": "fishing.lake.good",
                     "type": "good-rod"
                 },
                 {
-                    "pool": "fishing.pond.super",
+                    "pool": "fishing.lake.super",
                     "type": "super-rod"
                 }
             ]
