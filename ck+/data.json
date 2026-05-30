@@ -703,34 +703,34 @@
                         {
                             "chance": 70,
                             "level": 10,
-                            "pokemon": "ducklett"
+                            "pokemon": "cubchoo"
                         },
                         {
                             "chance": 15,
-                            "level": 10,
-                            "pokemon": "trubbish"
-                        },
-                        {
-                            "chance": 15,
-                            "level": 10,
-                            "pokemon": "staryu"
-                        }
-                    ],
-                    "night": [
-                        {
-                            "chance": 70,
                             "level": 10,
                             "pokemon": "basculin"
                         },
                         {
                             "chance": 15,
                             "level": 10,
-                            "pokemon": "trubbish"
+                            "pokemon": "alomomola"
+                        }
+                    ],
+                    "night": [
+                        {
+                            "chance": 70,
+                            "level": 10,
+                            "pokemon": "cubchoo"
                         },
                         {
                             "chance": 15,
                             "level": 10,
-                            "pokemon": "staryu"
+                            "pokemon": "basculin"
+                        },
+                        {
+                            "chance": 15,
+                            "level": 10,
+                            "pokemon": "alomomola"
                         }
                     ]
                 },
@@ -2019,17 +2019,17 @@
                 {
                     "chance": 50,
                     "level": 10,
-                    "pokemon": "tynamo"
-                },
-                {
-                    "chance": 15,
-                    "level": 10,
                     "pokemon": "sewaddle"
                 },
                 {
                     "chance": 15,
                     "level": 10,
-                    "pokemon": "sewaddle"
+                    "pokemon": "dwebble"
+                },
+                {
+                    "chance": 15,
+                    "level": 10,
+                    "pokemon": "dwebble"
                 },
                 {
                     "chance": 10,
@@ -6790,15 +6790,15 @@
                     "type": "surfing"
                 },
                 {
-                    "pool": "fishing.basculin.old",
+                    "pool": "fishing.shore.old",
                     "type": "old-rod"
                 },
                 {
-                    "pool": "fishing.basculin.good",
+                    "pool": "fishing.shore.good",
                     "type": "good-rod"
                 },
                 {
-                    "pool": "fishing.basculin.super",
+                    "pool": "fishing.shore.super",
                     "type": "super-rod"
                 },
                 {
