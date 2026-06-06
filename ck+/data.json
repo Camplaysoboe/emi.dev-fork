@@ -20995,7 +20995,7 @@
 				},
 				{
 					"level": 24,
-					"move": "string-shot"
+					"move": "body-slam"
 				}
             ],
             "name": "whirlipede",
@@ -26022,7 +26022,7 @@
                     "move": "rock-throw"
                 },
                 {
-                    "level": 16,
+                    "level": 14,
                     "move": "magnitude"
                 },
                 {
@@ -41638,7 +41638,8 @@
           "moves": [
             "thundershock",
             "dig",
-            "water-gun"
+            "water-gun",
+			"pursuit"
           ]
         }
       ]
@@ -41667,7 +41668,7 @@
           ]
         },
         {
-          "name": "rufflet",
+          "name": "ducklett",
                     "dvs": {
                         "atk": 15,
                         "def": 15,
@@ -41680,9 +41681,8 @@
           "item": "berry",
           "moves": [
             "wing-attack",
-            "rock-smash",
-            "mud-slap",
-            "quick-attack"
+            "bubblebeam",
+            "aurora-beam"
           ]
         },
         {
@@ -41804,7 +41804,6 @@
           "moves": [
             "rock-smash",
             "quick-attack",
-            "swift",
             "wing-attack"
           ]
         },
@@ -42972,7 +42971,7 @@
       "name": "twins-amy-may",
       "team": [
         {
-          "name": "pawniard",
+          "name": "larvesta",
                     "dvs": {
                         "atk": 15,
                         "def": 15,
@@ -42984,14 +42983,14 @@
           "level": 23,
           "item": "berry-juice",
           "moves": [
-            "metal-claw",
-            "faint-attack",
-            "slash",
-            "fury-cutter"
+            "flamethrower",
+            "spark",
+            "double-edge",
+            "leech-life"
           ]
         },
         {
-          "name": "whirlipede",
+          "name": "carracosta",
                     "dvs": {
                         "atk": 15,
                         "def": 15,
@@ -43001,11 +43000,11 @@
                         "spe": 15
                     },
           "level": 23,
-          "item": "poison-barb",
+          "item": "mystic-water",
           "moves": [
-            "sludge",
-            "rock-slide",
-            "double-edge",
+            "bubblebeam",
+            "ancientpower",
+            "mud-slap",
             "toxic"
           ]
         },
@@ -43130,7 +43129,8 @@
           "moves": [
             "mud-slap",
             "spark",
-            "faint-attack"
+            "faint-attack",
+			"toxic"
           ]
         },
         {
@@ -43146,7 +43146,7 @@
           "level": 24,
           "item": "mint-berry",
           "moves": [
-            "rest",
+            "toxic",
             "faint-attack",
             "wing-attack",
             "confuse-ray"
@@ -43159,7 +43159,7 @@
       "name": "bug-catcher-benny",
       "team": [
         {
-          "name": "scolipede",
+          "name": "stoutland",
                     "dvs": {
                         "atk": 15,
                         "def": 15,
@@ -43171,14 +43171,14 @@
           "level": 23,
           "item": "miracleberry",
           "moves": [
-            "sludge",
-            "metal-claw",
-            "horn-attack",
-            "leech-life"
+            "headbutt",
+            "spark",
+            "flame-wheel",
+            "crunch"
           ]
         },
         {
-          "name": "ferroseed",
+          "name": "zebstrika",
                     "dvs": {
                         "atk": 15,
                         "def": 15,
@@ -43188,12 +43188,12 @@
                         "spe": 15
                     },
           "level": 24,
-          "item": "quick-claw",
+          "item": "berry",
           "moves": [
-            "selfdestruct",
-            "metal-claw",
-            "giga-drain",
-            "pin-missile"
+            "spark",
+            "thunder-wave",
+            "flame-wheel",
+            "low-kick"
           ]
         },
         {
