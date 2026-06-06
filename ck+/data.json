@@ -18829,7 +18829,7 @@
             ],
             "index": 130,
             "name": "skull-bash",
-            "power": 150,
+            "power": 100,
             "pp": 15,
             "type": "normal"
         },
