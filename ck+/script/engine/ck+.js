@@ -4,8 +4,8 @@ var specialBadges = 6;
 var speedBadges = 3;
 var badgeTypes = new Map([
 	["flying", 1],
-	["bug", 2],
-	["normal", 3],
+	["normal", 2],
+	["bug", 3],
 	["ghost", 4],
 	["fighting", 5],
 	["ice", 6],
