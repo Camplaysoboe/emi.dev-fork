@@ -41696,7 +41696,7 @@
     },
     {
       "area": "Route 32",
-      "name": "Fisher-Justin",
+      "name": "fisher-justin",
       "b2b": true,
       "team": [
         {
@@ -42470,7 +42470,7 @@
     {
 
       "area": "Route 34",
-      "name": "Cooltrainerf Irene",
+      "name": "cooltrainerf-irene",
       "team": [
         {
           "name": "swanna",
@@ -42511,7 +42511,7 @@
 
       "area": "Route 34",
       "b2b": true,
-      "name": "Cooltrainerf Jenn",
+      "name": "cooltrainerf-jenn",
       "team": [
         {
           "name": "pignite",
@@ -42552,7 +42552,7 @@
 
       "area": "Route 34",
       "b2b": true,
-      "name": "Cooltrainerf Kate",
+      "name": "cooltrainerf-kate",
       "team": [
         {
           "name": "emolga",
@@ -42589,7 +42589,7 @@
     {
 
       "area": "Route 34",
-      "name": "Picnicker Gina",
+      "name": "picnicker-gina",
       "team": [
         {
           "name": "zebstrika",
@@ -42628,7 +42628,7 @@
     {
 
       "area": "Route 34",
-      "name": "Youngster Samuel",
+      "name": "youngster-samuel",
       "team": [
         {
           "name": "krokorok",
@@ -42667,7 +42667,7 @@
 
       "area": "Route 34",
       "b2b": true, 
-      "name": "Pokefanm Brandon",
+      "name": "pokefanm-brandon",
       "team": [
         {
           "name": "mienshao",
@@ -42706,7 +42706,7 @@
     {
 
       "area": "Route 34",
-      "name": "Youngster Ian",
+      "name": "youngster-ian",
       "team": [
         {
           "name": "amoonguss",
@@ -42746,7 +42746,7 @@
     {
 
       "area": "Route 34",
-      "name": "Officer Keith",
+      "name": "officer-keith",
       "team": [
         {
           "name": "stoutland",
@@ -42786,7 +42786,7 @@
     {
 
       "area": "Route 34",
-      "name": "Camper Todd",
+      "name": "camper-todd",
       "team": [
         {
           "name": "maractus",
@@ -42826,7 +42826,7 @@
     {
 
       "area": "Goldenrod entrance",
-      "name": "Supernerd Eric",
+      "name": "supernerd-eric",
       "team": [
         {
           "name": "garbodor",
@@ -42866,7 +42866,7 @@
     {
 
       "area": "Goldenrod entrance",
-      "name": "Supernerd Teru",
+      "name": "supernerd-teru",
       "team": [
         {
           "name": "simisear",
@@ -42907,7 +42907,7 @@
 
       "area": "Goldenrod entrance",
       "b2b": true,
-      "name": "Pokemaniac Issac",
+      "name": "pokemaniac-issac",
       "meta": "challenge as b2b for a nugget",
       "team": [
         {
@@ -42935,7 +42935,7 @@
     {
 
       "area": "Goldenrod entrance",
-      "name": "Pokemaniac Donald",
+      "name": "pokemaniac-donald",
       "team": [
         {
           "name": "excadrill",
@@ -42973,7 +42973,7 @@
     {
 
       "area": "Goldenrod Gym",
-      "name": "Beauty Samantha",
+      "name": "beauty-samantha",
       "meta": "Start Gauntlet",
       "team": [
         {
@@ -43034,7 +43034,7 @@
     {
 
       "area": "Goldenrod Gym",
-      "name": "Lass Carrie",
+      "name": "lass-carrie",
       "team": [
         {
           "name": "zoroark",
@@ -43072,7 +43072,7 @@
     {
 
       "area": "Goldenrod Gym",
-      "name": "Beauty Victoria",
+      "name": "beauty-victoria",
       "team": [
         {
           "name": "cryogonal",
@@ -43119,7 +43119,7 @@
     {
 
       "area": "Goldenrod Gym",
-      "name": "Lass Bridget",
+      "name": "lass-bridget",
       "meta": "End Gauntlet",
       "team": [
         {
@@ -43160,7 +43160,7 @@
     {
 
       "area": "Goldenrod Gym",
-      "name": "Leader Burgh",
+      "name": "leader-burgh",
       "team": [
         {
           "name": "galvantula",
@@ -43187,7 +43187,7 @@
         {
           "name": "bisharp",
 	  "level": 30,
-	  "item": "black-glasses",
+	  "item": "blackglasses",
 	  "moves": [
 	    "faint-attack",
 	    "metal-claw",
