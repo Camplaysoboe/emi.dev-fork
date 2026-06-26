@@ -7121,7 +7121,7 @@
                             {
                                 "chance": 20,
                                 "level": 12,
-                                "pokemon": "darmanitan"
+                                "pokemon": "darumaka"
                             },
                             {
                                 "chance": 10,
@@ -14337,11 +14337,11 @@
         },
         {
             "description": "Cures poison",
-            "name": "pecha-berry"
+            "name": "psncureberry"
         },
         {
             "description": "Cures sleep",
-            "name": "chesto-berry"
+            "name": "mint-berry"
         },
         {
             "description": "Grants pokemon a share of exp",
@@ -14349,11 +14349,11 @@
         },
         {
             "description": "Cures confusion",
-            "name": "persim-berry"
+            "name": "bitter-berry"
         },
         {
             "description": "Cures paralysis",
-            "name": "cheri-berry"
+            "name": "przcureberry"
         },
         {
             "description": "Increases the damage of grass type moves by 10%",
@@ -14393,7 +14393,7 @@
         },
         {
             "description": "Restores 30hp upon falling under 50% hp",
-            "name": "sitrus-berry"
+            "name": "gold-berry"
         },
         {
             "description": "Increases the damage of fire type moves by 10%",
@@ -14429,7 +14429,7 @@
         },
         {
             "description": "Cures freeze",
-            "name": "aspear-berry"
+            "name": "burnt-berry"
         },
         {
             "description": "If used while fishing 3x catch rate. Otherwise 1x",
@@ -14529,7 +14529,7 @@
         },
         {
             "description": "Cures burns",
-            "name": "rawst-berry"
+            "name": "ice-berry"
         },
         {
             "description": "Increases the damage of electric type moves by 10% ",
@@ -14577,7 +14577,7 @@
         },
         {
             "description": "Cures all status conditions",
-            "name": "lum-berry"
+            "name": "miracleberry"
         },
         {
             "description": "Can be traded with mr pokemon on route 30 for Exp Share",
@@ -14721,7 +14721,7 @@
         },
         {
             "description": "Restores 5pp to a move upon running out of pp",
-            "name": "leppa-berry"
+            "name": "mysteryberry"
         },
         {
             "description": "Sells high",
@@ -14828,7 +14828,7 @@
         },
         {
             "description": "Cures all status conditions",
-            "name": "lum-berry"
+            "name": "miracleberry"
         },
         {
             "description": "When given to a pokemon it restores 100hp out of battle, also heals Amphy",
@@ -14963,12 +14963,12 @@
                 {
                     "amount": "17-21",
                     "info": "tree by Mr Pokemon's house",
-                    "item": "pecha-berry"
+                    "item": "psncureberry"
                 },
                 {
                     "amount": "17-21",
                     "info": "tree by house in south",
-                    "item": "chesto-berry"
+                    "item": "mint-berry"
                 },
                 {
                     "amount": "1",
@@ -14994,7 +14994,7 @@
                 {
                     "amount": "17-21",
                     "info": "tree by Dark Cave",
-                    "item": "persim-berry"
+                    "item": "bitter-berry"
                 },
                 {
                     "amount": "1",
@@ -15020,7 +15020,7 @@
                 {
                     "amount": "17-21",
                     "info": "tree in south west",
-                    "item": "cheri-berry"
+                    "item": "przcureberry"
                 },
                 {
                     "amount": "1",
@@ -15102,12 +15102,12 @@
                 {
                     "amount": "1",
                     "info": "obtained in the archen Puzzle room while holding a water stone",
-                    "item": "leppa-berry"
+                    "item": "mysteryberry"
                 },
                 {
                     "amount": "1",
                     "info": "obtained in the Aerodactyl Puzzle room after using Flash",
-                    "item": "sitrus-berry"
+                    "item": "gold-berry"
                 },
                 {
                     "amount": "1",
@@ -15153,7 +15153,7 @@
                 {
                     "amount": "17-21",
                     "info": "tree by union cave entrance",
-                    "item": "pecha-berry"
+                    "item": "psncureberry"
                 }
             ],
             "locations": [
@@ -15179,7 +15179,7 @@
                 {
                     "amount": "17-21",
                     "info": "tree by Kurt's house",
-                    "item": "aspear-berry"
+                    "item": "burnt-berry"
                 },
                 {
                     "amount": "1",
@@ -15491,7 +15491,7 @@
                 {
                     "amount": "17-21",
                     "info": "tree by national-park entrance",
-                    "item": "rawst-berry"
+                    "item": "ice-berry"
                 }
             ],
             "locations": [
@@ -15517,7 +15517,7 @@
                 {
                     "amount": "17-21",
                     "info": "tree in the middle path",
-                    "item": "leppa-berry"
+                    "item": "mysteryberry"
                 },
                 {
                     "amount": "17-21",
@@ -15806,7 +15806,7 @@
                 {
                     "amount": "17-21",
                     "info": "tree behind the cut tree, requires surf",
-                    "item": "lum-berry"
+                    "item": "miracleberry"
                 }
             ],
             "locations": [
@@ -15879,7 +15879,7 @@
                 {
                     "amount": "renewable",
                     "info": "Tree to the right of the first B2B",
-                    "item": "sitrus-berry"
+                    "item": "gold-berry"
                 }
             ],
             "locations": [
@@ -22602,7 +22602,7 @@
             "items": [
                 {
                     "chance": 0.23000000000000001,
-                    "item": "leppa-berry"
+                    "item": "mysteryberry"
                 }
             ],
             "learnset": [
@@ -22692,7 +22692,7 @@
             "items": [
                 {
                     "chance": 0.23000000000000001,
-                    "item": "leppa-berry"
+                    "item": "mysteryberry"
                 }
             ],
             "learnset": [
@@ -22782,7 +22782,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "aspear-berry"
+                    "item": "burnt-berry"
                 }
             ],
             "learnset": [
@@ -22881,7 +22881,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "aspear-berry"
+                    "item": "burnt-berry"
                 }
             ],
             "learnset": [
@@ -24613,7 +24613,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "aspear-berry"
+                    "item": "burnt-berry"
                 }
             ],
             "learnset": [
@@ -24702,7 +24702,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "aspear-berry"
+                    "item": "burnt-berry"
                 }
             ],
             "learnset": [
@@ -30261,7 +30261,7 @@
             "items": [
                 {
                     "chance": 0.0200000000000000004,
-                    "item": "leppa-berry"
+                    "item": "mysteryberry"
                 }
             ],
             "learnset": [
@@ -30451,7 +30451,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "rawst-berry"
+                    "item": "ice-berry"
                 }
             ],
             "learnset": [
@@ -30605,7 +30605,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "aspear-berry"
+                    "item": "burnt-berry"
                 }
             ],
             "learnset": [
@@ -31093,8 +31093,40 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "transform"
-                }
+                    "move": "powder-snow"
+                },
+		{
+		    "level": 4,
+	            "move": "confuse-ray"
+		},
+		{
+		    "level": 12,
+	            "move": "icy-wind"
+		},
+		{
+		    "level": 20,
+	            "move": "rock-slide"
+		},
+		{
+		    "level": 24,
+	            "move": "aurora-beam"
+		},
+		{
+		    "level": 32,
+	            "move": "crunch"
+		},
+		{
+		    "level": 40,
+	            "move": "ice-beam"
+		},
+		{
+		    "level": 48,
+	            "move": "blizzard"
+		},
+		{
+		    "level": 60,
+	            "move": "recover"
+		}
             ],
             "name": "cryogonal",
             "pokedex": 132,
@@ -31582,7 +31614,7 @@
             "evolutions": [
                 {
                     "into": "archeops",
-                    "level": 38,
+                    "level": 50,
                     "method": "level"
                 }
             ],
@@ -31591,47 +31623,35 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "bubble"
+                    "move": "wing-attack"
                 },
                 {
                     "level": 1,
-                    "move": "harden"
+                    "move": "quick-attack"
                 },
                 {
-                    "level": 9,
-                    "move": "aurora-beam"
+                    "level": 13,
+                    "move": "rock-throw"
                 },
                 {
-                    "level": 11,
-                    "move": "bubblebeam"
+                    "level": 19,
+                    "move": "bite"
                 },
                 {
-                    "level": 14,
-                    "move": "rock-slide"
-                },
-                {
-                    "level": 22,
-                    "move": "crunch"
-                },
-                {
-                    "level": 28,
-                    "move": "protect"
+                    "level": 31,
+                    "move": "mud-slap"
                 },
                 {
                     "level": 37,
-                    "move": "giga-drain"
+                    "move": "rock-slide"
                 },
                 {
-                    "level": 46,
-                    "move": "ice-beam"
+                    "level": 49,
+                    "move": "earthquake"
                 },
                 {
                     "level": 55,
-                    "move": "ancientpower"
-                },
-                {
-                    "level": 62,
-                    "move": "spikes"
+                    "move": "dragonbreath"
                 }
             ],
             "name": "archen",
@@ -32026,7 +32046,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "lum-berry"
+                    "item": "miracleberry"
                 }
             ],
             "learnset": [
@@ -32657,7 +32677,7 @@
             "items": [
                 {
                     "chance": 0.0200000000000000004,
-                    "item": "lum-berry"
+                    "item": "miracleberry"
                 }
             ],
             "learnset": [
@@ -32822,7 +32842,7 @@
             "evolutions": [
                 {
                     "into": "serperior",
-                    "level": 32,
+                    "level": 36,
                     "method": "level"
                 }
             ],
@@ -33019,7 +33039,7 @@
             "evolutions": [
                 {
                     "into": "emboar",
-                    "level": 32,
+                    "level": 36,
                     "method": "level"
                 }
             ],
@@ -33247,7 +33267,7 @@
             "evolutions": [
                 {
                     "into": "samurott",
-                    "level": 32,
+                    "level": 36,
                     "method": "level"
                 }
             ],
@@ -34329,7 +34349,7 @@
             "items": [
                 {
                     "chance": 0.23000000000000001,
-                    "item": "leppa-berry"
+                    "item": "mysteryberry"
                 }
             ],
             "learnset": [
@@ -39905,7 +39925,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "rawst-berry"
+                    "item": "ice-berry"
                 }
             ],
             "learnset": [
@@ -40071,7 +40091,7 @@
             "items": [
                 {
                     "chance": 0.25,
-                    "item": "aspear-berry"
+                    "item": "burnt-berry"
                 }
             ],
             "learnset": [
@@ -40935,7 +40955,7 @@
             "items": [
                 {
                     "chance": 0.0200000000000000004,
-                    "item": "lum-berry"
+                    "item": "miracleberry"
                 }
             ],
             "learnset": [
@@ -42654,7 +42674,7 @@
         {
           "name": "throh",
           "level": 26,
-          "item": "black-belt",
+          "item": "blackbelt",
           "moves": [
             "vital-throw",
             "seismic-toss",
