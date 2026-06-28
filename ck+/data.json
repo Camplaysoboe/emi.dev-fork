@@ -20447,7 +20447,7 @@
             "evolutions": [
                 {
                     "into": "palpitoad",
-                    "level": 25,
+                    "level": 22,
                     "method": "level"
                 }
             ],
@@ -20467,15 +20467,11 @@
                     "move": "bubble"
                 },
                 {
-                    "level": 7,
-                    "move": "bite"
-                },
-                {
                     "level": 13,
                     "move": "water-gun"
                 },
                 {
-                    "level": 23,
+                    "level": 21,
                     "move": "bubblebeam"
                 },
                 {
@@ -20541,50 +20537,26 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "pound"
+                    "move": "tackle"
                 },
                 {
-                    "level": 1,
-                    "move": "withdraw"
+                    "level": 23,
+                    "move": "magnitude"
                 },
                 {
-                    "level": 5,
-                    "move": "water-gun"
+                    "level": 28,
+                    "move": "aurora-beam"
                 },
                 {
-                    "level": 7,
-                    "move": "bite"
+                    "level": 30,
+                    "move": "sludge"
                 },
                 {
-                    "level": 11,
-                    "move": "body-slam"
+                    "level": 45,
+                    "move": "screech"
                 },
                 {
-                    "level": 13,
-                    "move": "bubblebeam"
-                },
-                {
-                    "level": 17,
-                    "move": "protect"
-                },
-                {
-                    "level": 27,
-                    "move": "rapid-spin"
-                },
-                {
-                    "level": 34,
-                    "move": "counter"
-                },
-                {
-                    "level": 38,
-                    "move": "submission"
-                },
-                {
-                    "level": 44,
-                    "move": "skull-bash"
-                },
-                {
-                    "level": 54,
+                    "level": 53,
                     "move": "hydro-pump"
                 }
             ],
@@ -20640,63 +20612,19 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "pound"
+                    "move": "tackle"
                 },
                 {
-                    "level": 1,
-                    "move": "withdraw"
-                },
-                {
-                    "level": 5,
-                    "move": "water-gun"
-                },
-                {
-                    "level": 7,
-                    "move": "bite"
-                },
-                {
-                    "level": 11,
-                    "move": "body-slam"
-                },
-                {
-                    "level": 13,
-                    "move": "bubblebeam"
-                },
-                {
-                    "level": 20,
-                    "move": "protect"
-                },
-                {
-                    "level": 27,
-                    "move": "rapid-spin"
-                },
-                {
-                    "level": 34,
-                    "move": "counter"
-                },
-                {
-                    "level": 36,
-                    "move": "mirror-coat"
-                },
-		{
-		    "level": 38,
-		    "move": "ice-beam"
-		},
-                {
-                    "level": 44,
-                    "move": "submission"
-                },
-                {
-                    "level": 54,
-                    "move": "skull-bash"
-                },
-                {
-                    "level": 60,
+                    "level": 40,
                     "move": "earthquake"
                 },
                 {
-                    "level": 64,
-                    "move": "hydro-pump"
+                    "level": 44,
+                    "move": "ice-punch"
+                },
+                {
+                    "level": 56,
+                    "move": "submission"
                 }
             ],
             "name": "seismitoad",
@@ -20996,6 +20924,10 @@
 				{
 					"level": 24,
 					"move": "body-slam"
+				},
+				{
+					"level": 32,
+					"move": "fury-cutter"
 				}
             ],
             "name": "whirlipede",
@@ -25681,7 +25613,11 @@
                 {
                     "level": 24,
                     "move": "synthesis"
-                }
+                },
+				{
+					"level": 30,
+					"move": "giga-drain"
+				}
             ],
             "name": "swadloon",
             "pokedex": 70,
@@ -25726,51 +25662,23 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "vine-whip"
+                    "move": "petal-dance"
                 },
                 {
                     "level": 1,
-                    "move": "acid"
+                    "move": "fury-cutter"
                 },
                 {
-                    "level": 11,
-                    "move": "wrap"
+                    "level": 1,
+                    "move": "slash"
                 },
                 {
-                    "level": 15,
-                    "move": "sleep-powder"
-                },
-                {
-                    "level": 17,
-                    "move": "poisonpowder"
-                },
-                {
-                    "level": 19,
-                    "move": "stun-spore"
-                },
-                {
-                    "level": 24,
-                    "move": "acid"
-                },
-                {
-                    "level": 33,
-                    "move": "giga-drain"
-                },
-                {
-                    "level": 42,
-                    "move": "razor-leaf"
+                    "level": 40,
+                    "move": "fury-cutter"
                 },
                 {
                     "level": 50,
-                    "move": "leech-life"
-                },
-                {
-                    "level": 54,
-                    "move": "sludge-bomb"
-                },
-                {
-                    "level": 66,
-                    "move": "solarbeam"
+                    "move": "megahorn"
                 }
             ],
             "name": "leavanny",
@@ -25815,7 +25723,7 @@
             "evolutions": [
                 {
                     "into": "amoonguss",
-                    "level": 30,
+                    "level": 39,
                     "method": "level"
                 }
             ],
@@ -25824,47 +25732,35 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "poison-sting"
+                    "move": "absorb"
                 },
                 {
                     "level": 6,
-                    "move": "supersonic"
+                    "move": "sleep-powder"
+                },
+                {
+                    "level": 9,
+                    "move": "mega-drain"
                 },
                 {
                     "level": 12,
-                    "move": "constrict"
-                },
-                {
-                    "level": 19,
                     "move": "acid"
                 },
                 {
                     "level": 20,
-                    "move": "bubblebeam"
+                    "move": "sludge"
                 },
                 {
-                    "level": 22,
-                    "move": "wrap"
+                    "level": 25,
+                    "move": "giga-drain"
                 },
                 {
-                    "level": 27,
-                    "move": "sludge-bomb"
-                },
-                {
-                    "level": 31,
-                    "move": "ice-beam"
+                    "level": 30,
+                    "move": "faint-attack"
                 },
                 {
                     "level": 36,
-                    "move": "barrier"
-                },
-                {
-                    "level": 43,
-                    "move": "screech"
-                },
-                {
-                    "level": 49,
-                    "move": "hydro-pump"
+                    "move": "sludge-bomb"
                 }
             ],
             "name": "foongus",
@@ -25914,44 +25810,12 @@
                     "move": "poison-sting"
                 },
                 {
-                    "level": 6,
-                    "move": "supersonic"
+                    "level": 47,
+                    "move": "poisonpowder"
                 },
                 {
-                    "level": 12,
-                    "move": "constrict"
-                },
-                {
-                    "level": 19,
-                    "move": "acid"
-                },
-                {
-                    "level": 20,
-                    "move": "bubblebeam"
-                },
-                {
-                    "level": 22,
-                    "move": "wrap"
-                },
-                {
-                    "level": 27,
-                    "move": "sludge-bomb"
-                },
-                {
-                    "level": 31,
-                    "move": "ice-beam"
-                },
-                {
-                    "level": 36,
-                    "move": "barrier"
-                },
-                {
-                    "level": 43,
-                    "move": "screech"
-                },
-                {
-                    "level": 49,
-                    "move": "hydro-pump"
+                    "level": 55,
+                    "move": "spore"
                 }
             ],
             "name": "amoonguss",
@@ -36928,7 +36792,7 @@
             "evolutions": [
                 {
                     "into": "accelgor",
-                    "level": 29,
+                    "level": 31,
                     "method": "level"
                 }
             ],
@@ -36937,47 +36801,27 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "take-down"
+                    "move": "absorb"
                 },
                 {
-                    "level": 1,
-                    "move": "protect"
-                },
-                {
-                    "level": 11,
-                    "move": "selfdestruct"
+                    "level": 8,
+                    "move": "acid"
                 },
                 {
                     "level": 15,
-                    "move": "pin-missile"
+                    "move": "mega-drain"
                 },
                 {
                     "level": 22,
-                    "move": "rapid-spin"
+                    "move": "body-slam"
+                },
+                {
+                    "level": 24,
+                    "move": "bubblebeam"
                 },
                 {
                     "level": 29,
-                    "move": "bide"
-                },
-                {
-                    "level": 33,
-                    "move": "explosion"
-                },
-                {
-                    "level": 37,
-                    "move": "earthquake"
-                },
-                {
-                    "level": 43,
-                    "move": "spikes"
-                },
-                {
-                    "level": 50,
-                    "move": "double-edge"
-                },
-                {
-                    "level": 52,
-                    "move": "baton-pass"
+                    "move": "giga-drain"
                 }
             ],
             "name": "shelmet",
@@ -37024,55 +36868,27 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "take-down"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 1,
-                    "move": "protect"
-                },
-                {
-                    "level": 11,
-                    "move": "selfdestruct"
-                },
-                {
-                    "level": 15,
-                    "move": "pin-missile"
-                },
-                {
-                    "level": 22,
-                    "move": "rapid-spin"
-                },
-                {
-                    "level": 29,
-                    "move": "rock-slide"
-                },
-                {
-                    "level": 34,
-                    "move": "explosion"
-                },
-                {
-                    "level": 35,
-                    "move": "earthquake"
-                },
-                {
-                    "level": 38,
                     "move": "body-slam"
                 },
                 {
-                    "level": 49,
-                    "move": "spikes"
+                    "level": 32,
+                    "move": "encore"
                 },
                 {
-                    "level": 51,
-                    "move": "barrier"
+                    "level": 36,
+                    "move": "sludge-bomb"
                 },
                 {
-                    "level": 59,
-                    "move": "double-edge"
+                    "level": 42,
+                    "move": "fury-cutter"
                 },
                 {
-                    "level": 60,
-                    "move": "baton-pass"
+                    "level": 46,
+                    "move": "toxic"
                 }
             ],
             "name": "accelgor",
@@ -39600,63 +39416,39 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "headbutt"
+                    "move": "tackle"
                 },
                 {
                     "level": 8,
-                    "move": "scary-face"
-                },
-                {
-                    "level": 11,
-                    "move": "lick"
+                    "move": "bite"
                 },
                 {
                     "level": 15,
-                    "move": "hypnosis"
-                },
-                {
-                    "level": 19,
-                    "move": "baton-pass"
+                    "move": "metal-claw"
                 },
                 {
                     "level": 23,
-                    "move": "stomp"
-                },
-                {
-                    "level": 25,
-                    "move": "double-kick"
-                },
-                {
-                    "level": 27,
-                    "move": "psychic"
+                    "move": "twister"
                 },
                 {
                     "level": 31,
-                    "move": "sand-attack"
-                },
-                {
-                    "level": 33,
-                    "move": "future-sight"
+                    "move": "scary-face"
                 },
                 {
                     "level": 40,
-                    "move": "double-edge"
+                    "move": "dragonbreath"
                 },
                 {
-                    "level": 42,
-                    "move": "confuse-ray"
+                    "level": 44,
+                    "move": "crunch"
                 },
                 {
-                    "level": 48,
-                    "move": "shadow-ball"
+                    "level": 49,
+                    "move": "iron-tail"
                 },
                 {
                     "level": 50,
-                    "move": "megahorn"
-                },
-                {
-                    "level": 61,
-                    "move": "thrash"
+                    "move": "submission"
                 }
             ],
             "name": "druddigon",
