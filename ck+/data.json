@@ -19619,11 +19619,11 @@
         {
             "accuracy": 100,
             "extra": [
-                "rampage for 2 turns, then confuses user"
+                "normal move"
             ],
             "index": 80,
             "name": "petal-dance",
-            "power": 120,
+            "power": 90,
             "pp": 20,
             "type": "grass"
         },
@@ -42526,7 +42526,7 @@
           "item": "gold-berry",
           "moves": [
             "spore",
-            "wing-attack",
+            "giga-drain",
             "sludge",
             "synthesis"
           ]
