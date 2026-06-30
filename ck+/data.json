@@ -40892,7 +40892,7 @@
           "moves": [
             "headbutt",
             "bite",
-	    "hypnosis"		
+	    	"hypnosis"		
           ]
         }
       ]
@@ -40932,7 +40932,7 @@
             "thundershock",
             "thunder-wave",
             "leech-life",
-	    "mega-drain"
+	    	"mega-drain"
           ]
         },
         {
@@ -40942,7 +40942,7 @@
           "moves": [
             "rock-throw",
             "leech-life",
-	    "dig"
+	   	 	"dig"
           ]
         },
         {
@@ -40975,8 +40975,8 @@
           "item": "berry",
           "moves": [
             "fire-punch",
-	    "rock-throw",
-	    "mach-punch"
+	    	"rock-throw",
+	    	"mach-punch"
           ]
         },
         {
@@ -40989,14 +40989,14 @@
             "bite"
           ]
         },
-	{
+		{
            "name":  "sewaddle",
            "level": 11,
            "item":  "berry",
-	   "moves": [
-	     "pin-missile",
-	     "razor-leaf",
-	     "stun-spore"
+	   	   "moves": [
+	     	 "pin-missile",
+	         "razor-leaf",
+	         "stun-spore"
           ]
         }	   
       ]
@@ -41023,7 +41023,7 @@
             "bubblebeam",
             "hypnosis",
             "mud-slap",
-	    "powder-snow"
+	    	"powder-snow"
           ]
         },
         {
@@ -41057,11 +41057,11 @@
           "name": "petilil",
                     "dvs": {
                         "atk": 14,
-			"def": 13,
-			"hp": 7,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 11,
           "item": "berry",
@@ -41116,7 +41116,7 @@
             "flame-wheel",
             "pin-missile",
             "dig",
-	    "take-down"
+	    	"take-down"
           ]
         }
       ]
@@ -41132,7 +41132,7 @@
           "moves": [
             "submission",
             "faint-attack",
-	    "iron-tail"
+	    	"iron-tail"
           ]
         },
         {
@@ -41143,7 +41143,7 @@
             "night-shade",
             "confuse-ray",
             "toxic",
-	    "confusion"
+	    	"confusion"
           ]
         }
       ]
@@ -41163,7 +41163,7 @@
             "confuse-ray"
           ]
         },
-	{
+		{
           "name": "solosis",
           "level": 12,
           "item": "berry",
@@ -41197,8 +41197,8 @@
           "item": "berry",
           "moves": [
             "doubleslap",
-	    "pin-missile",
-	    "bone-rush"
+	    	"pin-missile",
+	    	"bone-rush"
           ]
         }
       ]
@@ -41215,7 +41215,7 @@
             "confusion",
             "ice-punch",
             "fire-punch",
-	    "thunderpunch"
+	    	"thunderpunch"
           ]
         },
         {
@@ -41234,7 +41234,7 @@
             "thundershock",
             "dig",
             "water-gun",
-	    "pursuit"
+	    	"pursuit"
           ]
         }
       ]
@@ -41251,7 +41251,7 @@
             "wing-attack",
             "swift",
             "quick-attack",
-	    "steel-wing"
+	    	"steel-wing"
           ]
         },
         {
@@ -41272,7 +41272,7 @@
             "twister",
             "bite",
             "take-down",
-	    "ember"
+	    	"ember"
           ]
         }
       ]
@@ -41306,8 +41306,8 @@
           "moves": [
             "wing-attack",
             "psybeam",
-	    "mega-drain",
-	    "confuse-ray"
+	    	"mega-drain",
+	   	 	"confuse-ray"
           ]
         }
       ]
@@ -41343,8 +41343,8 @@
           "moves": [
             "rock-throw",
             "wing-attack",
-	    "mud-slap",
-	    "steel-wing"
+	    	"mud-slap",
+	    	"steel-wing"
           ]
         },
         {
@@ -41392,7 +41392,7 @@
             "protect",
             "toxic",
             "giga-drain",
-	    "leech-life"
+	    	"leech-life"
           ]
         },
         {
@@ -41403,7 +41403,7 @@
             "spark",
             "flame-wheel",
             "double-kick",
-	    "body-slam"
+	    	"body-slam"
           ]
         }
       ]
@@ -41536,7 +41536,7 @@
             "rock-slide",
             "crunch",
             "waterfall",
-	    "body-slam"
+	    	"body-slam"
           ]
         },
         {
@@ -41553,7 +41553,7 @@
     },
     {
       "area": "Route 32",
-      "name": "bird-keeper-peter",
+      "name": "birdkeeper-peter",
       "b2b": true,
       "team": [
         {
@@ -41564,7 +41564,7 @@
             "wing-attack",
             "confusion",
             "confuse-ray",
-	    "giga-drain"
+	    	"giga-drain"
           ]
         },
         {
@@ -41574,7 +41574,7 @@
           "moves": [
             "spark",
             "crunch",
-	    "fire-punch"
+	    	"fire-punch"
           ]
         }
       ]
@@ -41610,8 +41610,8 @@
 	  "item":  "berry",
 	  "moves": [
             "wing-attack",
-	    "karate-chop",
-	    "sludge",
+	    	"karate-chop",
+	    	"sludge",
             "body-slam"
           ]
         } 
@@ -41640,7 +41640,7 @@
             "rock-throw",
             "dig",
             "metal-claw",
-	    "body-slam"
+	    	"body-slam"
           ]
         },
         {
@@ -41651,7 +41651,7 @@
             "giga-drain",
             "toxic",
             "hp-rock",
-	    "sludge"
+	   	 	"sludge"
           ]
         }
       ]
@@ -41666,7 +41666,7 @@
           "item": "berry",
           "moves": [
             "fire-punch",
-	    "submission",
+	    	"submission",
             "body-slam"
           ]
         },
@@ -41677,7 +41677,7 @@
           "moves": [
             "shadow-ball",
             "flame-wheel",
-	    "mega-drain",
+	    	"mega-drain",
             "confuse-ray"
           ]
         },
@@ -41714,7 +41714,7 @@
             "twister",
             "bite",
             "mud-slap",
-	    "metal-claw"
+	    	"metal-claw"
           ]
         }
       ]
@@ -41742,7 +41742,7 @@
             "thunder-wave",
             "wing-attack",
             "confusion",
-	    "confuse-ray"
+	    	"confuse-ray"
           ]
         },
         {
@@ -41778,8 +41778,8 @@
           "moves": [
             "submission",
             "rock-slide",
-	    "thunderpunch",
-	    "sludge"
+	    	"thunderpunch",
+	    	"sludge"
           ]
         },
         {
@@ -41844,7 +41844,7 @@
           "moves": [
             "selfdestruct",
             "ice-beam",
-	    "headbutt"
+	    	"headbutt"
           ]
         },
 	{
@@ -41854,8 +41854,8 @@
           "moves": [
             "slash",
             "bite",
-	    "quick-attack",
-	    "razor-leaf"
+	    	"quick-attack",
+	    	"razor-leaf"
           ]
         }
       ]
@@ -41872,7 +41872,7 @@
             "counter",
             "fire-punch",
             "ice-punch",
-	    "thunderpunch"
+	    	"thunderpunch"
           ]
         },
         {
@@ -41883,10 +41883,10 @@
             "bubblebeam",
             "toxic",
             "swift",
-	    "leech-life"
+	    	"leech-life"
           ]
         },
-	{
+		{
 	  "name": "palpitoad",
 	  "level": 22,
 	  "item": "brightpowder",
@@ -41911,7 +41911,7 @@
             "sludge",
             "mud-slap",
             "toxic",
-	    "ice-punch"
+	    	"ice-punch"
           ]
         },
         {
@@ -41922,7 +41922,7 @@
             "metal-claw",
             "rock-slide",
             "wing-attack",
-	    "faint-attack"
+	    	"faint-attack"
           ]
         },
         {
@@ -41933,7 +41933,7 @@
             "giga-drain",
             "hp-fire",
             "psychic",
-	    "leech-seed"
+	    	"leech-seed"
           ]
         }
       ]
@@ -41951,7 +41951,7 @@
             "confusion",
             "hypnosis",
             "confuse-ray",
-	    "ice-punch"
+	    	"ice-punch"
           ]
         },
         {
@@ -41972,7 +41972,7 @@
             "glare",
             "giga-drain",
             "body-slam",
-	    "dragonbreath"
+	    	"dragonbreath"
           ]
         }
       ]
@@ -41990,7 +41990,7 @@
             "fire-punch",
             "hypnosis",
             "confuse-ray",
-	    "confusion"
+	    	"confusion"
           ]
         },
         {
@@ -42011,7 +42011,7 @@
             "fire-punch",
             "submission",
             "thunderpunch",
-	    "double-edge"
+	    	"double-edge"
           ]
         }
       ]
@@ -42029,7 +42029,7 @@
             "confusion",
             "hypnosis",
             "confuse-ray",
-	    "thunderpunch"
+	    	"thunderpunch"
           ]
         },
         {
@@ -42050,7 +42050,7 @@
             "surf",
             "ice-punch",
             "slash",
-	    "fury-cutter"
+	    	"fury-cutter"
           ]
         }
       ]
@@ -42316,7 +42316,7 @@
             "headbutt",
             "faint-attack"
           ]
-	}
+		}
       ]
     },
     {
@@ -42357,7 +42357,7 @@
             "toxic",
             "leech-life"
           ]
-	}
+		}
       ]
     },
     {
@@ -42395,7 +42395,7 @@
             "recover",
             "mean-look"
           ]
-	}
+		}
       ]
     },
     {
@@ -42434,7 +42434,7 @@
             "crunch",
 	    "headbutt"
           ]
-	}
+		}
       ]
     },
     {
@@ -42472,7 +42472,7 @@
             "seismic-toss",
             "headbutt"
           ]
-	}
+		}
       ]
     },
     {
@@ -42512,7 +42512,7 @@
             "shadow-ball",
             "sludge"
           ]
-	}
+		}
       ]
     },
     {
@@ -42552,7 +42552,7 @@
             "psybeam",
             "petal-dance"
           ]
-	}
+		}
       ]
     },
     {
@@ -42592,7 +42592,7 @@
             "night-shade",
             "rock-slide"
           ]
-	}
+		}
       ]
     },
     {
@@ -42632,7 +42632,7 @@
             "giga-drain",
 	    "iron-tail"
           ]
-	}
+		}
       ]
     },
     {
@@ -42672,7 +42672,7 @@
             "steel-wing",
             "quick-attack"
           ]
-	}
+		}
       ]
     },
     {
@@ -42712,7 +42712,7 @@
             "recover",
             "wing-attack"
           ]
-	}
+		}
       ]
     },
     {
@@ -42741,7 +42741,7 @@
             "surf",
             "ice-beam"
           ]
-	}
+		}
       ]
     },
     {
@@ -42779,7 +42779,7 @@
             "rock-slide",
             "body-slam"
           ]
-	}
+		}
       ]
     },
     {
@@ -42839,8 +42839,8 @@
 	    "slash",
             "thunderpunch",
             "crunch"
-	  ]
-	}
+	  	  ]
+		}
       ]
     },
     {
@@ -42870,15 +42870,15 @@
         },
         {
           "name": "heatmor",
-	  "level": 28,
-	  "item": "berry-juice",
-	  "moves": [
-	    "fire-punch",
-	    "fury-cutter",
-	    "submission",
-	    "giga-drain"
-	  ]
-	}
+	  	  "level": 28,
+	  	  "item": "berry-juice",
+	  	  "moves": [
+	    	"fire-punch",
+	    	"fury-cutter",
+	    	"submission",
+	    	"giga-drain"
+	  	  ]
+		}
       ]
     },
     {
@@ -42893,8 +42893,8 @@
           "moves": [
             "aurora-beam",
             "steel-wing",
-	    "ancientpower",
-	    "crunch"
+	    	"ancientpower",
+	   	 	"crunch"
           ]
         },
         {
@@ -42909,23 +42909,23 @@
         },
         {
           "name": "carracosta",
-	  "level": 28,
-	  "item": "hard-stone",
-	  "moves": [
-	    "ancientpower",
-	    "waterfall"
-	  ]
-	},
-	{
-	  "name": "braviary",
-	  "level": 27,
-	  "item": "pink-bow",
-	  "moves": [
-	    "wing-attack",
-	    "swift",
-	    "steel-wing"
-	  ]
-	}
+	  	  "level": 28,
+	      "item": "hard-stone",
+	      "moves": [
+	    	"ancientpower",
+	    	"waterfall"
+	  	  ]
+		},
+		{
+	  	"name": "braviary",
+	  	"level": 27,
+	  	"item": "pink-bow",
+	  	"moves": [
+	      "wing-attack",
+	      "swift",
+	      "steel-wing"
+	      ]
+	    }
       ]
     },
     {
@@ -42941,8 +42941,8 @@
           "moves": [
             "shadow-ball",
             "recover",
-	    "surf",
-	    "giga-drain"
+	    	"surf",
+	    	"giga-drain"
           ]
         },
         {
@@ -42958,15 +42958,15 @@
         },
         {
           "name": "cofagrigus",
-	  "level": 28,
-	  "item": "miracleberry",
-	  "moves": [
-	    "toxic",
-	    "night-shade",
-	    "crunch",
-	    "submission"
-	  ]
-	}
+	  	  "level": 28,
+	  	  "item": "miracleberry",
+	  	  "moves": [
+	    	"toxic",
+	    	"night-shade",
+	    	"crunch",
+	    	"submission"
+	  	  ]
+		}
       ]
     },
     {
@@ -42981,8 +42981,8 @@
           "moves": [
             "spark",
             "sludge",
-	    "fury-cutter",
-	    "thunder-wave"
+	    	"fury-cutter",
+	    	"thunder-wave"
           ]
         },
         {
@@ -42998,13 +42998,13 @@
         },
         {
           "name": "bisharp",
-	  "level": 30,
-	  "item": "blackglasses",
-	  "moves": [
-	    "faint-attack",
-	    "metal-claw",
-	    "wing-attack",
-	    "fury-cutter"
+	  	  "level": 30,
+	  	  "item": "blackglasses",
+	  	  "moves": [
+	    	"faint-attack",
+	    	"metal-claw",
+	        "wing-attack",
+	    	"fury-cutter"
 	  ]
 	},
 	{
@@ -43038,8 +43038,8 @@
 	    "dig",
 	    "fury-cutter",
 	    "metal-claw"
-	  ]
-	}	    
+	  	  ]
+		}	    
       ]
     }
   ],
