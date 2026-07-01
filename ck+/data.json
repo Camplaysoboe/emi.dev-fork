@@ -43067,8 +43067,81 @@
 	  	  ]
 		}	    
       ]
-    }
-  ],
+    },
+	{
+
+		"area": "Ecruteak Gym",
+      "name": "leader-karen",
+      "team": [
+        {
+          "name": "scrafty",
+          "level": 38,
+          "item": "gold-berry",
+          "moves": [
+            "crunch",
+            "submission",
+	    	"ancientpower",
+	    	"metal-claw"
+          ]
+        },
+        {
+          "name": "krookodile",
+          "level": 38,
+          "item": "blackglasses",
+          "moves": [
+            "crunch",
+            "dragonbreath",
+            "earthquake",
+            "shadow-ball"
+          ]
+        },
+        {
+          "name": "zoroark",
+	  	  "level": 38,
+	  	  "item": "bright-powder",
+	  	  "moves": [
+	    	"transform",
+	    	"crunch",
+	        "flamethrower",
+	    	"psychic"
+	  ]
+	},
+	{
+	  "name": "mandibuzz",
+	  "level": 38,
+	  "item": "leftover",
+	  "moves": [
+	    "recover",
+	    "toxic",
+	    "crunch",
+	    "night-shade"
+	  ]
+	},
+	{
+	  "name": "swoobat",
+	  "level": 38,
+	  "item": "bright-powder",
+	  "moves": [
+	    "attract",
+	    "confuse-ray",
+	    "psychic",
+	    "drill-peck"
+	  ]
+	},
+	{
+	  "name": "chandelure",
+	  "level": 38,
+	  "item": "charcoal",
+	  "moves": [
+	    "destiny-bond",
+	    "flamethrower",
+	    "shadow-ball",
+	    "giga-drain"
+	  	  ]
+		}	    
+      ]
+    }					
+    ],
     "type_matchups": [
         {
             "attacker": "normal",
