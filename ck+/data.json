@@ -17208,9 +17208,9 @@
             "extra": [],
             "index": 30,
             "name": "horn-attack",
-            "power": 65,
-            "pp": 25,
-            "type": "normal"
+            "power": 80,
+            "pp": 10,
+            "type": "ground"
         },
         {
             "accuracy": 100,
@@ -34364,62 +34364,39 @@
         },
         {
             "base_experience": 74,
-            "evolutions": [
-                {
-                    "into": "togetic",
-                    "level": 36,
-                    "method": "level"
-                }
-            ],
             "gender": "f12.5",
             "items": [],
             "learnset": [
                 {
                     "level": 1,
-                    "move": "growl"
+                    "move": "headbutt"
                 },
                 {
-                    "level": 1,
-                    "move": "charm"
+                    "level": 16,
+                    "move": "ember"
                 },
                 {
-                    "level": 5,
-                    "move": "thunder-wave"
+                    "level": 25,
+                    "move": "confusion"
                 },
                 {
-                    "level": 7,
-                    "move": "metronome"
+                    "level": 30,
+                    "move": "submission"
                 },
                 {
-                    "level": 18,
-                    "move": "sweet-kiss"
-                },
-                {
-                    "level": 21,
-                    "move": "psywave"
-                },
-                {
-                    "level": 23,
-                    "move": "safeguard"
-                },
-                {
-                    "level": 29,
-                    "move": "encore"
-                },
-                {
-                    "level": 38,
-                    "move": "egg-bomb"
+                    "level": 36,
+                    "move": "bite"
                 }
             ],
-            "name": "togepi",
+            "name": "darmanitan-zen",
             "pokedex": 175,
             "stats": {
                 "atk": 30,
-                "def": 75,
-                "hp": 45,
-                "spa": 60,
-                "spd": 85,
-                "spe": 30
+                "def": 105,
+                "hp": 105,
+                "spa": 140,
+                "spd": 105,
+                "spe": 55
             },
             "tmhm": [
                 "headbutt",
@@ -34453,7 +34430,8 @@
                 "flamethrower"
             ],
             "types": [
-                "normal"
+                "fire",
+		"psychic"
             ]
         },
         {
@@ -41052,11 +41030,11 @@
           "name": "petilil",
                     "dvs": {
                         "atk": 14,
-						"def": 13,
-						"hp": 7,
-						"spa": 15,
-						"spd": 15,
-						"spe": 15
+			"def": 13,
+			"hp": 7,
+			"spa": 15,
+			"spd": 15,
+			"spe": 15
                     },
           "level": 11,
           "item": "berry",
@@ -42671,7 +42649,6 @@
       ]
     },
     {
-
       "area": "Goldenrod entrance",
       "name": "supernerd-teru",
       "team": [
@@ -42707,7 +42684,7 @@
             "recover",
             "wing-attack"
           ]
-		}
+	}
       ]
     },
     {
@@ -42736,11 +42713,10 @@
             "surf",
             "ice-beam"
           ]
-		}
+	}
       ]
     },
     {
-
       "area": "Goldenrod entrance",
       "name": "pokemaniac-donald",
       "team": [
@@ -42774,7 +42750,7 @@
             "rock-slide",
             "body-slam"
           ]
-		}
+	}
       ]
     },
     {
@@ -42978,11 +42954,11 @@
           "name": "cofagrigus",
                     "dvs": {
                         "atk": 14,
-						"def": 10,
-						"hp": 0,
-						"spa": 10,
-						"spd": 10,
-						"spe": 10
+			"def": 10,
+			"hp": 0,
+			"spa": 10,
+			"spd": 10,
+			"spe": 10
                     	},
 	  	  "level": 30,
 	  	  "item": "miracleberry",
@@ -43024,13 +43000,13 @@
         },
         {
           "name": "bisharp",
-	  	  "level": 30,
-	  	  "item": "blackglasses",
-	  	  "moves": [
-	    	"faint-attack",
-	    	"metal-claw",
-	        "wing-attack",
-	    	"fury-cutter"
+	  "level": 30,
+	  "item": "blackglasses",
+	  "moves": [
+	    "faint-attack",
+	    "metal-claw",
+	    "wing-attack",
+	    "fury-cutter"
 	  ]
 	},
 	{
@@ -43064,13 +43040,1041 @@
 	    "dig",
 	    "fury-cutter",
 	    "metal-claw"
-	  	  ]
-		}	    
+	  ]
+	}	    
       ]
     },
+    {
+      "area": "Route 35",
+      "name": "camper-elliot",
+      "team": [
+        {
+          "name": "sawsbuck",
+          "level": 34,
+          "item": "miracle-seed",
+          "moves": [
+            "giga-drain",
+            "jump-kick",
+	    "body-slam",
+            "jump-kick"
+          ]
+        },
+        {
+          "name": "watchog",
+          "level": 34,
+          "item": "quick-claw",
+          "moves": [
+            "hypnosis",
+            "super-fang",
+            "hyper-fang",
+            "crunch"
+          ]
+        },
+        {
+          "name": "archen",
+          "level": 34,
+          "item": "pink-bow",
+          "moves": [
+            "rock-slide",
+            "wing-attack",
+            "mud-slap",
+            "quick-attack"
+          ]
+	},
 	{
-
-		"area": "Ecruteak Gym",
+	  "name": "stunfisk",
+	  "level": 34,
+	  "item": "leftovers",
+	  "moves": [
+	    "thunder-wave",
+	    "mud-slap",
+	    "thunderbolt",
+	    "rock_slide"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Route 35",
+      "b2b": true,
+      "name": "picnicker-brooke",
+      "team": [
+        {
+          "name": "simipour",
+                    "dvs": {
+                        "atk": 14,
+			"def": 14,
+			"hp": 3,
+			"spa": 15,
+			"spd": 15,
+			"spe": 15
+                    },
+          "level": 34,
+          "item": "mystic-water",
+          "moves": [
+            "waterfall",
+            "body-slam",
+	    "hp-grass"
+          ]
+        },
+        {
+          "name": "herdier",
+          "level": 34,
+          "item": "berry-juice",
+          "moves": [
+            "extremespeed",
+            "shadow-ball",
+            "double-edge",
+            "mud-slap"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "Route 35",
+      "name": "picnicker-kim",
+      "team": [
+        {
+          "name": "cubchoo",
+          "level": 34,
+          "item": "berserk-gene",
+          "moves": [
+            "ice-beam",
+            "waterfall",
+	    "submission",
+            "body-slam"
+          ]
+        },
+        {
+          "name": "darumaka",
+          "level": 35,
+          "item": "berserk-gene",
+          "moves": [
+            "flamethrower",
+            "rock-slide",
+            "mud-slap",
+            "mach-punch"
+          ]
+        },
+        {
+          "name": "minccino",
+          "level": 34,
+          "item": "berserk-gene",
+          "moves": [
+            "doubleslap",
+            "quick-attack",
+            "bone-rush"
+          ]
+	},
+	{
+	  "name": "audino",
+	  "level": 34,
+	  "item": "berserk-gene",
+	  "moves": [
+	    "selfdestruct"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "Route 35",
+      "name": "firebreather-walt",
+      "team": [
+        {
+          "name": "garbodor",
+          "level": 34,
+          "item": "gold-berry",
+          "moves": [
+            "poison-gas",
+            "sludge-bomb",
+	    "giga-drain",
+            "mud-slap"
+          ]
+        },
+        {
+          "name": "simisear",
+          "level": 34,
+          "item": "berry-juice",
+          "moves": [
+            "flamethrower",
+            "crunch",
+            "headbutt",
+            "rock-slide"
+          ]
+        },
+        {
+          "name": "zweilous",
+          "level": 34,
+          "item": "berry-juice",
+          "moves": [
+            "flamethrower",
+            "crunch",
+            "body-slam",
+	    "dragonbreath"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "Route 35",
+      "b2b": true,
+      "name": "juggler-irwin",
+      "team": [
+        {
+          "name": "duosion",
+          "level": 35,
+          "item": "berry-juice",
+          "moves": [
+            "thunder-wave",
+            "psychic",
+	    "thunderpunch",
+            "giga-drain"
+          ]
+        },
+        {
+          "name": "vanillish",
+          "level": 34,
+          "item": "nevermeltice",
+          "moves": [
+            "ice-beam",
+            "iron-tail",
+            "selfdestruct"
+          ]
+        },
+        {
+          "name": "klang",
+          "level": 34,
+          "item": "gold-berry",
+          "moves": [
+            "thunder-wave",
+            "selfdestruct",
+            "thunderbolt",
+	    "metal-claw"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "Route 35",
+      "name": "bug-catcher-arnie",
+      "meta": "optional gauntlet for berry tree",
+      "team": [
+        {
+          "name": "crustle",
+          "level": 34,
+          "item": "hard-stone",
+          "moves": [
+            "rock-slide",
+            "magnitude",
+	    "fury-cutter",
+            "bubblebeam"
+          ]
+        },
+        {
+          "name": "escavalier",
+          "level": 35,
+          "item": "metal-coat",
+          "moves": [
+            "metal-claw",
+            "megahorn",
+            "slash",
+            "mud-slap"
+          ]
+        },
+        {
+          "name": "volcarona",
+          "level": 34,
+          "item": "gold-berry",
+          "moves": [
+            "morning-sun",
+            "flame-wheel",
+            "fury-cutter",
+	    "psybeam"
+          ]
+	},
+	{
+	  "name": "galvantula",
+	  "level": 34,
+	  "item": "berry-juice",
+	  "moves": [
+	    "spark",
+	    "giga-drain",
+	    "crunch",
+	    "fury-cutter"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "Route 35",
+      "name": "birdkeeper-bryan",
+      "meta": "end gauntlet, re-enable pocket pc",
+      "team": [
+        {
+          "name": "archeops",
+          "level": 34,
+          "item": "hard-stone",
+          "moves": [
+            "wing-attack",
+            "rock-throw",
+	    "twister",
+            "bite"
+          ]
+        },
+        {
+          "name": "unfezant",
+          "level": 35,
+          "item": "miracleberry",
+          "moves": [
+            "hypnosis",
+            "drill-peck",
+            "tri-attack",
+            "steel-wing"
+          ]
+        },
+        {
+          "name": "swanna",
+          "level": 34,
+          "item": "berserk-gene",
+          "moves": [
+            "drill-peck",
+            "waterfall",
+            "aurora-beam"
+          ]
+	},
+	{
+	  "name": "mandibuzz",
+	  "level": 34,
+	  "item": "berry-juice",
+	  "moves": [
+	    "wing-attack",
+	    "crunch",
+	    "rock-slide",
+	    "bone-club"
+          ]
+	},
+	{
+	  "name": "rufflet",
+	  "level": 36,
+	  "item": "sharp-beak",
+	  "moves": [
+	    "sky-attack"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Route 35",
+      "name": "officer-dirk",
+      "team": [
+        {
+          "name": "emolga",
+          "level": 35,
+          "item": "berry-juice",
+          "moves": [
+            "zap-cannon",
+            "sky-attack"
+          ]
+        },
+        {
+          "name": "eelektrik",
+          "level": 35,
+          "item": "miracleberry",
+          "moves": [
+            "zap-cannon",
+            "crunch",
+            "karate-chop",
+            "rock-slide"
+          ]
+        },
+        {
+          "name": "zebstrika",
+          "level": 34,
+          "item": "berry-juice",
+          "moves": [
+            "zap-cannon",
+            "flame-wheel",
+            "double-kick",
+	    "headbutt"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "National Park",
+      "name": "pokefanf-beverly",
+      "meta": "perma sun",
+      "team": [
+        {
+          "name": "whimsicott",
+                    "dvs": {
+                        "atk": 14,
+			"def": 12,
+			"hp": 3,
+			"spa": 15,
+			"spd": 15,
+			"spe": 15
+                    },
+          "level": 35,
+          "item": "miracle-seed",
+          "moves": [
+            "sleep-powder",
+            "solarbeam",
+	    "giga-drain",
+            "hp-fire"
+          ]
+        },
+        {
+          "name": "pignite",
+          "level": 33,
+          "item": "berserk-gene",
+          "moves": [
+            "fire-punch",
+            "solarbeam",
+            "submission",
+            "mud-slap"
+          ]
+        },
+        {
+          "name": "carracosta",
+          "level": 34,
+          "item": "mystic-water",
+          "moves": [
+            "ancientpower",
+            "surf",
+            "ice-punch",
+	    "iron-tail"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "National Park",
+      "name": "schoolboy-jack",
+      "meta": "perma sun",
+      "team": [
+        {
+          "name": "cryogonal",
+                    "dvs": {
+                        "atk": 14,
+			"def": 12,
+			"hp": 3,
+			"spa": 15,
+			"spd": 15,
+			"spe": 15
+                    },
+          "level": 34,
+          "item": "miracle-seed",
+          "moves": [
+            "solarbeam",
+            "ice-beam",
+	    "hp-fire",
+            "ancientpower"
+          ]
+        },
+        {
+          "name": "maractus",
+                    "dvs": {
+                        "atk": 14,
+			"def": 15,
+			"hp": 7,
+			"spa": 15,
+			"spd": 15,
+			"spe": 15
+                    },
+          "level": 35,
+          "item": "berry-juice",
+          "moves": [
+            "synthesis",
+            "solarbeam",
+            "fury-cutter",
+            "hp-electric"
+          ]
+        },
+        {
+          "name": "lampent",
+          "level": 34,
+          "item": "miracle-seed",
+          "moves": [
+            "solarbeam",
+            "flamethrower",
+            "shadow-ball",
+	    "psybeam"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "National Park",
+      "name": "pokefanm-william",
+      "meta": "perma sun",
+      "team": [
+        {
+          "name": "lilligant",
+          "level": 35,
+          "item": "miracleberry",
+          "moves": [
+            "stun-spore",
+            "synthesis",
+	    "solarbeam",
+            "psychic"
+          ]
+        },
+        {
+          "name": "excadrill",
+          "level": 34,
+          "item": "berry-juice",
+          "moves": [
+            "horn-attack",
+            "metal-claw",
+            "slash",
+            "fury-cutter"
+          ]
+        },
+        {
+          "name": "sawk",
+          "level": 35,
+          "item": "berry-juice",
+          "moves": [
+            "fire-punch",
+            "submission",
+            "headbutt",
+	    "sludge"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "National Park",
+      "b2b": true,
+      "name": "lass-krise",
+      "meta": "perma sun",
+      "team": [
+        {
+          "name": "heatmor",
+          "level": 35,
+          "item": "berry-juice",
+          "moves": [
+            "fire-punch",
+            "thunderpunch",
+	    "solarbeam",
+            "karate-chop"
+          ]
+        },
+        {
+          "name": "leavanny",
+          "level": 34,
+          "item": "silverpowder",
+          "moves": [
+            "solarbeam",
+            "leech-life",
+            "slash"
+          ]
+        },
+        {
+          "name": "larvesta",
+          "level": 37,
+          "item": "quick-claw",
+          "moves": [
+            "flamethrower",
+            "double-edge",
+            "fury-cutter",
+	    "rock-slide"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "Route 37",
+      "name": "twins-ann-anne",
+      "team": [
+        {
+          "name": "stoutland",
+          "level": 36,
+          "item": "pink-bow",
+          "moves": [
+            "extremespeed",
+            "submission",
+	    "shadow-ball",
+            "rock-slide"
+          ]
+        },
+        {
+          "name": "stoutland",
+          "level": 36,
+          "item": "pink-bow",
+          "moves": [
+            "fire-blast",
+            "thunder",
+            "crunch",
+            "blizzard"
+          ]
+	}
+      ]
+    },
+    {
+      "area": "Route 37",
+      "name": "psychic-greg",
+      "team": [
+        {
+          "name": "swoobat",
+          "level": 35,
+          "item": "miracleberry",
+          "moves": [
+            "hypnosis",
+            "confuse-ray",
+	    "thunder-wave",
+            "psychic"
+          ]
+        },
+        {
+          "name": "beheeyem",
+          "level": 35,
+          "item": "gold-berry",
+          "moves": [
+            "psychic",
+            "fire-punch",
+            "ice-punch",
+            "thunderpunch"
+          ]
+	},
+	{
+	  "name": "darmanitan-zen",
+	  "level": 35,
+	  "item": "twistedspoon",
+	  "moves": [
+	    "fire-punch",
+	    "psybeam",
+	    "crunch",
+	    "headbutt"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Burned Tower",
+      "name": "rival-7",
+      "meta": "if player picked Oshawott",
+      "team": [
+        {
+          "name": "hydreigon",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "bite",
+            "twister",
+	    "ember",
+            "wing-attack"
+          ]
+        },
+        {
+          "name": "klinklang",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "thunder-wave",
+            "thunderbolt",
+            "metal-claw",
+            "rock-slide"
+          ]
+	},
+	{
+          "name": "darmanitan",
+          "level": 35,
+          "item": "berry-juice",
+          "moves": [
+            "flamethrower",
+            "karate-chop",
+            "headbutt",
+            "rock-slide"
+          ]
+	},
+	{
+          "name": "gigalith",
+          "level": 36,
+          "item": "quick-claw",
+          "moves": [
+            "rock-slide",
+            "mud-slap",
+            "headbutt",
+            "metal-claw"
+          ]
+	},
+	{
+          "name": "simipour",
+          "level": 35,
+          "item": "mystic-water",
+          "moves": [
+            "return",
+            "waterfall",
+            "ice-beam"
+          ]
+	},
+	{
+          "name": "serperior",
+                    "dvs": {
+                        "atk": 14,
+			"def": 12,
+			"hp": 3,
+			"spa": 15,
+			"spd": 15,
+			"spe": 15
+                    },
+          "level": 36,
+          "item": "miracleberry",
+          "moves": [
+            "glare",
+            "dragonbreath",
+            "petal-dance",
+            "hp-fire"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Burned Tower",
+      "name": "rival-8",
+      "meta": "if player picked Snivy",
+      "team": [
+        {
+          "name": "hydreigon",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "bite",
+            "twister",
+	    "ember",
+            "wing-attack"
+          ]
+        },
+        {
+          "name": "klinklang",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "thunder-wave",
+            "thunderbolt",
+            "metal-claw",
+            "rock-slide"
+          ]
+	},
+	{
+          "name": "alomomola",
+          "level": 35,
+          "item": "miracleberry",
+          "moves": [
+            "toxic",
+            "recover",
+            "surf",
+            "body-slam"
+          ]
+	},
+	{
+          "name": "gigalith",
+          "level": 36,
+          "item": "quick-claw",
+          "moves": [
+            "rock-slide",
+            "mud-slap",
+            "headbutt",
+            "metal-claw"
+          ]
+	},
+	{
+          "name": "simisage",
+          "level": 35,
+          "item": "miracle-seed",
+          "moves": [
+            "leech-seed",
+            "giga-drain",
+            "submission",
+	    "rock-slide"
+          ]
+	},
+	{
+          "name": "emboar",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "flamethrower",
+            "submission",
+            "double-edge"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Burned Tower",
+      "name": "rival-9",
+      "meta": "if player picked Tepig",
+      "team": [
+        {
+          "name": "hydreigon",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "bite",
+            "twister",
+	    "ember",
+            "wing-attack"
+          ]
+        },
+        {
+          "name": "klinklang",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "thunder-wave",
+            "thunderbolt",
+            "metal-claw",
+            "rock-slide"
+          ]
+	},
+	{
+          "name": "amoonguss",
+          "level": 35,
+          "item": "gold-berry",
+          "moves": [
+            "spore",
+            "mud-slap",
+            "giga-drain",
+            "sludge-bomb"
+          ]
+	},
+	{
+          "name": "gigalith",
+          "level": 36,
+          "item": "quick-claw",
+          "moves": [
+            "rock-slide",
+            "mud-slap",
+            "headbutt",
+            "metal-claw"
+          ]
+	},
+	{
+          "name": "simisear",
+          "level": 35,
+          "item": "charcoal",
+          "moves": [
+            "flamethrower",
+            "crunch",
+            "shadow-ball",
+	    "sludge-bomb"
+          ]
+	},
+	{
+          "name": "samurott",
+          "level": 36,
+          "item": "silverpowder",
+          "moves": [
+            "waterfall",
+            "ice-beam",
+            "fury-cutter",
+            "horn-attack"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Ecruteak Gym",
+      "name": "sage-jeffrey",
+      "team": [
+        {
+          "name": "cofagrigus",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "toxic",
+            "confuse-ray",
+	    "giga-drain",
+            "faint-attack"
+          ]
+        },
+        {
+          "name": "krokorok",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "mud-slap",
+            "pursuit",
+            "rock-slide",
+            "iron-tail"
+          ]
+	},
+	{
+          "name": "gurdurr",
+          "level": 36,
+          "item": "quick-claw",
+          "moves": [
+            "submission",
+            "rock-slide",
+            "body-slam",
+            "ice-punch"
+          ]
+	},
+	{
+          "name": "basculin",
+          "level": 36,
+          "item": "mystic-water",
+          "moves": [
+            "waterfall",
+            "double-edge"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Ecruteak Gym",
+      "b2b": true,
+      "name": "sage-ping",
+      "team": [
+        {
+          "name": "leavanny",
+          "level": 36,
+          "item": "brightpowder",
+          "moves": [
+            "thunder-wave",
+            "fury-cutter",
+	    "petal-dance",
+            "sludge-bomb"
+          ]
+        },
+        {
+          "name": "golett",
+          "level": 36,
+          "item": "quick-claw",
+          "moves": [
+            "shadow-ball",
+            "earthquake",
+            "rock-slide",
+            "submission"
+          ]
+	},
+	{
+          "name": "watchog",
+          "level": 36,
+          "item": "pink-bow",
+          "moves": [
+            "confuse-ray",
+            "hyper-fang",
+            "shadow-ball",
+            "crunch"
+          ]
+	},
+	{
+          "name": "audino",
+          "level": 38,
+          "item": "gold-berry",
+          "moves": [
+            "pursuit"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Ecruteak Gym",
+      "name": "medium-martha",
+      "team": [
+        {
+          "name": "accelgor",
+          "level": 36,
+          "item": "focus-band",
+          "moves": [
+            "toxic",
+            "protect",
+	    "giga-drain",
+            "leech-life"
+          ]
+        },
+        {
+          "name": "sigilyph",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "toxic",
+            "protect",
+            "night-shade",
+            "psybeam"
+          ]
+	},
+	{
+          "name": "lampent",
+          "level": 36,
+          "item": "charcoal",
+          "moves": [
+            "confuse-ray",
+            "fire-punch",
+            "shadow-ball",
+            "petal-dance"
+          ]
+	},
+	{
+          "name": "boldore",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "body-slam",
+            "toxic",
+	    "mud-slap",
+	    "ancientpower"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Ecruteak Gym",
+      "b2b": true,
+      "name": "medium-grace",
+      "team": [
+        {
+          "name": "liepard",
+          "level": 36,
+          "item": "scope-lens",
+          "moves": [
+            "slash",
+            "pursuit",
+	    "quick-attack",
+            "shadow-ball"
+          ]
+        },
+        {
+          "name": "palpitoad",
+          "level": 36,
+          "item": "brightpowder",
+          "moves": [
+            "lovely-kiss",
+            "waterfall",
+            "ice-punch",
+            "sludge-bomb"
+          ]
+	},
+	{
+          "name": "gothorita",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "psychic",
+            "crunch",
+            "thunderbolt",
+            "night-shade"
+          ]
+	},
+	{
+          "name": "ferrothorn",
+          "level": 36,
+          "item": "berry-juice",
+          "moves": [
+            "leech-seed",
+            "giga-drain",
+	    "metal-claw",
+	    "rock-slide"
+	  ]
+	}
+      ]
+    },
+    {
+      "area": "Ecruteak Gym",
       "name": "leader-karen",
       "team": [
         {
@@ -43080,8 +44084,8 @@
           "moves": [
             "crunch",
             "submission",
-	    	"ancientpower",
-	    	"metal-claw"
+	    "ancientpower",
+	    "metal-claw"
           ]
         },
         {
@@ -43098,7 +44102,7 @@
         {
           "name": "zoroark",
 	  	  "level": 38,
-	  	  "item": "bright-powder",
+	  	  "item": "berry-juice",
 	  	  "moves": [
 	    	"transform",
 	    	"crunch",
@@ -43109,7 +44113,7 @@
 	{
 	  "name": "mandibuzz",
 	  "level": 38,
-	  "item": "leftover",
+	  "item": "leftovers",
 	  "moves": [
 	    "recover",
 	    "toxic",
@@ -43120,7 +44124,7 @@
 	{
 	  "name": "swoobat",
 	  "level": 38,
-	  "item": "bright-powder",
+	  "item": "brightpowder",
 	  "moves": [
 	    "attract",
 	    "confuse-ray",
@@ -43137,8 +44141,8 @@
 	    "flamethrower",
 	    "shadow-ball",
 	    "giga-drain"
-	  	  ]
-		}	    
+	  ]
+	}	    
       ]
     }					
     ],
