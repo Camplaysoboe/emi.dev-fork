@@ -1167,7 +1167,7 @@ rt {
 .micro-mon {
 	position: relative;
 	background-color: var(--background);
-	padding: 5px;
+	padding: 0px;
 	margin: 2px;
 }
 
@@ -1181,6 +1181,8 @@ rt {
 	border-width: 3px;
 	border-style: dashed;
 	border-color: transparent;
+	height: 69px;
+	width: 69px;
 }
 
 .gen-4 .micro-mon img {
