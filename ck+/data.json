@@ -7046,7 +7046,7 @@
                     "type": "old-rod"
                 },
                 {
-                    "pool": "headbutt.forest",
+                    "pool": "headbutt.route",
                     "type": "headbutt"
                 }
             ]
@@ -7311,7 +7311,7 @@
                     "type": "walking"
                 },
                 {
-                    "pool": "headbutt.forest",
+                    "pool": "headbutt.route",
                     "type": "headbutt"
                 }
             ]
@@ -12794,17 +12794,17 @@
                         {
                             "chance": 60,
                             "level": 32,
-                            "pokemon": "cubchoo"
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 30,
                             "level": 32,
-                            "pokemon": "ferroseed"
+                            "pokemon": "alomomola"
                         },
                         {
                             "chance": 10,
                             "level": 32,
-                            "pokemon": "slowpoke"
+                            "pokemon": "frillish"
                         }
                     ],
                     "type": "surfing"
@@ -14338,27 +14338,27 @@
                 },
 		{
 		    "amount": "renewable",
-		    "info": "$9999 at mart",
+		    "info": "$9999 in mart",
 		    "item": "master-ball"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$3000 at mart",
+		    "info": "$3000 in mart",
 		    "item": "pink-bow"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$5000 at mart",
+		    "info": "$5000 in mart",
 		    "item": "hard-stone"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$500 at mart",
+		    "info": "$500 in mart",
 		    "item": "berry-juice"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$0 at mart",
+		    "info": "$0 in mart",
 		    "item": "poke-ball"
 		}
             ],
@@ -14445,32 +14445,32 @@
                 },
 		{
 		    "amount": "renewable",
-		    "info": "$600 at mart",
+		    "info": "$600 in mart",
 		    "item": "great-ball"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$9999 at mart",
+		    "info": "$9999 in mart",
 		    "item": "master-ball"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$3000 at mart",
+		    "info": "$3000 in mart",
 		    "item": "pink-bow"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$5000 at mart",
+		    "info": "$5000 in mart",
 		    "item": "hard-stone"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$3000 at mart",
+		    "info": "$3000 in mart",
 		    "item": "poison-barb"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$500 at mart",
+		    "info": "$500 in mart",
 		    "item": "berry-juice"
 		}
             ],
@@ -14508,13 +14508,7 @@
         },
         {
             "id": 8,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "located north of route, requires cut",
-                    "item": "tm-05"
-                }
-            ],
+            "items": [],
             "locations": [
                 "route-32"
             ],
@@ -14565,13 +14559,7 @@
         },
         {
             "id": 10,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "located at entrance to B1F",
-                    "item": "tm-39"
-                }
-            ],
+            "items": [],
             "locations": [
                 "union-cave"
             ],
@@ -14609,42 +14597,42 @@
             "items": [
                 {
                     "amount": "renewable",
-                    "info": "$5000 at mart",
+                    "info": "$5000 in mart",
                     "item": "charcoal"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 at mart",
+                    "info": "$5000 in mart",
                     "item": "mystic-water"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 at mart",
+                    "info": "$5000 in mart",
                     "item": "miracle-seed"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 at mart",
+                    "info": "$5000 in mart",
                     "item": "fire-stone"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 at mart",
+                    "info": "$5000 in mart",
                     "item": "water-stone"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 at mart",
+                    "info": "$5000 in mart",
                     "item": "leaf-stone"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$1000 at mart",
+                    "info": "$1000 in mart",
                     "item": "gold-berry"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$1000 at mart",
+                    "info": "$1000 in mart",
                     "item": "miracleberry"
                 },
                 {
@@ -14671,13 +14659,7 @@
         },
         {
             "id": 13,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "available in b2f after obtaining surf",
-                    "item": "kings-rock"
-                }
-            ],
+            "items": [],
             "locations": [
                 "slowpoke-well"
             ],
@@ -14830,11 +14812,6 @@
                 },
                 {
                     "amount": "1",
-                    "info": "Obtained in b1f underground during radio tower takeover",
-                    "item": "tm-35"
-                },
-                {
-                    "amount": "1",
                     "info": "Obtained in the underground",
                     "item": "coin-case"
                 },
@@ -14842,21 +14819,6 @@
                     "amount": "1",
                     "info": "Talk to bike shop owner in east house",
                     "item": "bike"
-                },
-                {
-                    "amount": "1",
-                    "info": "Talk to flowershop lady after talking to assistant on route 36 and then again inside the house",
-                    "item": "mystic-water"
-                },
-                {
-                    "amount": "1",
-                    "info": "Obtained in B1F dept store after beating rocket grunts",
-                    "item": "amulet-coin"
-                },
-                {
-                    "amount": "1",
-                    "info": "In underground maze",
-                    "item": "smoke-ball"
                 }
             ],
             "locations": [
@@ -14904,9 +14866,9 @@
             "id": 18,
             "items": [
                 {
-                    "amount": "1",
-                    "info": "left of first B2B by lake",
-                    "item": "tm-04"
+                    "amount": "99",
+                    "info": "reward for fighting Arnie and Bryan as a gauntlet",
+                    "item": "berry-juice"
                 }
             ],
             "locations": [
@@ -14928,11 +14890,6 @@
                     "amount": "1",
                     "info": "given by the woman on bench",
                     "item": "quick-claw"
-                },
-                {
-                    "amount": "1",
-                    "info": "come second in bug catching contest",
-                    "item": "brightpowder"
                 },
                 {
                     "amount": "1",
@@ -14960,7 +14917,7 @@
                     "item": "tm-08"
                 },
                 {
-                    "amount": "17-21",
+                    "amount": "99",
                     "info": "tree by national-park entrance",
                     "item": "ice-berry"
                 }
@@ -14981,14 +14938,19 @@
             "id": 21,
             "items": [
                 {
-                    "amount": "17-21",
-                    "info": "tree in the middle path",
-                    "item": "mysteryberry"
+                    "amount": "99",
+                    "info": "left tree",
+                    "item": "great-ball"
                 },
                 {
-                    "amount": "17-21",
-                    "info": "tree in the left path",
+                    "amount": "99",
+                    "info": "middle tree",
                     "item": "berry"
+                },
+                {
+                    "amount": "99",
+                    "info": "right tree",
+                    "item": "bitter-berry"
                 }
             ],
             "locations": [
@@ -15012,8 +14974,48 @@
                 },
                 {
                     "amount": "1",
-                    "info": "obtained after defeating Morty",
+                    "info": "obtained after defeating Karen",
                     "item": "tm-30"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$1000 in mart",
+                    "item": "miracleberry"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$1000 in mart",
+                    "item": "gold-berry"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "blackbelt"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$7500 in mart",
+                    "item": "silverpowder"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$7500 in mart",
+                    "item": "blackglasses"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$1000 in mart",
+                    "item": "quick-claw"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$1000 in mart",
+                    "item": "brightpowder"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$1000 in mart",
+                    "item": "focus-band"
                 }
             ],
             "locations": [
@@ -15043,13 +15045,7 @@
         },
         {
             "id": 24,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "B1F behind a strength boulder",
-                    "item": "tm-20"
-                }
-            ],
+            "items": [],
             "locations": [
                 "burned-tower-1f",
 		"burned-tower-b1f"
@@ -17853,7 +17849,7 @@
             "type": "poison"
         },
         {
-            "accuracy": 75,
+            "accuracy": 100,
             "extra": [
                 "30% chance to lower opponent's defense"
             ],
@@ -28177,52 +28173,44 @@
             "items": [],
             "learnset": [
                 {
-                    "level": 20,
-                    "move": "focus-energy"
+                    "level": 1,
+                    "move": "rock-smash"
                 },
                 {
-                    "level": 23,
+                    "level": 6,
+                    "move": "leer"
+                },
+                {
+                    "level": 11,
+                    "move": "faint-attack"
+                },
+                {
+                    "level": 16,
+                    "move": "headbutt"
+                },
+                {
+                    "level": 21,
                     "move": "karate-chop"
                 },
                 {
-                    "level": 25,
-                    "move": "rolling-kick"
-                },
-                {
-                    "level": 27,
-                    "move": "low-kick"
-                },
-                {
-                    "level": 30,
-                    "move": "double-edge"
-                },
-                {
-                    "level": 36,
+                    "level": 26,
                     "move": "submission"
                 },
                 {
-                    "level": 38,
-                    "move": "flame-wheel"
+                    "level": 31,
+                    "move": "mach-punch"
                 },
                 {
-                    "level": 40,
-                    "move": "mega-kick"
+                    "level": 36,
+                    "move": "foresight"
                 },
                 {
-                    "level": 42,
-                    "move": "jump-kick"
+                    "level": 41,
+                    "move": "earthquake"
                 },
                 {
-                    "level": 44,
-                    "move": "endure"
-                },
-                {
-                    "level": 47,
+                    "level": 51,
                     "move": "reversal"
-                },
-                {
-                    "level": 50,
-                    "move": "hi-jump-kick"
                 }
             ],
             "name": "sawk",
@@ -28268,48 +28256,32 @@
             "items": [],
             "learnset": [
                 {
+                    "level": 1,
+                    "move": "vital-throw"
+                },
+                {
+                    "level": 7,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 13,
+                    "move": "body-slam"
+                },
+                {
                     "level": 20,
-                    "move": "mach-punch"
-                },
-                {
-                    "level": 23,
-                    "move": "pursuit"
-                },
-                {
-                    "level": 25,
-                    "move": "comet-punch"
-                },
-                {
-                    "level": 27,
-                    "move": "dizzy-punch"
+                    "move": "faint-attack"
                 },
                 {
                     "level": 30,
-                    "move": "karate-chop"
-                },
-                {
-                    "level": 36,
                     "move": "submission"
                 },
                 {
-                    "level": 39,
-                    "move": "mega-punch"
-                },
-                {
-                    "level": 42,
+                    "level": 44,
                     "move": "rock-slide"
                 },
                 {
-                    "level": 44,
-                    "move": "detect"
-                },
-                {
-                    "level": 47,
-                    "move": "counter"
-                },
-                {
                     "level": 50,
-                    "move": "cross-chop"
+                    "move": "counter"
                 }
             ],
             "name": "throh",
@@ -36118,24 +36090,36 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "counter"
+                    "move": "leech-life"
                 },
                 {
                     "level": 1,
-                    "move": "mirror-coat"
+                    "move": "metal-claw"
                 },
                 {
-                    "level": 1,
-                    "move": "destiny-bond"
+                    "level": 12,
+                    "move": "crunch"
                 },
                 {
-                    "level": 40,
-                    "move": "encore"
+                    "level": 28,
+                    "move": "rock-slide"
                 },
                 {
-                    "level": 100,
-                    "move": "safeguard"
-                }
+                    "level": 38,
+                    "move": "fury-cutter"
+                },
+		{
+		    "level": 42,
+		    "move": "submission"
+		},
+		{
+		    "level": 50, 
+		    "move": "iron-tail"
+		},
+		{
+		    "level": 64,
+		    "move": "screech"
+		}
             ],
             "name": "durant",
             "pokedex": 202,
@@ -39026,16 +39010,6 @@
         {
             "base_experience": 91,
             "evolutions": [
-                {
-                    "into": "throh",
-                    "level": 20,
-                    "method": "level"
-                },
-                {               
-                    "into": "sawk",
-                    "level": 20,
-                    "method": "level"
-                },
                 {
                     "into": "hitmontop",
                     "level": 20,
