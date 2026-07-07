@@ -14739,64 +14739,89 @@
             "id": 16,
             "items": [
                 {
-                    "amount": "renewable",
-                    "info": "Buyable in mart",
+                    "amount": "1",
+                    "info": "reward for fighting Teru and Issac as a b2b",
+                    "item": "nugget"
+                },
+                {
+                    "amount": "1",
+                    "info": "$1500 in underground shop",
+                    "item": "pink-bow"
+                },
+                {
+                    "amount": "1",
+                    "info": "$2500 in underground shop",
+                    "item": "hard-stone"
+                },
+                {
+                    "amount": "1",
+                    "info": "$2500 in underground shop",
+                    "item": "fire-stone"
+                },
+                {
+                    "amount": "1",
+                    "info": "$2500 in underground shop",
+                    "item": "water-stone"
+                },
+                {
+                    "amount": "1",
+                    "info": "$2500 in underground shop",
                     "item": "leaf-stone"
                 },
                 {
                     "amount": "renewable",
-                    "info": "Buyable in mart",
-                    "item": "everstone"
+                    "info": "$5000 in mart 3F",
+                    "item": "hard-stone"
                 },
                 {
                     "amount": "renewable",
-                    "info": "Buyable in mart after obtaining headbutt in Ilex",
-                    "item": "tm-02"
+                    "info": "$3000 in mart 3F",
+                    "item": "poison-barb"
                 },
                 {
                     "amount": "renewable",
-                    "info": "underground vendor on sundays",
-                    "item": "tm-21"
+                    "info": "$5000 in mart 3F",
+                    "item": "charcoal"
                 },
                 {
                     "amount": "renewable",
-                    "info": "underground vendor on sundays",
-                    "item": "tm-27"
+                    "info": "$5000 in mart 3F",
+                    "item": "mystic-water"
                 },
                 {
                     "amount": "renewable",
-                    "info": "Buyable in mart",
-                    "item": "tm-33"
+                    "info": "$5000 in mart 3F",
+                    "item": "miracle-seed"
                 },
                 {
                     "amount": "renewable",
-                    "info": "Buyable in mart",
+                    "info": "$5000 in mart 4F",
+                    "item": "soft-sand"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$5000 in mart 4F",
+                    "item": "sharp-beak"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$5000 in mart 4F",
+                    "item": "magnet"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$1000 in mart 5F",
                     "item": "tm-41"
                 },
                 {
                     "amount": "renewable",
-                    "info": "Buyable in mart",
+                    "info": "$1000 in mart 5F",
                     "item": "tm-48"
                 },
                 {
                     "amount": "renewable",
-                    "info": "Buyable in mart after obtaining it on route 36",
-                    "item": "tm-08"
-                },
-                {
-                    "amount": "1",
-                    "info": "Buyable in game corner",
-                    "item": "tm-25"
-                },
-                {
-                    "amount": "1",
-                    "info": "Buyable in game corner",
-                    "item": "tm-38"
-                },
-                {
-                    "amount": "1",
-                    "info": "Buyable in game corner",
-                    "item": "tm-14"
+                    "info": "$1000 in mart 5F",
+                    "item": "tm-33"
                 },
                 {
                     "amount": "1",
@@ -14901,11 +14926,6 @@
             "items": [
                 {
                     "amount": "1",
-                    "info": "right path",
-                    "item": "tm-28"
-                },
-                {
-                    "amount": "1",
                     "info": "given by the woman on bench",
                     "item": "quick-claw"
                 },
@@ -14918,11 +14938,6 @@
                     "amount": "1",
                     "info": "win bug catching contest",
                     "item": "silverpowder"
-                },
-                {
-                    "amount": "1",
-                    "info": "talk to fisherman inside the gate",
-                    "item": "old-rod"
                 }
             ],
             "locations": [
