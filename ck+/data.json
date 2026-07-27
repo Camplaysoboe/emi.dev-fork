@@ -13861,7 +13861,7 @@
             "name": "fire-stone"
         },
         {
-            "description": "Evolves Eevee into Jolteon",
+            "description": "Evolves Eelektrik into Eelektross",
             "name": "thunderstone"
         },
         {
@@ -15016,7 +15016,12 @@
                     "amount": "renewable",
                     "info": "$1000 in mart",
                     "item": "focus-band"
-                }
+                },
+				{
+					"amount": "renewable",
+					"info": "$10000 in mart",
+					"item": "thunderstone"
+				}
             ],
             "locations": [
                 "ecruteak-city"
