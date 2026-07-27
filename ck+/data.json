@@ -5919,17 +5919,17 @@
                         "day": [
                             {
                                 "chance": 30,
-                                "level": 3,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
                                 "chance": 30,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
                                 "chance": 20,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
@@ -5939,7 +5939,7 @@
                             },
                             {
                                 "chance": 5,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "mienfoo"
                             },
                             {
@@ -5956,17 +5956,17 @@
                         "morning": [
                             {
                                 "chance": 30,
-                                "level": 3,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
                                 "chance": 30,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
                                 "chance": 20,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
@@ -5976,7 +5976,7 @@
                             },
                             {
                                 "chance": 5,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "roggenrola"
                             },
                             {
@@ -5993,17 +5993,17 @@
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 3,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
                                 "chance": 30,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
                                 "chance": 20,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "woobat"
                             },
                             {
@@ -6013,7 +6013,7 @@
                             },
                             {
                                 "chance": 5,
-                                "level": 2,
+                                "level": 4,
                                 "pokemon": "cubchoo"
                             },
                             {
@@ -6714,17 +6714,17 @@
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 7,
+                                "level": 6,
                                 "pokemon": "munna"
                             },
                             {
                                 "chance": 30,
-                                "level": 7,
+                                "level": 6,
                                 "pokemon": "solosis"
                             },
                             {
                                 "chance": 20,
-                                "level": 7,
+                                "level": 6,
                                 "pokemon": "gothita"
                             },
                             {
@@ -17159,7 +17159,7 @@
             ],
             "index": 71,
             "name": "absorb",
-            "power": 20,
+            "power": 40,
             "pp": 20,
             "template": "drain-half",
             "type": "grass"
@@ -17712,7 +17712,7 @@
             ],
             "index": 72,
             "name": "mega-drain",
-            "power": 40,
+            "power": 60,
             "pp": 10,
             "template": "drain-half",
             "type": "grass"
@@ -18780,7 +18780,7 @@
             ],
             "index": 192,
             "name": "zap-cannon",
-            "power": 100,
+            "power": 120,
             "pp": 5,
             "type": "electric"
         },
@@ -19172,7 +19172,7 @@
             ],
             "index": 211,
             "name": "steel-wing",
-            "power": 80,
+            "power": 70,
             "pp": 25,
             "type": "steel"
         },
@@ -19687,7 +19687,7 @@
             ]
         },
         {
-            "base_experience": 65,
+            "base_experience": 58,
             "evolutions": [
                 {
                     "into": "duosion",
@@ -19764,7 +19764,7 @@
             ]
         },
         {
-            "base_experience": 142,
+            "base_experience": 130,
             "evolutions": [
                 {
                     "into": "reuniclus",
@@ -19837,7 +19837,7 @@
             ]
         },
         {
-            "base_experience": 209,
+            "base_experience": 221,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -19906,7 +19906,7 @@
             ]
         },
         {
-            "base_experience": 66,
+            "base_experience": 59,
             "evolutions": [
                 {
                     "into": "palpitoad",
@@ -19987,7 +19987,7 @@
             ]
         },
         {
-            "base_experience": 143,
+            "base_experience": 134,
             "evolutions": [
                 {
                     "into": "seismitoad",
@@ -20069,7 +20069,7 @@
             ]
         },
         {
-            "base_experience": 210,
+            "base_experience": 229,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -20139,7 +20139,7 @@
             ]
         },
         {
-            "base_experience": 53,
+            "base_experience": 64,
             "evolutions": [
                 {
                     "into": "fraxure",
@@ -20175,7 +20175,7 @@
             ]
         },
         {
-            "base_experience": 72,
+            "base_experience": 144,
             "evolutions": [
                 {
                     "into": "haxorus",
@@ -20211,7 +20211,7 @@
             ]
         },
         {
-            "base_experience": 160,
+            "base_experience": 243,
             "gender": "f50",
             "items": [
                 {
@@ -20357,7 +20357,7 @@
             ]
         },
         {
-            "base_experience": 71,
+            "base_experience": 126,
             "evolutions": [
                 {
                     "into": "scolipede",
@@ -20410,7 +20410,7 @@
             ]
         },
         {
-            "base_experience": 159,
+            "base_experience": 218,
             "gender": "f50",
             "items": [
                 {
@@ -20511,11 +20511,11 @@
             ]
         },
         {
-            "base_experience": 55,
+            "base_experience": 53,
             "evolutions": [
                 {
                     "into": "tranquill",
-                    "level": 18,
+                    "level": 16,
                     "method": "level"
                 }
             ],
@@ -20539,10 +20539,6 @@
                     "move": "quick-attack"
                 },
                 {
-                    "level": 21,
-                    "move": "whirlwind"
-                },
-                {
                     "level": 29,
                     "move": "wing-attack"
                 }
@@ -20564,7 +20560,7 @@
                 "sunny-day",
                 "snore",
                 "protect",
-		"wing-attack",
+				"wing-attack",
                 "endure",
                 "frustration",
                 "return",
@@ -20585,7 +20581,7 @@
             ]
         },
         {
-            "base_experience": 113,
+            "base_experience": 125,
             "evolutions": [
                 {
                     "into": "unfezant",
@@ -20614,11 +20610,11 @@
                 },
                 {
                     "level": 22,
-                    "move": "steel-wing"
+                    "move": "swift"
                 },
                 {
-                    "level": 33,
-                    "move": "drill-peck"
+                    "level": 29,
+                    "move": "wing-attack"
                 }
             ],
             "name": "tranquill",
@@ -20638,7 +20634,7 @@
                 "sunny-day",
                 "snore",
                 "protect",
-		"wing-attack",
+				"wing-attack",
                 "endure",
                 "frustration",
                 "return",
@@ -20659,53 +20655,29 @@
             ]
         },
         {
-            "base_experience": 172,
+            "base_experience": 220,
             "gender": "f50",
             "items": [],
             "learnset": [
                 {
                     "level": 1,
-                    "move": "gust"
+                    "move": "tackle"
                 },
                 {
-                    "level": 5,
-                    "move": "sand-attack"
-                },
-                {
-                    "level": 12,
-                    "move": "quick-attack"
-                },
-                {
-                    "level": 16,
+                    "level": 33,
                     "move": "wing-attack"
                 },
                 {
-                    "level": 21,
-                    "move": "whirlwind"
-                },
-                {
-                    "level": 22,
+                    "level": 37,
                     "move": "drill-peck"
                 },
                 {
-                    "level": 25,
-                    "move": "extremespeed"
+                    "level": 48,
+                    "move": "double-edge"
                 },
                 {
-                    "level": 30,
-                    "move": "steel-wing"
-                },
-                {
-                    "level": 36,
-                    "move": "flamethrower"
-                },
-                {
-                    "level": 40,
-                    "move": "endure"
-                },
-                {
-                    "level": 50,
-                    "move": "aeroblast"
+                    "level": 54,
+                    "move": "sky-attack"
                 }
             ],
             "name": "unfezant",
@@ -20747,7 +20719,7 @@
             ]
         },
         {
-            "base_experience": 57,
+            "base_experience": 51,
             "evolutions": [
                 {
                     "into": "watchog",
@@ -20817,7 +20789,7 @@
             ]
         },
         {
-            "base_experience": 116,
+            "base_experience": 147,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -20886,7 +20858,7 @@
             ]
         },
         {
-            "base_experience": 58,
+            "base_experience": 70,
             "evolutions": [
                 {
                     "into": "braviary",
@@ -20964,7 +20936,7 @@
             ]
         },
         {
-            "base_experience": 162,
+            "base_experience": 179,
             "gender": "f50",
             "items": [
                 {
@@ -21037,12 +21009,12 @@
             ]
         },
         {
-            "base_experience": 62,
+            "base_experience": 60,
             "evolutions": [
                 {
                     "into": "cinccino",
-                    "level": 30,
-                    "method": "level"
+                    "Item": "moon-stone",
+                    "method": "Item"
                 }
             ],
             "gender": "f50",
@@ -21065,16 +21037,24 @@
                     "move": "charm"
                 },
                 {
-                    "level": 16,
+                    "level": 17,
                     "move": "doubleslap"
                 },
                 {
-                    "level": 20,
+                    "level": 24,
                     "move": "body-slam"
                 },
                 {
-                    "level": 24,
+                    "level": 28,
                     "move": "iron-tail"
+				},
+				{
+					"level": 32,
+					"move": "return"
+				},
+				{
+					"level": 40,
+					"move": "double-edge"
                 }
             ],
             "name": "minccino",
@@ -21114,65 +21094,41 @@
             ]
         },
         {
-            "base_experience": 147,
+            "base_experience": 165,
             "gender": "f50",
             "items": [],
             "learnset": [
                 {
                     "level": 1,
-                    "move": "wrap"
+                    "move": "swift"
                 },
                 {
                     "level": 1,
-                    "move": "leer"
+                    "move": "sing"
                 },
                 {
-                    "level": 5,
-                    "move": "acid"
+                    "level": 1,
+                    "move": "charm"
                 },
                 {
-                    "level": 9,
-                    "move": "toxic"
-                },
-                {
-                    "level": 11,
+                    "level": 24,
                     "move": "headbutt"
                 },
                 {
-                    "level": 15,
-                    "move": "bite"
+                    "level": 30,
+                    "move": "body-slam"
                 },
                 {
-                    "level": 23,
-                    "move": "glare"
+                    "level": 36,
+                    "move": "iron-tail"
                 },
                 {
-                    "level": 25,
-                    "move": "sludge-bomb"
+                    "level": 40,
+                    "move": "return"
                 },
                 {
-                    "level": 29,
-                    "move": "screech"
-                },
-                {
-                    "level": 37,
-                    "move": "acid"
-                },
-                {
-                    "level": 43,
-                    "move": "haze"
-                },
-                {
-                    "level": 46,
-                    "move": "shadow-ball"
-                },
-                {
-                    "level": 53,
-                    "move": "earthquake"
-                },
-                {
-                    "level": 66,
-                    "move": "sludge"
+                    "level": 48,
+                    "move": "double-edge"
                 }
             ],
             "name": "cinccino",
@@ -21213,7 +21169,7 @@
             ]
         },
         {
-            "base_experience": 82,
+            "base_experience": 142,
             "evolutions": [
                 {
                     "into": "eelektross",
@@ -21297,7 +21253,7 @@
             ]
         },
         {
-            "base_experience": 122,
+            "base_experience": 232,
             "gender": "f50",
             "items": [
                 {
@@ -21550,7 +21506,7 @@
             ]
         },
         {
-            "base_experience": 59,
+            "base_experience": 60,
             "evolutions": [
                 {
                     "into": "klang",
@@ -21617,7 +21573,7 @@
             ]
         },
         {
-            "base_experience": 117,
+            "base_experience": 154,
             "evolutions": [
                 {
                     "into": "klinklang",
@@ -21687,7 +21643,7 @@
             ]
         },
         {
-            "base_experience": 194,
+            "base_experience": 234,
             "gender": "f100",
             "items": [],
             "learnset": [
@@ -21764,7 +21720,7 @@
             ]
         },
         {
-            "base_experience": 60,
+            "base_experience": 58,
             "evolutions": [
                 {
                     "into": "krokorok",
@@ -21840,7 +21796,7 @@
             ]
         },
         {
-            "base_experience": 118,
+            "base_experience": 123,
             "evolutions": [
                 {
                     "into": "krookodile",
@@ -21907,7 +21863,7 @@
             ]
         },
         {
-            "base_experience": 195,
+            "base_experience": 234,
             "gender": "f0",
             "items": [],
             "learnset": [
@@ -21985,7 +21941,7 @@
             ]
         },
         {
-            "base_experience": 68,
+            "base_experience": 130,
             "evolutions": [
                 {
                     "into": "stoutland",
@@ -21994,12 +21950,7 @@
                 }
             ],
             "gender": "f75",
-            "items": [
-                {
-                    "chance": 0.23000000000000001,
-                    "item": "mysteryberry"
-                }
-            ],
+            "items": [],
             "learnset": [
                 {
                     "level": 1,
@@ -22082,14 +22033,9 @@
             ]
         },
         {
-            "base_experience": 129,
+            "base_experience": 225,
             "gender": "f75",
-            "items": [
-                {
-                    "chance": 0.23000000000000001,
-                    "item": "mysteryberry"
-                }
-            ],
+            "items": [],
             "learnset": [
                 {
                     "level": 1,
@@ -22165,7 +22111,7 @@
             ]
         },
         {
-            "base_experience": 63,
+            "base_experience": 68,
             "evolutions": [
                 {
                     "into": "bisharp",
@@ -22267,11 +22213,11 @@
             ],
             "types": [
                 "dark",
-		"steel"
+				"steel"
             ]
         },
         {
-            "base_experience": 178,
+            "base_experience": 172,
             "gender": "f75",
             "items": [
                 {
@@ -22773,7 +22719,7 @@
             ]
         },
         {
-            "base_experience": 78,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "vanillish",
@@ -22841,7 +22787,7 @@
             ]
         },
         {
-            "base_experience": 132,
+            "base_experience": 138,
             "evolutions": [
                 {
                     "into": "vanilluxe",
@@ -22897,7 +22843,7 @@
             ]
         },
         {
-            "base_experience": 184,
+            "base_experience": 241,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -23308,7 +23254,7 @@
             ]
         },
         {
-            "base_experience": 81,
+            "base_experience": 64,
             "evolutions": [
                 {
                     "into": "galvantula",
@@ -23378,7 +23324,7 @@
             ]
         },
         {
-            "base_experience": 153,
+            "base_experience": 165,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -23446,7 +23392,7 @@
             ]
         },
         {
-            "base_experience": 69,
+            "base_experience": 65,
             "evolutions": [
                 {
                     "into": "crustle",
@@ -23532,7 +23478,7 @@
             ]
         },
         {
-            "base_experience": 148,
+            "base_experience": 166,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -23597,7 +23543,7 @@
             ]
         },
         {
-            "base_experience": 80,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "ferrothorn",
@@ -23693,7 +23639,7 @@
             ]
         },
         {
-            "base_experience": 174,
+            "base_experience": 171,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -24470,7 +24416,7 @@
             ]
         },
         {
-            "base_experience": 73,
+            "base_experience": 58,
             "evolutions": [
                 {
                     "into": "gothorita",
@@ -24492,11 +24438,11 @@
                 {
                     "level": 8,
                     "move": "faint-attack"
-		},
-		{
-		    "level": 12,
-		    "move": "psybeam"
-		}
+				},
+				{
+					"level": 12,
+					"move": "psybeam"
+				}
             ],
             "name": "gothita",
             "pokedex": 63,
@@ -24541,7 +24487,7 @@
             ]
         },
         {
-            "base_experience": 145,
+            "base_experience": 137,
             "evolutions": [
                 {
                     "into": "gothitelle",
@@ -24621,7 +24567,7 @@
             ]
         },
         {
-            "base_experience": 186,
+            "base_experience": 221,
             "gender": "f25",
             "items": [],
             "learnset": [
@@ -24687,7 +24633,7 @@
             ]
         },
         {
-            "base_experience": 88,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "gurdurr",
@@ -24723,6 +24669,10 @@
                     "move": "vital-throw"
                 },
                 {
+					"level": 24,
+					"move": "mach-punch"
+				},
+				{
                     "level": 31,
                     "move": "rock-slide"
                 },
@@ -24783,7 +24733,7 @@
             ]
         },
         {
-            "base_experience": 146,
+            "base_experience": 142,
             "evolutions": [
                 {
                     "into": "conkeldurr",
@@ -24879,7 +24829,7 @@
             ]
         },
         {
-            "base_experience": 193,
+            "base_experience": 227,
             "gender": "f25",
             "items": [],
             "learnset": [
@@ -24973,7 +24923,7 @@
             ]
         },
         {
-            "base_experience": 84,
+            "base_experience": 62,
             "evolutions": [
                 {
                     "into": "swadloon",
@@ -25046,7 +24996,7 @@
             ]
         },
         {
-            "base_experience": 151,
+            "base_experience": 133,
             "evolutions": [
                 {
                     "into": "leavanny",
@@ -25119,7 +25069,7 @@
             ]
         },
         {
-            "base_experience": 191,
+            "base_experience": 225,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -25320,7 +25270,7 @@
             ]
         },
         {
-            "base_experience": 86,
+            "base_experience": 56,
             "evolutions": [
                 {
                     "into": "boldore",
@@ -25420,7 +25370,7 @@
             ]
         },
         {
-            "base_experience": 134,
+            "base_experience": 137,
             "evolutions": [
                 {
                     "into": "gigalith",
@@ -25520,7 +25470,7 @@
             ]
         },
         {
-            "base_experience": 177,
+            "base_experience": 232,
             "gender": "f50",
             "items": [
                 {
@@ -25620,7 +25570,7 @@
             ]
         },
         {
-            "base_experience": 152,
+            "base_experience": 63,
             "evolutions": [
                 {
                     "into": "simisear",
@@ -25653,7 +25603,7 @@
                 },
                 {
                     "level": 16,
-                    "move": "rock-throw"
+                    "move": "thunderpunch"
                 },
                 {
                     "level": 20,
@@ -25666,15 +25616,15 @@
                 {
                     "level": 34,
                     "move": "flamethrower"
-		},
+				},
                 {
-		    "level": 43,
-		    "move": "sludge-bomb"
-		},
-		{
-		    "level": 53,
-		    "move": "fire-blast"
-		}
+					"level": 43,
+					"move": "sludge-bomb"
+				},
+				{
+					"level": 53,
+					"move": "fire-blast"
+				}
             ],
             "name": "pansear",
             "pokedex": 77,
@@ -25711,7 +25661,7 @@
             ]
         },
         {
-            "base_experience": 192,
+            "base_experience": 174,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -26614,7 +26564,7 @@
             ]
         },
         {
-            "base_experience": 90,
+            "base_experience": 56,
             "evolutions": [
                 {
                     "into": "garbodor",
@@ -26694,7 +26644,7 @@
             ]
         },
         {
-            "base_experience": 157,
+            "base_experience": 166,
             "gender": "f50",
             "items": [
                 {
@@ -26772,7 +26722,7 @@
             ]
         },
         {
-            "base_experience": 97,
+            "base_experience": 70,
             "evolutions": [
                 {
                     "into": "scrafty",
@@ -26781,12 +26731,7 @@
                 }
             ],
             "gender": "f50",
-            "items": [
-                {
-                    "chance": 0.23000000000000001,
-                    "item": "pearl"
-                }
-            ],
+            "items": [],
             "learnset": [
                 {
                     "level": 1,
@@ -26853,14 +26798,9 @@
             ]
         },
         {
-            "base_experience": 203,
+            "base_experience": 171,
             "gender": "f50",
-            "items": [
-                {
-                    "chance": 0.23000000000000001,
-                    "item": "pearl"
-                }
-            ],
+            "items": [],
             "learnset": [
                  {
                     "level": 1,
@@ -26917,7 +26857,7 @@
             ]
         },
         {
-            "base_experience": 95,
+            "base_experience": 55,
             "evolutions": [
                 {
                     "into": "lampent",
@@ -27018,7 +26958,7 @@
             ]
         },
         {
-            "base_experience": 126,
+            "base_experience": 130,
             "evolutions": [
                 {
                     "into": "chandelure",
@@ -27127,7 +27067,7 @@
             ]
         },
         {
-            "base_experience": 190,
+            "base_experience": 234,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -27741,11 +27681,11 @@
             ]
         },
         {
-            "base_experience": 103,
+            "base_experience": 70,
             "evolutions": [
                 {
                     "into": "mienshao",
-                    "level": 40,
+                    "level": 50,
                     "method": "level"
                 }
             ],
@@ -27773,6 +27713,10 @@
                     "move": "wing-attack"
                 },
                 {
+					"level": 24,
+					"move": "mach-punch"
+				},
+				{
                     "level": 26,
                     "move": "submission"
                 }
@@ -27812,7 +27756,7 @@
             ]
         },
         {
-            "base_experience": 150,
+            "base_experience": 179,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -27865,7 +27809,7 @@
             ]
         },
         {
-            "base_experience": 98,
+            "base_experience": 74,
             "evolutions": [
                 {
                     "into": "mandibuzz",
@@ -27947,7 +27891,7 @@
             ]
         },
         {
-            "base_experience": 212,
+            "base_experience": 179,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -28008,7 +27952,7 @@
             ]
         },
         {
-            "base_experience": 87,
+            "base_experience": 66,
             "evolutions": [
                 {
                     "into": "zoroark",
@@ -28017,12 +27961,7 @@
                 }
             ],
             "gender": "f50",
-            "items": [
-                {
-                    "chance": 0.0200000000000000004,
-                    "item": "thick-club"
-                }
-            ],
+            "items": [],
             "learnset": [
                 {
                     "level": 1,
@@ -28097,14 +28036,9 @@
             ]
         },
         {
-            "base_experience": 124,
+            "base_experience": 179,
             "gender": "f50",
-            "items": [
-                {
-                    "chance": 0.0200000000000000004,
-                    "item": "thick-club"
-                }
-            ],
+            "items": [],
             "learnset": [
                 {
                     "level": 1,
@@ -28168,7 +28102,7 @@
             ]
         },
         {
-            "base_experience": 139,
+            "base_experience": 163,
             "gender": "f0",
             "items": [],
             "learnset": [
@@ -28251,7 +28185,7 @@
             ]
         },
         {
-            "base_experience": 140,
+            "base_experience": 163,
             "gender": "f0",
             "items": [],
             "learnset": [
@@ -28819,14 +28753,7 @@
             ]
         },
         {
-            "base_experience": 255,
-            "evolutions": [
-                {
-                    "into": "blissey",
-                    "item": "lucky-egg",
-                    "method": "item"
-                }
-            ],
+            "base_experience": 392,
             "gender": "f100",
             "items": [
                 {
@@ -28908,7 +28835,7 @@
             ]
         },
         {
-            "base_experience": 166,
+            "base_experience": 161,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -29267,7 +29194,7 @@
             ]
         },
         {
-            "base_experience": 111,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "beartic",
@@ -29665,12 +29592,12 @@
             ]
         },
         {
-            "base_experience": 187,
+            "base_experience": 63,
             "evolutions": [
                 {
                     "into": "escavalier",
-                    "item": "metal-coat",
-                    "method": "item"
+                    "level": "37",
+                    "method": "level"
                 }
             ],
             "gender": "f50",
@@ -29678,43 +29605,31 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "quick-attack"
-                },
-                {
-                    "level": 1,
-                    "move": "leer"
+                    "move": "peck"
                 },
                 {
                     "level": 6,
-                    "move": "focus-energy"
+                    "move": "headbutt"
                 },
                 {
                     "level": 12,
-                    "move": "pursuit"
+                    "move": "acid"
                 },
                 {
                     "level": 18,
-                    "move": "false-swipe"
-                },
-                {
-                    "level": 22,
-                    "move": "fury-cutter"
+                    "move": "string-shot"
                 },
                 {
                     "level": 24,
-                    "move": "wing-attack"
+                    "move": "pin-missile"
                 },
                 {
-                    "level": 36,
-                    "move": "slash"
-                },
-	        {
-                    "level": 52,
-                    "move": "sky-attack"
+                    "level": 30,
+                    "move": "rock-smash"
                 },
                 {
-                    "level": 58,
-                    "move": "double-team"
+                    "level": 38,
+                    "move": "horn-attack"
                 }
             ],
             "name": "karrablast",
@@ -29757,14 +29672,9 @@
             ]
         },
         {
-            "base_experience": 137,
-            "gender": "f100",
-            "items": [
-                {
-                    "chance": 0.25,
-                    "item": "ice-berry"
-                }
-            ],
+            "base_experience": 170,
+            "gender": "f50",
+            "items": [],
             "learnset": [
                 {
                     "level": 1,
@@ -29776,7 +29686,7 @@
                 },
                 {
                     "level": 30,
-                    "move": "recover"
+                    "move": "moonlight"
                 },
                 {
                     "level": 36,
@@ -29827,7 +29737,7 @@
             ]
         },
         {
-            "base_experience": 156,
+            "base_experience": 174,
             "gender": "f25",
             "items": [],
             "learnset": [
@@ -29840,28 +29750,20 @@
                     "move": "flame-wheel"
                 },
                 {
-                    "level": 36,
-                    "move": "screech"
+                    "level": 32,
+                    "move": "body-slam"
                 },
                 {
-                    "level": 47,
+                    "level": 40,
                     "move": "thunderbolt"
                 },
                 {
-                    "level": 58,
-                    "move": "thunder"
+                    "level": 48,
+                    "move": "double-edge"
                 },
                 {
-                    "level": 31,
-                    "move": "screech"
-                },
-                {
-                    "level": 47,
-                    "move": "thunderbolt"
-                },
-                {
-                    "level": 58,
-                    "move": "thunder"
+                    "level": 55,
+                    "move": "zap-cannon"
                 }
             ],
             "name": "zebstrika",
@@ -29911,7 +29813,7 @@
             ]
         },
         {
-            "base_experience": 167,
+            "base_experience": 168,
             "gender": "f25",
             "items": [
                 {
@@ -30064,7 +29966,7 @@
             ]
         },
         {
-            "base_experience": 211,
+            "base_experience": 172,
             "gender": "f0",
             "items": [],
             "learnset": [
@@ -30155,11 +30057,11 @@
             ]
         },
         {
-            "base_experience": 20,
+            "base_experience": 72,
             "evolutions": [
                 {
                     "into": "volcarona",
-                    "level": 30,
+                    "level": 59,
                     "method": "level"
                 }
             ],
@@ -30204,7 +30106,7 @@
             ]
         },
         {
-            "base_experience": 214,
+            "base_experience": 248,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -30302,7 +30204,7 @@
             ]
         },
         {
-            "base_experience": 219,
+            "base_experience": 165,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -30398,7 +30300,7 @@
             ]
         },
         {
-            "base_experience": 61,
+            "base_experience": 170,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -30844,7 +30746,7 @@
             ]
         },
         {
-            "base_experience": 130,
+            "base_experience": 67,
             "evolutions": [
                 {
                     "into": "sawsbuck",
@@ -30921,7 +30823,7 @@
             ]
         },
         {
-            "base_experience": 120,
+            "base_experience": 71,
             "evolutions": [
                 {
                     "into": "archeops",
@@ -31005,7 +30907,7 @@
             ]
         },
         {
-            "base_experience": 199,
+            "base_experience": 177,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -31095,7 +30997,7 @@
             ]
         },
         {
-            "base_experience": 119,
+            "base_experience": 71,
             "evolutions": [
                 {
                     "into": "carracosta",
@@ -31177,7 +31079,7 @@
             ]
         },
         {
-            "base_experience": 201,
+            "base_experience": 173,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -31352,7 +31254,7 @@
             ]
         },
         {
-            "base_experience": 154,
+            "base_experience": 266,
             "gender": "f12.5",
             "items": [
                 {
@@ -31446,11 +31348,11 @@
             ],
             "types": [
                 "water",
-		"fighting"
+				"fighting"
             ]
         },
         {
-            "base_experience": 215,
+            "base_experience": 266,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -31513,7 +31415,7 @@
             ]
         },
         {
-            "base_experience": 216,
+            "base_experience": 266,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -31578,7 +31480,7 @@
             ]
         },
         {
-            "base_experience": 217,
+            "base_experience": 280,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -31641,7 +31543,7 @@
             ]
         },
         {
-            "base_experience": 67,
+            "base_experience": 50,
             "evolutions": [
                 {
                     "into": "zweilous",
@@ -31707,7 +31609,7 @@
             ]
         },
         {
-            "base_experience": 144,
+            "base_experience": 147,
             "evolutions": [
                 {
                     "into": "hydreigon",
@@ -31798,7 +31700,7 @@
             ]
         },
         {
-            "base_experience": 218,
+            "base_experience": 266,
             "gender": "f50",
             "items": [
                 {
@@ -31899,7 +31801,7 @@
             ]
         },
         {
-            "base_experience": 220,
+            "base_experience": 294,
             "gender": "unknown",
             "items": [
                 {
@@ -31979,11 +31881,11 @@
             ],
             "types": [
                 "dragon",
-		"ice"
+				"ice"
             ]
         },
         {
-            "base_experience": 64,
+            "base_experience": 294,
             "gender": "unknown",
             "items": [
                 {
@@ -32001,7 +31903,7 @@
                     "move": "metronome"
                 }
             ],
-            "name": "mew",
+            "name": "victini",
             "pokedex": 151,
             "stats": {
                 "atk": 100,
@@ -32074,11 +31976,11 @@
             ],
             "types": [
                 "psychic",
-		"fire"
+				"fire"
             ]
         },
         {
-            "base_experience": 64,
+            "base_experience": 62,
             "evolutions": [
                 {
                     "into": "servine",
@@ -32149,7 +32051,7 @@
             ]
         },
         {
-            "base_experience": 141,
+            "base_experience": 145,
             "evolutions": [
                 {
                     "into": "serperior",
@@ -32219,7 +32121,7 @@
             ]
         },
         {
-            "base_experience": 208,
+            "base_experience": 238,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -32281,7 +32183,7 @@
             ]
         },
         {
-            "base_experience": 65,
+            "base_experience": 62,
             "evolutions": [
                 {
                     "into": "pignite",
@@ -32346,7 +32248,7 @@
             ]
         },
         {
-            "base_experience": 142,
+            "base_experience": 146,
             "evolutions": [
                 {
                     "into": "emboar",
@@ -32428,7 +32330,7 @@
             ]
         },
         {
-            "base_experience": 209,
+            "base_experience": 238,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -32508,7 +32410,7 @@
             ]
         },
         {
-            "base_experience": 66,
+            "base_experience": 62,
             "evolutions": [
                 {
                     "into": "dewott",
@@ -32574,7 +32476,7 @@
             ]
         },
         {
-            "base_experience": 143,
+            "base_experience": 145,
             "evolutions": [
                 {
                     "into": "samurott",
@@ -32590,12 +32492,12 @@
                     "move": "pound"
                 },
                 {
-                    "level": 17,
-                    "move": "bubblebeam"
+                    "level": 14,
+                    "move": "icy-wind"
                 },
                 {
-                    "level": 22,
-                    "move": "icy-wind"
+                    "level": 17,
+                    "move": "bubblebeam"
                 },
                 {
                     "level": 24,
@@ -32648,7 +32550,7 @@
             ]
         },
         {
-            "base_experience": 210,
+            "base_experience": 238,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -32722,7 +32624,7 @@
             ]
         },
         {
-            "base_experience": 57,
+            "base_experience": 56,
             "evolutions": [
                 {
                     "into": "liepard",
@@ -32806,7 +32708,7 @@
             ]
         },
         {
-            "base_experience": 116,
+            "base_experience": 156,
             "gender": "f50",
             "items": [
                 {
@@ -32885,7 +32787,7 @@
             ]
         },
         {
-            "base_experience": 58,
+            "base_experience": 67,
             "evolutions": [
                 {
                     "into": "beheeyem",
@@ -32937,7 +32839,7 @@
                 "hp": 55,
                 "spa": 85,
                 "spd": 55,
-                "spe": 55
+                "spe": 30
             },
             "tmhm": [
                 "curse",
@@ -32946,7 +32848,7 @@
                 "sunny-day",
                 "snore",
                 "protect",
-		"wing-attack",
+				"wing-attack",
                 "endure",
                 "frustration",
                 "return",
@@ -32969,7 +32871,7 @@
             ]
         },
         {
-            "base_experience": 162,
+            "base_experience": 170,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -33027,7 +32929,7 @@
             ]
         },
         {
-            "base_experience": 54,
+            "base_experience": 56,
             "evolutions": [
                 {
                     "into": "lilligant",
@@ -33106,7 +33008,7 @@
             ]
         },
         {
-            "base_experience": 134,
+            "base_experience": 168,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -33171,7 +33073,7 @@
             ]
         },
         {
-            "base_experience": 54,
+            "base_experience": 56,
             "evolutions": [
                 {
                     "into": "whimsicott",
@@ -33260,7 +33162,7 @@
             ]
         },
         {
-            "base_experience": 134,
+            "base_experience": 168,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -33399,7 +33301,7 @@
             ]
         },
         {
-            "base_experience": 90,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "cofagrigus",
@@ -33492,7 +33394,7 @@
             ]
         },
         {
-            "base_experience": 156,
+            "base_experience": 169,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -33579,7 +33481,7 @@
             ]
         },
         {
-            "base_experience": 42,
+            "base_experience": 55,
             "evolutions": [
                 {
                     "into": "eelektrik",
@@ -33648,7 +33550,7 @@
             ]
         },
         {
-            "base_experience": 37,
+            "base_experience": 55,
             "evolutions": [
                 {
                     "into": "herdier",
@@ -33657,12 +33559,7 @@
                 }
             ],
             "gender": "f75",
-            "items": [
-                {
-                    "chance": 0.23000000000000001,
-                    "item": "mysteryberry"
-                }
-            ],
+            "items": [],
             "learnset": [
                 {
                     "level": 1,
@@ -33810,7 +33707,7 @@
             ]
         },
         {
-            "base_experience": 74,
+            "base_experience": 189,
             "gender": "f12.5",
             "items": [],
             "learnset": [
@@ -33986,7 +33883,7 @@
             ]
         },
         {
-            "base_experience": 73,
+            "base_experience": 63,
             "evolutions": [
                 {
                     "into": "swoobat",
@@ -34040,7 +33937,7 @@
                 "sunny-day",
                 "snore",
                 "protect",
-		"wing-attack",
+				"wing-attack",
                 "giga-drain",
                 "endure",
                 "frustration",
@@ -34064,7 +33961,7 @@
             ]
         },
         {
-            "base_experience": 171,
+            "base_experience": 149,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -34445,7 +34342,7 @@
             ]
         },
         {
-            "base_experience": 58,
+            "base_experience": 63,
             "evolutions": [
                 {
                     "into": "simipour",
@@ -34536,7 +34433,7 @@
             ]
         },
         {
-            "base_experience": 153,
+            "base_experience": 174,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -34603,7 +34500,7 @@
             ]
         },
         {
-            "base_experience": 135,
+            "base_experience": 169,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -35051,7 +34948,7 @@
             ]
         },
         {
-            "base_experience": 94,
+            "base_experience": 165,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -35140,11 +35037,11 @@
             ],
             "types": [
                 "ground",
-		"electric"
+				"electric"
             ]
         },
         {
-            "base_experience": 52,
+            "base_experience": 63,
             "evolutions": [
                 {
                     "into": "simisage",
@@ -35175,34 +35072,34 @@
                     "level": 8,
                     "move": "karate-chop"
                 },
-		{
-		    "level": 10,
-		    "move": "giga-drain"
-		},
-		{
-		    "level": 14,
-		    "move": "rock-throw"
-		},
-		{
-		    "level": 20,
-		    "move": "karate-chop"
-		},
-		{
-		    "level": 24,
-		    "move": "rock-slide"
-		},
-		{
-		    "level": 28,
-		    "move": "giga-drain"
-		},
-		{
-		    "level": 40,
-		    "move": "cross-chop"
-		},
-		{
-		    "level": 50,
-		    "move": "earthquake"
-		}		
+				{
+					"level": 10,
+					"move": "razor-leaf"
+				},
+				{
+					"level": 14,
+					"move": "mega-drain"
+				},
+				{
+					"level": 20,
+					"move": "rock-slide"
+				},
+				{
+					"level": 24,
+					"move": "giga-drain"
+				},
+				{
+					"level": 28,
+					"move": "submission"
+				},
+				{
+					"level": 40,
+					"move": "cross-chop"
+				},
+				{
+					"level": 50,
+					"move": "earthquake"
+				}		
             ],
             "name": "pansage",
             "pokedex": 191,
@@ -35240,7 +35137,7 @@
             ]
         },
         {
-            "base_experience": 146,
+            "base_experience": 174,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -35778,7 +35675,7 @@
             ]
         },
         {
-            "base_experience": 107,
+            "base_experience": 150,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -36084,7 +35981,7 @@
             ]
         },
         {
-            "base_experience": 177,
+            "base_experience": 169,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -36108,18 +36005,18 @@
                     "level": 38,
                     "move": "fury-cutter"
                 },
-		{
-		    "level": 42,
-		    "move": "submission"
-		},
-		{
-		    "level": 50, 
-		    "move": "iron-tail"
-		},
-		{
-		    "level": 64,
-		    "move": "screech"
-		}
+				{
+					"level": 42,
+					"move": "submission"
+				},
+				{
+					"level": 50, 
+					"move": "iron-tail"
+				},
+				{
+					"level": 64,
+					"move": "screech"
+				}
             ],
             "name": "durant",
             "pokedex": 202,
@@ -36241,7 +36138,7 @@
             ]
         },
         {
-            "base_experience": 60,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "accelgor",
@@ -36315,7 +36212,7 @@
             ]
         },
         {
-            "base_experience": 118,
+            "base_experience": 173,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -36692,7 +36589,7 @@
             ]
         },
         {
-            "base_experience": 63,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "golurk",
@@ -36804,7 +36701,7 @@
             ]
         },
         {
-            "base_experience": 178,
+            "base_experience": 169,
             "gender": "f75",
             "items": [],
             "learnset": [
@@ -36910,7 +36807,7 @@
             ]
         },
         {
-            "base_experience": 100,
+            "base_experience": 161,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -36991,49 +36888,21 @@
             ]
         },
         {
-            "base_experience": 200,
+            "base_experience": 173,
             "gender": "f50",
             "items": [],
             "learnset": [
-               {
-                    "level": 1,
-                    "move": "quick-attack"
-                },
                 {
                     "level": 1,
-                    "move": "leer"
-                },
-                {
-                    "level": 6,
-                    "move": "focus-energy"
-                },
-                {
-                    "level": 12,
-                    "move": "pursuit"
-                },
-                {
-                    "level": 22,
-                    "move": "fury-cutter"
-                },
-                {
-                    "level": 24,
-                    "move": "metal-claw"
-                },
-                {
-                    "level": 36,
                     "move": "slash"
                 },
                 {
-                    "level": 48,
-                    "move": "mach-punch"
-                },
-	        {
-                    "level": 52,
-                    "move": "cross-chop"
+                    "level": 41,
+                    "move": "horn-attack"
                 },
                 {
-                    "level": 58,
-                    "move": "double-team"
+                    "level": 48,
+                    "move": "metal-claw"
                 }
             ],
             "name": "escavalier",
@@ -38002,7 +37871,7 @@
             ]
         },
         {
-            "base_experience": 78,
+            "base_experience": 61,
             "evolutions": [
                 {
                     "into": "swanna",
@@ -38069,7 +37938,7 @@
             ]
         },
         {
-            "base_experience": 164,
+            "base_experience": 166,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -38218,7 +38087,7 @@
             ]
         },
         {
-            "base_experience": 168,
+            "base_experience": 172,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -38253,10 +38122,10 @@
                 {
                     "level": 49,
                     "move": "light-screen"
-		},
-		{
-		    "level": 49,
-		    "move": "reflect"
+				},
+				{
+					"level": 49,
+					"move": "reflect"
                 }
             ],
             "name": "sigilyph",
@@ -38376,7 +38245,7 @@
             ]
         },
         {
-            "base_experience": 114,
+            "base_experience": 63,
             "evolutions": [
                 {
                     "into": "darmanitan",
@@ -38461,7 +38330,7 @@
             ]
         },
         {
-            "base_experience": 204,
+            "base_experience": 168,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -38623,7 +38492,7 @@
             ]
         },
         {
-            "base_experience": 124,
+            "base_experience": 66,
             "evolutions": [
                 {
                     "into": "excadrill",
@@ -38706,7 +38575,7 @@
             ]
         },
         {
-            "base_experience": 189,
+            "base_experience": 178,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -38800,7 +38669,7 @@
             ]
         },
         {
-            "base_experience": 180,
+            "base_experience": 166,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -38863,7 +38732,7 @@
             ]
         },
         {
-            "base_experience": 165,
+            "base_experience": 170,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -38946,7 +38815,7 @@
             ]
         },
         {
-            "base_experience": 106,
+            "base_experience": 280,
             "gender": "f50",
             "items": [],
             "learnset": [
@@ -39148,15 +39017,15 @@
             ]
         },
         {
-            "base_experience": 87,
+            "base_experience": 58,
             "evolutions": [
                 {
                     "into": "musharna",
-                    "level": 25,
-                    "method": "level"
+                    "item": "moon-stone",
+                    "method": "item"
                 }
             ],
-            "gender": "f100",
+            "gender": "f50",
             "items": [],
             "learnset": [
                 {
@@ -39176,11 +39045,11 @@
                     "move": "dream-eater"
                 },
                 {
-                    "level": 21,
+                    "level": 16,
                     "move": "rock-slide"
                 },
                 {
-                    "level": 25,
+                    "level": 21,
                     "move": "shadow-ball"
                 }
             ],
@@ -39226,7 +39095,7 @@
             ]
         },
         {
-            "base_experience": 106,
+            "base_experience": 59,
             "evolutions": [
                 {
                     "into": "zebstrika",
@@ -39309,7 +39178,7 @@
             ]
         },
         {
-            "base_experience": 117,
+            "base_experience": 67,
             "evolutions": [
                 {
                     "into": "jellicent",
@@ -39590,7 +39459,7 @@
             ]
         },
         {
-            "base_experience": 216,
+            "base_experience": 266,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -39642,11 +39511,11 @@
             ],
             "types": [
                 "grass",
-		"fighting"
+				"fighting"
             ]
         },
         {
-            "base_experience": 217,
+            "base_experience": 266,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -39698,11 +39567,11 @@
             ],
             "types": [
                 "rock",
-		"fighting"
+				"fighting"
             ]
         },
         {
-            "base_experience": 215,
+            "base_experience": 266,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -39763,7 +39632,7 @@
             ],
             "types": [
                 "steel",
-		"fighting"
+				"fighting"
             ]
         },
         {
@@ -40021,7 +39890,7 @@
             ]
         },
         {
-            "base_experience": 220,
+            "base_experience": 308,
             "gender": "unknown",
             "items": [],
             "learnset": [
@@ -40098,7 +39967,7 @@
             ]
         },
         {
-            "base_experience": 220,
+            "base_experience": 308,
             "gender": "unknown",
             "items": [
                 {
@@ -40180,7 +40049,7 @@
             ]
         },
         {
-            "base_experience": 64,
+            "base_experience": 280,
             "gender": "unknown",
             "items": [
                 {
@@ -40363,14 +40232,13 @@
       "name": "bug-catcher-don",
       "team": [
         {
-          "name": "joltik",
+          "name": "shelmet",
           "level": 11,
-          "item": "magnet",
+          "item": "berry",
           "moves": [
-            "thundershock",
-            "thunder-wave",
-            "leech-life",
-	    	"mega-drain"
+            "mega-drain",
+            "acid",
+            "leech-life"
           ]
         },
         {
@@ -40380,7 +40248,7 @@
           "moves": [
             "rock-throw",
             "leech-life",
-	   	 	"dig"
+	   	 	"mud-slap"
           ]
         },
         {
@@ -40487,7 +40355,7 @@
           "item": "berry",
           "moves": [
             "flame-wheel",
-            "thunderpunch",
+            "spark",
             "faint-attack"
           ]
         },
@@ -40495,11 +40363,11 @@
           "name": "petilil",
                     "dvs": {
                         "atk": 14,
-			"def": 13,
-			"hp": 7,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 11,
           "item": "berry",
@@ -40595,10 +40463,7 @@
           "level": 12,
           "item": "berry",
           "moves": [
-            "bite",
-            "night-shade",
-            "confusion",
-            "confuse-ray"
+            "transform"
           ]
         },
 		{
@@ -40760,14 +40625,14 @@
           "item": "magnet",
           "moves": [
             "spark",
-            "wing-attack",
+            "gust",
             "quick-attack"
           ]
         },
         {
           "name": "rufflet",
-          "level": 16,
-          "item": "berry",
+          "level": 15,
+          "item": "pink-bow",
           "moves": [
             "rock-smash",
             "quick-attack",
@@ -40775,14 +40640,14 @@
           ]
         },
         {
-          "name": "archen",
+          "name": "golett",
           "level": 14,
           "item": "hard-stone",
           "moves": [
-            "rock-throw",
-            "wing-attack",
-	    	"mud-slap",
-	    	"steel-wing"
+            "shadow-ball",
+            "mud-slap",
+	    	"fly",
+	    	"rock-throw"
           ]
         },
         {
@@ -40807,12 +40672,12 @@
         },
         {
           "name": "sigilyph",
-          "level": 14,
+          "level": 16,
           "item": "mint-berry",
           "moves": [
             "confusion",
             "hypnosis",
-            "mega-drain",
+            "absorb",
             "night-shade"
           ]
         }
@@ -41035,22 +40900,22 @@
         {
           "name": "timburr",
           "level": 22,
-          "item": "berry",
+          "item": "hard-stone",
           "moves": [
             "submission",
-            "rock-slide",
+            "rock-throw",
             "seismic-toss"
           ]
         },
 	{
-          "name":  "mienfoo",
-	  "level": 22,
-	  "item":  "berry",
-	  "moves": [
-            "wing-attack",
-	    	"karate-chop",
-	    	"sludge",
-            "body-slam"
+          "name":  "joltik",
+		  "level": 22,
+		  "item":  "magnet",
+		  "moves": [
+            "thunder-wave",
+	    	"spark",
+	    	"leech-life",
+            "mega-drain"
           ]
         } 
       ]
@@ -41086,10 +40951,10 @@
           "level": 21,
           "item": "berry-juice",
           "moves": [
-            "giga-drain",
+            "mega-drain",
             "toxic",
             "hp-rock",
-	   	 	"sludge"
+	   	 	"synthesis"
           ]
         }
       ]
@@ -41246,7 +41111,7 @@
     },
     {
       "area": "Slowpoke Well",
-      "name": "gruntm-29",
+      "name": "grunt-brixda1",
       "team": [
         {
           "name": "watchog",
@@ -41259,14 +41124,12 @@
           ]
         },
         {
-          "name": "scraggy",
+          "name": "mienfoo",
           "level": 19,
-          "item": "quick-claw",
+          "item": "focus-band",
           "moves": [
-            "headbutt",
-            "rock-slide",
-            "bite",
-            "low-kick"
+            "rock-smash",
+            "reversal"
           ]
         }
       ]
@@ -41340,6 +41203,7 @@
     {
       "area": "Slowpoke Well",
       "name": "gruntm-1",
+	  "meta": "Rival Fight after leaving Kurt's house",
       "team": [
         {
           "name": "garbodor",
@@ -41370,7 +41234,7 @@
           "moves": [
             "giga-drain",
             "hp-fire",
-            "psychic",
+            "psybeam",
 	    	"leech-seed"
           ]
         }
@@ -41502,8 +41366,8 @@
           "level": 23,
           "item": "berry-juice",
           "moves": [
+			"morning-sun",
             "flamethrower",
-            "spark",
             "double-edge",
             "leech-life"
           ]
@@ -41522,12 +41386,12 @@
         {
           "name": "sawsbuck",
           "level": 21,
-          "item": "miracleberry",
+          "item": "berry",
           "moves": [
-            "jump-kick",
+			"leech-seed",
+            "double-kick",
             "razor-leaf",
-            "stomp",
-            "mud-slap"
+            "stomp"
           ]
         }
       ]
@@ -41577,11 +41441,11 @@
         {
           "name": "amoonguss",
           "level": 24,
-          "item": "gold-berry",
+          "item": "berry-juice",
           "moves": [
             "spore",
             "sludge",
-            "giga-drain",
+            "mega-drain",
             "body-slam"
           ]
         },
@@ -41616,7 +41480,7 @@
         {
           "name": "stoutland",
           "level": 23,
-          "item": "miracleberry",
+          "item": "berry",
           "moves": [
             "headbutt",
             "spark",
@@ -41632,7 +41496,7 @@
             "spark",
             "thunder-wave",
             "flame-wheel",
-            "low-kick"
+            "double-kick"
           ]
         },
         {
@@ -41654,12 +41518,12 @@
         {
           "name": "cinccino",
           "level": 23,
-          "item": "miracleberry",
+          "item": "berry",
           "moves": [
             "doubleslap",
             "sing",
-            "bubblebeam",
-            "thunderbolt"
+            "rock-smash",
+            "mud-slap"
           ]
         },
         {
@@ -41675,7 +41539,7 @@
         },
         {
           "name": "fraxure",
-          "level": 23,
+          "level": 24,
           "item": "leftovers",
           "moves": [
             "dragonbreath",
@@ -41700,7 +41564,7 @@
           "moves": [
             "crunch",
             "hyper-fang",
-            "iron-tail",
+            "low-kick",
             "hypnosis"
           ]
         },
@@ -41740,7 +41604,7 @@
           "moves": [
             "thunderpunch",
             "crunch",
-            "fire-punch",
+            "mud-slap",
             "giga-drain"
           ]
         },
@@ -41830,7 +41694,6 @@
           "item": "focus-band",
           "moves": [
             "perish-song",
-            "recover",
             "mean-look"
           ]
 		}
@@ -41848,13 +41711,13 @@
           "moves": [
             "thunderbolt",
             "flame-wheel",
-	    "double-edge",
-	    "low-kick"
+			"take-down",
+			"low-kick"
           ]
         },
         {
           "name": "beartic",
-          "level": 26,
+          "level": 25,
           "item": "berry",
           "moves": [
             "ice-beam",
@@ -41926,8 +41789,8 @@
           "moves": [
             "karate-chop",
             "fire-punch",
-	    "headbutt",
-	    "mach-punch"
+			"headbutt",
+			"mach-punch"
           ]
         },
         {
@@ -41956,56 +41819,16 @@
     {
 
       "area": "Route 34",
-      "name": "youngster-ian",
-      "team": [
-        {
-          "name": "amoonguss",
-          "level": 28,
-          "item": "gold-berry",
-          "moves": [
-            "spore",
-            "giga-drain",
-            "sludge",
-            "synthesis"
-          ]
-        },
-        {
-          "name": "seismitoad",
-          "level": 28,
-          "item": "miracleberry",
-          "moves": [
-            "lovely-kiss",
-            "bubblebeam",
-            "mud-slap",
-            "ice-punch"
-          ]
-        },
-        {
-          "name": "musharna",
-          "level": 28,
-          "item": "berry-juice",
-          "moves": [
-            "lovely-kiss",
-            "dream-eater",
-            "psybeam",
-            "petal-dance"
-          ]
-		}
-      ]
-    },
-    {
-
-      "area": "Route 34",
       "name": "officer-keith",
       "team": [
         {
-          "name": "stoutland",
-          "level": 28,
+          "name": "herdier",
+          "level": 29,
           "item": "pink-bow",
           "moves": [
-            "headbutt",
+            "body-slam",
             "submission",
-	    "crunch",
+			"crunch",
             "dig"
           ]
         },
@@ -42015,9 +41838,9 @@
           "item": "berry-juice",
           "moves": [
             "destiny-bond",
-            "fury-cutter",
+            "leech-life",
             "bubblebeam",
-            "giga-drain"
+            "mega-drain"
           ]
         },
         {
@@ -42039,17 +41862,6 @@
       "name": "camper-todd",
       "team": [
         {
-          "name": "maractus",
-          "level": 28,
-          "item": "berry-juice",
-          "moves": [
-            "giga-drain",
-            "sacred-fire",
-	    "rock-slide",
-            "leech-seed"
-          ]
-        },
-        {
           "name": "stunfisk",
           "level": 28,
           "item": "gold-berry",
@@ -42068,7 +41880,37 @@
             "leech-seed",
             "thunder-wave",
             "giga-drain",
-	    "iron-tail"
+			"metal-claw"
+          ]
+		}
+      ]
+    },
+    {
+
+      "area": "Route 34",
+	  "b2b": true,
+      "name": "youngster-ian",
+      "team": [
+        {
+          "name": "seismitoad",
+          "level": 28,
+          "item": "miracleberry",
+          "moves": [
+            "lovely-kiss",
+            "bubblebeam",
+            "mud-slap",
+            "ice-punch"
+          ]
+        },
+        {
+          "name": "musharna",
+          "level": 28,
+          "item": "berry-juice",
+          "moves": [
+            "lovely-kiss",
+            "dream-eater",
+            "psybeam",
+            "petal-dance"
           ]
 		}
       ]
@@ -42231,7 +42073,6 @@
           "moves": [
             "petal-dance",
             "submission",
-	    	"rock-slide",
             "sludge"
           ]
         },
@@ -42306,7 +42147,7 @@
           "item": "miracleberry",
           "moves": [
             "psychic",
-            "crunch",
+            "ice-punch",
             "rock-slide",
             "confuse-ray"
           ]
@@ -42326,8 +42167,8 @@
 	  	  "moves": [
 	    	"fire-punch",
 	    	"fury-cutter",
-	    	"submission",
-	    	"giga-drain"
+	    	"karate-chop",
+	    	"body-slam"
 	  	  ]
 		}
       ]
@@ -42419,11 +42260,11 @@
           "name": "cofagrigus",
                     "dvs": {
                         "atk": 14,
-			"def": 10,
-			"hp": 0,
-			"spa": 10,
-			"spd": 10,
-			"spe": 10
+						"def": 10,
+						"hp": 0,
+						"spa": 10,
+						"spd": 10,
+						"spe": 10
                     	},
 	  	  "level": 30,
 	  	  "item": "miracleberry",
@@ -42457,56 +42298,56 @@
           "level": 32,
           "item": "quick-claw",
           "moves": [
+			"thunder-wave",
             "petal-dance",
             "fury-cutter",
-            "rock-slide",
             "slash"
           ]
         },
         {
           "name": "bisharp",
-	  "level": 30,
-	  "item": "blackglasses",
-	  "moves": [
-	    "faint-attack",
-	    "metal-claw",
-	    "wing-attack",
-	    "fury-cutter"
-	  ]
-	},
-	{
-	  "name": "larvesta",
-	  "level": 32,
-	  "item": "gold-berry",
-	  "moves": [
-	    "flamethrower",
-	    "spark",
-	    "double-edge",
-	    "morning-sun"
-	  ]
-	},
-	{
-	  "name": "crustle",
-	  "level": 30,
-	  "item": "gold-berry",
-	  "moves": [
-	    "rock-slide",
-	    "mud-slap",
-	    "leech-life",
-	    "seismic-toss"
-	  ]
-	},
-	{
-	  "name": "durant",
-	  "level": 31,
-	  "item": "miracleberry",
-	  "moves": [
-	    "ancientpower",
-	    "dig",
-	    "fury-cutter",
-	    "metal-claw"
-	  ]
-	}	    
+		  "level": 30,
+		  "item": "blackglasses",
+		  "moves": [
+			"faint-attack",
+			"metal-claw",
+			"slash",
+			"fury-cutter"
+		  ]
+		},
+		{
+		  "name": "larvesta",
+		  "level": 32,
+		  "item": "gold-berry",
+		  "moves": [
+			"flamethrower",
+			"spark",
+			"double-edge",
+			"morning-sun"
+		  ]
+		},
+		{
+		  "name": "crustle",
+		  "level": 30,
+		  "item": "gold-berry",
+		  "moves": [
+			"rock-throw",
+			"mud-slap",
+			"leech-life",
+			"seismic-toss"
+		  ]
+		},
+		{
+		  "name": "durant",
+		  "level": 31,
+		  "item": "miracleberry",
+		  "moves": [
+			"crunch",
+			"dig",
+			"fury-cutter",
+			"metal-claw"
+		  ]
+		}	    
       ]
     },
     {
@@ -42568,18 +42409,18 @@
           "name": "simipour",
                     "dvs": {
                         "atk": 14,
-			"def": 14,
-			"hp": 3,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 14,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 34,
           "item": "mystic-water",
           "moves": [
             "waterfall",
             "body-slam",
-	    "hp-grass"
+			"hp-grass"
           ]
         },
         {
@@ -42592,53 +42433,7 @@
             "double-edge",
             "mud-slap"
           ]
-	}
-      ]
-    },
-    {
-      "area": "Route 35",
-      "name": "picnicker-kim",
-      "team": [
-        {
-          "name": "cubchoo",
-          "level": 34,
-          "item": "berserk-gene",
-          "moves": [
-            "ice-beam",
-            "waterfall",
-	    "submission",
-            "body-slam"
-          ]
-        },
-        {
-          "name": "darumaka",
-          "level": 35,
-          "item": "berserk-gene",
-          "moves": [
-            "flamethrower",
-            "rock-slide",
-            "mud-slap",
-            "mach-punch"
-          ]
-        },
-        {
-          "name": "minccino",
-          "level": 34,
-          "item": "berserk-gene",
-          "moves": [
-            "doubleslap",
-            "quick-attack",
-            "bone-rush"
-          ]
-	},
-	{
-	  "name": "audino",
-	  "level": 34,
-	  "item": "berserk-gene",
-	  "moves": [
-	    "rage"
-          ]
-	}
+		}
       ]
     },
     {
@@ -42874,18 +42669,18 @@
           "name": "whimsicott",
                     "dvs": {
                         "atk": 14,
-			"def": 12,
-			"hp": 3,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 35,
           "item": "miracle-seed",
           "moves": [
             "sleep-powder",
             "solarbeam",
-	    "giga-drain",
+			"giga-drain",
             "hp-fire"
           ]
         },
@@ -42922,18 +42717,18 @@
           "name": "cryogonal",
                     "dvs": {
                         "atk": 14,
-			"def": 12,
-			"hp": 3,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 34,
           "item": "miracle-seed",
           "moves": [
             "solarbeam",
             "ice-beam",
-	    "hp-fire",
+			"hp-fire",
             "ancientpower"
           ]
         },
@@ -42941,11 +42736,11 @@
           "name": "maractus",
                     "dvs": {
                         "atk": 14,
-			"def": 15,
-			"hp": 7,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 15,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 35,
           "item": "berry-juice",
@@ -42964,7 +42759,7 @@
             "solarbeam",
             "flamethrower",
             "shadow-ball",
-	    "psybeam"
+			"psybeam"
           ]
 	}
       ]
@@ -42993,7 +42788,7 @@
             "horn-attack",
             "metal-claw",
             "slash",
-            "fury-cutter"
+            "ancientpower"
           ]
         },
         {
@@ -43004,9 +42799,9 @@
             "fire-punch",
             "submission",
             "headbutt",
-	    "sludge"
+			"sludge"
           ]
-	}
+		}
       ]
     },
     {
@@ -43060,7 +42855,7 @@
           "moves": [
             "extremespeed",
             "submission",
-	    "shadow-ball",
+			"shadow-ball",
             "rock-slide"
           ]
         },
@@ -43088,7 +42883,7 @@
           "moves": [
             "hypnosis",
             "confuse-ray",
-	    "thunder-wave",
+			"thunder-wave",
             "psychic"
           ]
         },
@@ -43102,16 +42897,16 @@
             "ice-punch",
             "thunderpunch"
           ]
-	},
-	{
-	  "name": "darmanitan-zen",
-	  "level": 35,
-	  "item": "twistedspoon",
-	  "moves": [
-	    "fire-punch",
-	    "psybeam",
-	    "crunch",
-	    "headbutt"
+		},
+		{
+		  "name": "darmanitan-zen",
+		  "level": 35,
+		  "item": "berry-juice",
+		  "moves": [
+			"fire-punch",
+			"psybeam",
+			"crunch",
+			"headbutt"
 	  ]
 	}
       ]
@@ -43123,12 +42918,12 @@
       "team": [
         {
           "name": "hydreigon",
-          "level": 36,
+          "level": 35,
           "item": "berry-juice",
           "moves": [
             "bite",
             "twister",
-	    "ember",
+			"ember",
             "wing-attack"
           ]
         },
@@ -43138,34 +42933,34 @@
           "item": "berry-juice",
           "moves": [
             "thunder-wave",
-            "thunderbolt",
+            "zap-cannon",
             "metal-claw",
             "rock-slide"
           ]
-	},
-	{
+		},
+		{
           "name": "darmanitan",
           "level": 35,
           "item": "berry-juice",
           "moves": [
             "flamethrower",
-            "karate-chop",
-            "headbutt",
+            "submission",
+            "body-slam",
             "rock-slide"
           ]
-	},
-	{
+		},
+		{
           "name": "gigalith",
           "level": 36,
           "item": "quick-claw",
           "moves": [
-            "rock-slide",
-            "mud-slap",
+            "ancientpower",
+            "earthquake",
             "headbutt",
             "metal-claw"
           ]
-	},
-	{
+		},
+		{
           "name": "simipour",
           "level": 35,
           "item": "mystic-water",
@@ -43174,16 +42969,16 @@
             "waterfall",
             "ice-beam"
           ]
-	},
-	{
+		},
+		{
           "name": "serperior",
                     "dvs": {
                         "atk": 14,
-			"def": 12,
-			"hp": 3,
-			"spa": 15,
-			"spd": 15,
-			"spe": 15
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
                     },
           "level": 36,
           "item": "miracleberry",
@@ -43192,8 +42987,8 @@
             "dragonbreath",
             "petal-dance",
             "hp-fire"
-	  ]
-	}
+		  ]
+	    }
       ]
     },
     {
@@ -43203,12 +42998,12 @@
       "team": [
         {
           "name": "hydreigon",
-          "level": 36,
+          "level": 35,
           "item": "berry-juice",
           "moves": [
             "bite",
             "twister",
-	    "ember",
+			"ember",
             "wing-attack"
           ]
         },
@@ -43218,7 +43013,7 @@
           "item": "berry-juice",
           "moves": [
             "thunder-wave",
-            "thunderbolt",
+            "zap-cannon",
             "metal-claw",
             "rock-slide"
           ]
@@ -43239,8 +43034,8 @@
           "level": 36,
           "item": "quick-claw",
           "moves": [
-            "rock-slide",
-            "mud-slap",
+            "ancientpower",
+            "earthquake",
             "headbutt",
             "metal-claw"
           ]
@@ -43264,8 +43059,8 @@
             "flamethrower",
             "submission",
             "double-edge"
-	  ]
-	}
+		  ]
+		}
       ]
     },
     {
@@ -43275,7 +43070,7 @@
       "team": [
         {
           "name": "hydreigon",
-          "level": 36,
+          "level": 35,
           "item": "berry-juice",
           "moves": [
             "bite",
@@ -43290,7 +43085,7 @@
           "item": "berry-juice",
           "moves": [
             "thunder-wave",
-            "thunderbolt",
+            "zap-cannon",
             "metal-claw",
             "rock-slide"
           ]
@@ -43311,8 +43106,8 @@
           "level": 36,
           "item": "quick-claw",
           "moves": [
-            "rock-slide",
-            "mud-slap",
+            "ancientpower",
+            "earthquake",
             "headbutt",
             "metal-claw"
           ]
@@ -43352,19 +43147,19 @@
           "moves": [
             "toxic",
             "confuse-ray",
-	    "giga-drain",
+			"night-shade",
             "faint-attack"
           ]
         },
         {
           "name": "krokorok",
           "level": 36,
-          "item": "berry-juice",
+          "item": "quick-claw",
           "moves": [
             "mud-slap",
             "pursuit",
             "rock-slide",
-            "iron-tail"
+            "sludge-bomb"
           ]
 	},
 	{
@@ -43448,8 +43243,8 @@
           "moves": [
             "toxic",
             "protect",
-	    "giga-drain",
-            "leech-life"
+			"giga-drain",
+            "waterfall"
           ]
         },
         {
@@ -43462,8 +43257,8 @@
             "night-shade",
             "psybeam"
           ]
-	},
-	{
+		},
+		{
           "name": "lampent",
           "level": 36,
           "item": "charcoal",
@@ -43471,20 +43266,20 @@
             "confuse-ray",
             "fire-punch",
             "shadow-ball",
-            "petal-dance"
+            "psybeam"
           ]
-	},
-	{
+		},
+		{
           "name": "boldore",
           "level": 36,
-          "item": "berry-juice",
+          "item": "focus-band",
           "moves": [
             "body-slam",
             "toxic",
-	    "mud-slap",
-	    "ancientpower"
-	  ]
-	}
+			"mud-slap",
+			"ancientpower"
+		  ]
+		}
       ]
     },
     {
@@ -43499,7 +43294,7 @@
           "moves": [
             "slash",
             "pursuit",
-	    "quick-attack",
+			"quick-attack",
             "shadow-ball"
           ]
         },
@@ -43513,8 +43308,8 @@
             "ice-punch",
             "sludge-bomb"
           ]
-	},
-	{
+		},
+		{
           "name": "gothorita",
           "level": 36,
           "item": "berry-juice",
@@ -43524,18 +43319,18 @@
             "thunderbolt",
             "night-shade"
           ]
-	},
-	{
+		},
+		{
           "name": "ferrothorn",
           "level": 36,
           "item": "berry-juice",
           "moves": [
             "leech-seed",
             "giga-drain",
-	    "metal-claw",
-	    "rock-slide"
-	  ]
-	}
+			"metal-claw",
+			"rock-slide"
+		  ]
+		}
       ]
     },
     {
@@ -43549,8 +43344,8 @@
           "moves": [
             "crunch",
             "submission",
-	    "ancientpower",
-	    "metal-claw"
+			"ancientpower",
+			"metal-claw"
           ]
         },
         {
@@ -43572,42 +43367,42 @@
 	    	"transform",
 	    	"crunch",
 	        "flamethrower",
-	    	"psychic"
-	  ]
-	},
-	{
-	  "name": "mandibuzz",
-	  "level": 38,
-	  "item": "leftovers",
-	  "moves": [
-	    "recover",
-	    "toxic",
-	    "crunch",
-	    "night-shade"
-	  ]
-	},
-	{
-	  "name": "swoobat",
-	  "level": 38,
-	  "item": "brightpowder",
-	  "moves": [
-	    "attract",
-	    "confuse-ray",
-	    "psychic",
-	    "drill-peck"
-	  ]
-	},
-	{
-	  "name": "chandelure",
-	  "level": 38,
-	  "item": "charcoal",
-	  "moves": [
-	    "destiny-bond",
-	    "flamethrower",
-	    "shadow-ball",
-	    "giga-drain"
-	  ]
-	}	    
+	    	"psybeam"
+		  ]
+		},
+		{
+		  "name": "mandibuzz",
+		  "level": 38,
+		  "item": "leftovers",
+		  "moves": [
+			"recover",
+			"toxic",
+			"crunch",
+			"night-shade"
+		  ]
+		},
+		{
+		  "name": "swoobat",
+		  "level": 38,
+		  "item": "brightpowder",
+		  "moves": [
+			"attract",
+			"confuse-ray",
+			"psybeam",
+			"drill-peck"
+		  ]
+		},
+		{
+		  "name": "chandelure",
+		  "level": 38,
+		  "item": "berry-juice",
+		  "moves": [
+			"destiny-bond",
+			"flamethrower",
+			"shadow-ball",
+			"mega-drain"
+		  ]
+		}	    
       ]
     }					
     ],
