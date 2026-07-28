@@ -13861,7 +13861,7 @@
             "name": "fire-stone"
         },
         {
-            "description": "Evolves Eelektrik into Eelektross",
+            "description": "Evolves Eevee into Jolteon",
             "name": "thunderstone"
         },
         {
@@ -15016,12 +15016,7 @@
                     "amount": "renewable",
                     "info": "$1000 in mart",
                     "item": "focus-band"
-                },
-				{
-					"amount": "renewable",
-					"info": "$10000 in mart",
-					"item": "thunderstone"
-				}
+                }
             ],
             "locations": [
                 "ecruteak-city"
@@ -43409,7 +43404,79 @@
 		  ]
 		}	    
       ]
-    }					
+    },
+	{
+      "area": "Cianwood Gym",
+      "name": "leader-marshal",
+      "team": [
+        {
+          "name": "sawk",
+          "level": 44,
+          "item": "blackbelt",
+          "moves": [
+            "cross-chop",
+            "rock-slide",
+			"body-slam",
+			"mach-punch"
+          ]
+        },
+        {
+          "name": "eelektross",
+          "level": 44,
+          "item": "quick-claw",
+          "moves": [
+            "thunder-wave",
+            "cross-chop",
+            "giga-drain",
+            "dragonbreath"
+          ]
+        },
+        {
+          "name": "throh",
+	  	  "level": 44,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"cross-chop",
+	    	"ancientpower",
+	        "earthquake",
+	    	"hp-ghost"
+		  ]
+		},
+		{
+		  "name": "braviary",
+		  "level": 44,
+		  "item": "gold-berry",
+		  "moves": [
+			"sky-attack",
+			"cross-chop",
+			"double-edge",
+			"ancientpower"
+		  ]
+		},
+		{
+		  "name": "mienshao",
+		  "level": 44,
+		  "item": "nevermeltice",
+		  "moves": [
+			"hi-jump-kick",
+			"ice-punch",
+			"fury-cutter",
+			"sludge-bomb"
+		  ]
+		},
+		{
+		  "name": "haxorus",
+		  "level": 44,
+		  "item": "dragon-fang",
+		  "moves": [
+			"dragonbreath",
+			"cross-chop",
+			"earthquake",
+			"iron-tail"
+		  ]
+		}	    
+      ]
+    }
     ],
     "type_matchups": [
         {
