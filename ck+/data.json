@@ -2869,17 +2869,17 @@
                         {
                             "chance": 60,
                             "level": 20,
-                            "pokemon": "unown"
+                            "pokemon": "stunfisk"
                         },
                         {
                             "chance": 30,
                             "level": 20,
-                            "pokemon": "misdreavus"
+                            "pokemon": "sigilyph"
                         },
                         {
                             "chance": 10,
                             "level": 20,
-                            "pokemon": "corsola"
+                            "pokemon": "archen"
                         }
                     ],
                     "type": "surfing"
@@ -3134,18 +3134,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 30,
-                            "pokemon": "quagsire"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         },
                         {
                             "chance": 30,
-                            "level": 30,
-                            "pokemon": "golbat"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         },
                         {
                             "chance": 10,
-                            "level": 30,
-                            "pokemon": "lampent"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -3153,17 +3153,6 @@
                 {
                     "pool": "fishing.lake.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": [
-                        {
-                            "chance": 100,
-                            "extra": "b2f. Requires fighting 3 optional trainers. Requires surf, strength, and waterfall",
-                            "level": 50,
-                            "pokemon": "alomomola"
-                        }
-                    ],
-                    "type": "static"
                 }
             ]
         },
@@ -3291,17 +3280,17 @@
                         {
                             "chance": 60,
                             "level": 20,
-                            "pokemon": "slowpoke"
+                            "pokemon": "alomomola"
                         },
                         {
                             "chance": 30,
-                            "level": 30,
-                            "pokemon": "slowbro"
+                            "level": 20,
+                            "pokemon": "sigilyph"
                         },
                         {
                             "chance": 10,
-                            "level": 30,
-                            "pokemon": "slowking"
+                            "level": 20,
+                            "pokemon": "yamask"
                         }
                     ],
                     "type": "surfing"
@@ -3439,18 +3428,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 30,
-                            "pokemon": "ferrothorn"
+                            "level": 20,
+                            "pokemon": "emolga"
                         },
                         {
                             "chance": 30,
-                            "level": 30,
-                            "pokemon": "basculin"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         },
                         {
                             "chance": 10,
-                            "level": 30,
-                            "pokemon": "lampent"
+                            "level": 20,
+                            "pokemon": "yamask"
                         }
                     ],
                     "type": "surfing"
@@ -6035,17 +6024,17 @@
                         {
                             "chance": 60,
                             "level": 55,
-                            "pokemon": "quagsire"
+                            "pokemon": "stunfisk"
                         },
                         {
                             "chance": 30,
                             "level": 55,
-                            "pokemon": "golbat"
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
                             "level": 55,
-                            "pokemon": "corsola"
+                            "pokemon": "frillish"
                         }
                     ],
                     "type": "surfing"
@@ -6458,17 +6447,17 @@
                         {
                             "chance": 60,
                             "level": 20,
-                            "pokemon": "poliwhirl"
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
                             "level": 20,
-                            "pokemon": "braviary"
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
                             "level": 20,
-                            "pokemon": "corsola"
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -6607,17 +6596,17 @@
                         {
                             "chance": 60,
                             "level": 30,
-                            "pokemon": "beartic"
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
                             "level": 30,
-                            "pokemon": "braviary"
+                            "pokemon": "emolga"
                         },
                         {
                             "chance": 10,
                             "level": 30,
-                            "pokemon": "basculin"
+                            "pokemon": "stunfisk"
                         }
                     ],
                     "type": "surfing"
@@ -6877,17 +6866,17 @@
                         {
                             "chance": 60,
                             "level": 30,
-                            "pokemon": "cofagrigus"
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
                             "level": 30,
-                            "pokemon": "corsola"
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
                             "level": 30,
-                            "pokemon": "emolga"
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -7026,17 +7015,17 @@
                         {
                             "chance": 60,
                             "level": 20,
-                            "pokemon": "ferroseed"
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
                             "level": 20,
-                            "pokemon": "corsola"
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
                             "level": 30,
-                            "pokemon": "ferrothorn"
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -7324,112 +7313,112 @@
                         "day": [
                             {
                                 "chance": 30,
-                                "level": 16,
-                                "pokemon": "doduo"
+                                "level": 28,
+                                "pokemon": "audino"
                             },
                             {
                                 "chance": 30,
-                                "level": 16,
-                                "pokemon": "magnemite"
+                                "level": 28,
+                                "pokemon": "klang"
                             },
                             {
                                 "chance": 20,
-                                "level": 16,
-                                "pokemon": "pansear"
+                                "level": 28,
+                                "pokemon": "deerling"
                             },
                             {
                                 "chance": 10,
-                                "level": 16,
-                                "pokemon": "rhyhorn"
+                                "level": 28,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 5,
-                                "level": 13,
-                                "pokemon": "rhyhorn"
+                                "level": 28,
+                                "pokemon": "rufflet"
                             },
                             {
                                 "chance": 4,
-                                "level": 13,
-                                "pokemon": "miltank"
+                                "level": 28,
+                                "pokemon": "simisear"
                             },
                             {
                                 "chance": 1,
-                                "level": 13,
-                                "pokemon": "bouffalant"
+                                "level": 28,
+                                "pokemon": "simisear"
                             }
                         ],
                         "morning": [
                             {
                                 "chance": 30,
-                                "level": 16,
-                                "pokemon": "pansear"
+                                "level": 28,
+                                "pokemon": "darmanitan"
                             },
                             {
                                 "chance": 30,
-                                "level": 16,
-                                "pokemon": "doduo"
+                                "level": 28,
+                                "pokemon": "watchog"
                             },
                             {
                                 "chance": 20,
-                                "level": 16,
-                                "pokemon": "swinub"
+                                "level": 28,
+                                "pokemon": "herdier"
                             },
                             {
                                 "chance": 10,
-                                "level": 16,
-                                "pokemon": "rhyhorn"
+                                "level": 28,
+                                "pokemon": "cinccino"
                             },
                             {
                                 "chance": 5,
-                                "level": 13,
-                                "pokemon": "rhyhorn"
+                                "level": 28,
+                                "pokemon": "archen"
                             },
                             {
                                 "chance": 4,
-                                "level": 13,
-                                "pokemon": "miltank"
+                                "level": 28,
+                                "pokemon": "simisage"
                             },
                             {
                                 "chance": 1,
-                                "level": 13,
-                                "pokemon": "bouffalant"
+                                "level": 28,
+                                "pokemon": "simisage"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 16,
-                                "pokemon": "beheeyem"
+                                "level": 28,
+                                "pokemon": "liepard"
                             },
                             {
                                 "chance": 30,
-                                "level": 16,
-                                "pokemon": "parasect"
+                                "level": 28,
+                                "pokemon": "zorua"
                             },
                             {
                                 "chance": 20,
-                                "level": 16,
-                                "pokemon": "emolga"
+                                "level": 28,
+                                "pokemon": "scraggy"
                             },
                             {
                                 "chance": 10,
-                                "level": 16,
-                                "pokemon": "vanillish"
+                                "level": 28,
+                                "pokemon": "krokorok"
                             },
                             {
                                 "chance": 5,
-                                "level": 16,
-                                "pokemon": "vanillish"
+                                "level": 28,
+                                "pokemon": "pawniard"
                             },
                             {
                                 "chance": 4,
-                                "level": 16,
-                                "pokemon": "miltank"
+                                "level": 28,
+                                "pokemon": "simipour"
                             },
                             {
                                 "chance": 1,
-                                "level": 16,
-                                "pokemon": "bouffalant"
+                                "level": 28,
+                                "pokemon": "simipour"
                             }
                         ]
                     },
@@ -7449,112 +7438,112 @@
                         "day": [
                             {
                                 "chance": 30,
-                                "level": 21,
-                                "pokemon": "miltank"
+                                "level": 28,
+                                "pokemon": "darmanitan"
                             },
                             {
                                 "chance": 30,
-                                "level": 21,
-                                "pokemon": "bouffalant"
+                                "level": 28,
+                                "pokemon": "timburr"
                             },
                             {
                                 "chance": 20,
-                                "level": 21,
-                                "pokemon": "ferroseed"
+                                "level": 28,
+                                "pokemon": "heatmor"
                             },
                             {
                                 "chance": 10,
-                                "level": 21,
-                                "pokemon": "mareep"
+                                "level": 28,
+                                "pokemon": "mienfoo"
                             },
                             {
                                 "chance": 5,
-                                "level": 21,
-                                "pokemon": "patrat"
+                                "level": 28,
+                                "pokemon": "gurdurr"
                             },
                             {
                                 "chance": 4,
-                                "level": 21,
-                                "pokemon": "whimsicott"
+                                "level": 28,
+                                "pokemon": "maractus"
                             },
                             {
                                 "chance": 1,
-                                "level": 21,
-                                "pokemon": "mareep"
+                                "level": 28,
+                                "pokemon": "karrablast"
                             }
                         ],
                         "morning": [
                             {
                                 "chance": 30,
-                                "level": 21,
-                                "pokemon": "miltank"
+                                "level": 28,
+                                "pokemon": "zebstrika"
                             },
                             {
                                 "chance": 30,
-                                "level": 21,
-                                "pokemon": "bouffalant"
+                                "level": 28,
+                                "pokemon": "stunfisk"
                             },
                             {
                                 "chance": 20,
-                                "level": 21,
-                                "pokemon": "mareep"
+                                "level": 28,
+                                "pokemon": "eelektrik"
                             },
                             {
                                 "chance": 10,
-                                "level": 21,
-                                "pokemon": "ferroseed"
+                                "level": 28,
+                                "pokemon": "emolga"
                             },
                             {
                                 "chance": 5,
-                                "level": 21,
-                                "pokemon": "swinub"
+                                "level": 28,
+                                "pokemon": "klang"
                             },
                             {
                                 "chance": 4,
-                                "level": 21,
-                                "pokemon": "patrat"
+                                "level": 28,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 1,
-                                "level": 21,
-                                "pokemon": "whimsicott"
+                                "level": 28,
+                                "pokemon": "druddigon"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 21,
-                                "pokemon": "miltank"
+                                "level": 28,
+                                "pokemon": "duosion"
                             },
                             {
                                 "chance": 30,
-                                "level": 21,
-                                "pokemon": "bouffalant"
+                                "level": 28,
+                                "pokemon": "liepard"
                             },
                             {
                                 "chance": 20,
-                                "level": 21,
-                                "pokemon": "patrat"
+                                "level": 28,
+                                "pokemon": "klang"
                             },
                             {
                                 "chance": 10,
-                                "level": 21,
-                                "pokemon": "whimsicott"
+                                "level": 28,
+                                "pokemon": "elgyem"
                             },
                             {
                                 "chance": 5,
-                                "level": 21,
-                                "pokemon": "ferroseed"
+                                "level": 28,
+                                "pokemon": "sigilyph"
                             },
                             {
                                 "chance": 4,
-                                "level": 21,
-                                "pokemon": "swinub"
+                                "level": 28,
+                                "pokemon": "gothorita"
                             },
                             {
                                 "chance": 1,
-                                "level": 21,
-                                "pokemon": "mareep"
+                                "level": 28,
+                                "pokemon": "swoobat"
                             }
                         ]
                     },
@@ -7689,18 +7678,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 31,
-                            "pokemon": "slowpoke"
+                            "level": 20,
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
-                            "level": 31,
-                            "pokemon": "swanna"
+                            "level": 20,
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
-                            "level": 32,
-                            "pokemon": "maractus"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -12536,18 +12525,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 34,
-                            "pokemon": "scraggy"
+                            "level": 20,
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
-                            "level": 34,
-                            "pokemon": "yamask"
+                            "level": 20,
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
-                            "level": 34,
-                            "pokemon": "cubchoo"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -12555,14 +12544,6 @@
                 {
                     "pool": "fishing.ocean.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.ocean.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.ocean.super",
-                    "type": "super-rod"
                 }
             ]
         },
@@ -12573,18 +12554,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 30,
-                            "pokemon": "cofagrigus"
+                            "level": 20,
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
-                            "level": 30,
-                            "pokemon": "sigilyph"
+                            "level": 20,
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
-                            "level": 30,
-                            "pokemon": "amoonguss"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -12592,14 +12573,6 @@
                 {
                     "pool": "fishing.shore.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.shore.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.shore.super",
-                    "type": "super-rod"
                 },
                 {
                     "pool": "headbutt.town",
@@ -12675,18 +12648,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 30,
-                            "pokemon": "ferrothorn"
+                            "level": 20,
+                            "pokemon": "cubchoo"
                         },
                         {
                             "chance": 30,
-                            "level": 30,
-                            "pokemon": "jumpluff"
+                            "level": 20,
+                            "pokemon": "vanillite"
                         },
                         {
                             "chance": 10,
-                            "level": 30,
-                            "pokemon": "misdreavus"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -12959,18 +12932,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 30,
-                            "pokemon": "sigilyph"
+                            "level": 20,
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
-                            "level": 30,
-                            "pokemon": "amoonguss"
+                            "level": 20,
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
-                            "level": 30,
-                            "pokemon": "jumpluff"
+                            "level": 20,
+                            "pokemon": "stunfisk"
                         }
                     ],
                     "type": "surfing"
@@ -12980,31 +12953,12 @@
                     "type": "old-rod"
                 },
                 {
-                    "pool": "fishing.shore.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.shore.super",
-                    "type": "super-rod"
-                },
-                {
                     "pool": "headbutt.town",
                     "type": "headbutt"
                 },
                 {
                     "pool": "rock.rock",
                     "type": "rock"
-                },
-                {
-                    "pool": [
-                        {
-                            "chance": 100,
-                            "extra": "Can be returned at any point.",
-                            "level": 15,
-                            "pokemon": "shuckle"
-                        }
-                    ],
-                    "type": "gift"
                 }
             ]
         },
@@ -13162,18 +13116,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 34,
-                            "pokemon": "amoonguss"
+                            "level": 20,
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
-                            "level": 34,
-                            "pokemon": "sigilyph"
+                            "level": 20,
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
-                            "level": 34,
-                            "pokemon": "cofagrigus"
+                            "level": 20,
+                            "pokemon": "alomomola"
                         }
                     ],
                     "type": "surfing"
@@ -13181,18 +13135,6 @@
                 {
                     "pool": "fishing.shore.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.shore.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.shore.super",
-                    "type": "super-rod"
-                },
-                {
-                    "pool": "headbutt.canyon",
-                    "type": "headbutt"
                 },
                 {
                     "pool": "rock.rock",
@@ -13244,18 +13186,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 34,
+                            "level": 20,
                             "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
-                            "level": 34,
-                            "pokemon": "braviary"
+                            "level": 20,
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
-                            "level": 34,
-                            "pokemon": "corsola"
+                            "level": 20,
+                            "pokemon": "stunfisk"
                         }
                     ],
                     "type": "surfing"
@@ -13274,7 +13216,7 @@
                             "chance": 100,
                             "extra": "Traded for sewaddle in the southern house",
                             "level": 1,
-                            "pokemon": "onix"
+                            "pokemon": "roggenrola"
                         }
                     ],
                     "type": "trade"
@@ -13326,17 +13268,17 @@
                         {
                             "chance": 60,
                             "level": 34,
-                            "pokemon": "dewgong"
+                            "pokemon": "alomomola"
                         },
                         {
                             "chance": 30,
                             "level": 34,
-                            "pokemon": "sigilyph"
+                            "pokemon": "bouffalant"
                         },
                         {
                             "chance": 10,
                             "level": 34,
-                            "pokemon": "amoonguss"
+                            "pokemon": "emolga"
                         }
                     ],
                     "type": "surfing"
@@ -13344,18 +13286,6 @@
                 {
                     "pool": "fishing.ocean.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.ocean.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.ocean.super",
-                    "type": "super-rod"
-                },
-                {
-                    "pool": "headbutt.canyon",
-                    "type": "headbutt"
                 }
             ]
         },
@@ -13645,19 +13575,19 @@
                             "chance": 100,
                             "extra": "Goldenrod Game Corner, 500 coins",
                             "level": 5,
-                            "pokemon": "snivy"
+                            "pokemon": "darumaka"
                         },
                         {
                             "chance": 100,
                             "extra": "Goldenrod Game Corner, 500 coins",
                             "level": 5,
-                            "pokemon": "tepig"
+                            "pokemon": "zorua"
                         },
                         {
                             "chance": 100,
                             "extra": "Goldenrod Game Corner, 500 coins",
                             "level": 5,
-                            "pokemon": "oshawott"
+                            "pokemon": "klink"
                         }
                     ],
                     "type": "buy"
@@ -14445,17 +14375,12 @@
                 },
 		{
 		    "amount": "renewable",
-		    "info": "$600 in mart",
-		    "item": "great-ball"
-		},
-		{
-		    "amount": "renewable",
 		    "info": "$9999 in mart",
 		    "item": "master-ball"
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$3000 in mart",
+		    "info": "$5000 in mart",
 		    "item": "pink-bow"
 		},
 		{
@@ -14465,7 +14390,7 @@
 		},
 		{
 		    "amount": "renewable",
-		    "info": "$3000 in mart",
+		    "info": "$5000 in mart",
 		    "item": "poison-barb"
 		},
 		{
@@ -14777,17 +14702,17 @@
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 in mart 4F",
+                    "info": "$10000 in mart 4F",
                     "item": "soft-sand"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 in mart 4F",
+                    "info": "$10000 in mart 4F",
                     "item": "sharp-beak"
                 },
                 {
                     "amount": "renewable",
-                    "info": "$5000 in mart 4F",
+                    "info": "$10000 in mart 4F",
                     "item": "magnet"
                 },
                 {
@@ -14999,7 +14924,7 @@
                 },
                 {
                     "amount": "renewable",
-                    "info": "$7500 in mart",
+                    "info": "$10000 in mart",
                     "item": "blackglasses"
                 },
                 {
@@ -15018,7 +14943,7 @@
                     "item": "focus-band"
                 },
 				{
-					"amount": "reneowable",
+					"amount": "renewable",
 					"info": "$10000 in mart",
 					"item": "thunderstone"
 				}
@@ -15108,9 +15033,24 @@
             "id": 27,
             "items": [
                 {
-                    "amount": "1",
-                    "info": "talk to the Fisherman inside this house",
-                    "item": "good-rod"
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "tm-25"
+                },
+				{
+                    "amount": "renewable",
+                    "info": "$12500 in mart",
+                    "item": "tm-27"
+                },
+				{
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "thunderstone"
+                },
+				{
+                    "amount": "renewable",
+                    "info": "$1000 in mart",
+                    "item": "miracleberry"
                 },
                 {
                     "amount": "1",
@@ -15255,7 +15195,27 @@
                     "amount": "1",
                     "info": "obtained after defeating Eusine and entering the cafe",
                     "item": "hm-04"
-                }
+                },
+				{
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "sharp-beak"
+				},
+				{
+                    "amount": "renewable",
+                    "info": "$1000 in mart",
+                    "item": "miracleberry"
+				},
+				{
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "tm-25"
+				},
+				{
+                    "amount": "renewable",
+                    "info": "$12500 in mart",
+                    "item": "tm-27"
+				}
             ],
             "locations": [
                 "cianwood-city"
@@ -16939,13 +16899,13 @@
             "type": "normal"
         },
         {
-            "accuracy": 90,
+            "accuracy": 100,
             "extra": [
-                "If it misses or fails, deals 1\/8 the damage it would've dealt to the user instead"
+                "User takes 33% of damage as recoil"
             ],
             "index": 136,
             "name": "hi-jump-kick",
-            "power": 130,
+            "power": 110,
             "pp": 20,
             "type": "fighting"
         },
@@ -19329,7 +19289,7 @@
         {
             "accuracy": 100,
             "extra": [
-                "Lasts 2-3 turns, then confuses the user"
+                "user takes 33% of damage as recoil"
             ],
             "index": 200,
             "name": "outrage",
@@ -43406,6 +43366,1072 @@
 			"flamethrower",
 			"shadow-ball",
 			"mega-drain"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-38",
+      "name": "beauty-valerie",
+	  "meta": "start of gauntlet",
+      "team": [
+        {
+          "name": "leavanny",
+          "level": 38,
+          "item": "focus-band",
+          "moves": [
+            "petal-dance",
+            "fury-cutter",
+			"sludge-bomb",
+			"slash"
+          ]
+        },
+        {
+          "name": "gigalith",
+          "level": 38,
+          "item": "focus-band",
+          "moves": [
+            "ancientpower",
+            "earthquake",
+            "metal-claw",
+            "solarbeam"
+          ]
+        },
+        {
+          "name": "liepard",
+	  	  "level": 38,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"destiny-bond",
+	    	"crunch",
+	        "quick-attack",
+	    	"slash"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-38",
+      "name": "birdkeeper-toby",
+      "team": [
+        {
+          "name": "unfezant",
+          "level": 39,
+          "item": "gold-berry",
+          "moves": [
+            "drill-peck",
+            "tri-attack",
+			"steel-wing",
+			"quick-attack"
+          ]
+        },
+        {
+          "name": "druddigon",
+          "level": 39,
+          "item": "miracleberry",
+          "moves": [
+            "dragonbreath",
+            "submission",
+            "thunderpunch",
+            "body-slam"
+          ]
+        },
+        {
+          "name": "archeops",
+	  	  "level": 38,
+	  	  "item": "metal-coat",
+	  	  "moves": [
+	    	"wing-attack",
+	    	"rock-slide",
+	        "steel-wing",
+	    	"dragonbreath"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-38",
+      "name": "lass-dana",
+      "team": [
+        {
+          "name": "accelgor",
+          "level": 38,
+          "item": "focus-band",
+          "moves": [
+            "spikes",
+            "reversal",
+			"body-slam",
+			"leech-life"
+          ]
+        },
+        {
+          "name": "watchog",
+          "level": 39,
+          "item": "miracleberry",
+          "moves": [
+            "hypnosis",
+            "hyper-fang",
+            "shadow-ball",
+            "sludge-bomb"
+          ]
+        },
+        {
+          "name": "musharna",
+	  	  "level": 39,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"lovely-kiss",
+	    	"dream-eater",
+	        "psychic",
+	    	"ancientpower"
+          ]
+        },
+        {
+          "name": "fraxure",
+	  	  "level": 39,
+	  	  "item": "berserk-gene",
+	  	  "moves": [
+	    	"steel-wing",
+	    	"body-slam",
+	        "flamethrower",
+	    	"crunch"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-38",
+      "name": "sailor-harry",
+	  "b2b": true,
+      "team": [
+        {
+          "name": "audino",
+          "level": 50,
+          "item": "miracleberry",
+          "moves": [
+            "metronome"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-38",
+      "name": "beauty-olivia",
+      "team": [
+        {
+          "name": "volcarona",
+          "level": 39,
+          "item": "gold-berry",
+          "moves": [
+            "flamethrower",
+            "giga-drain",
+			"psychic",
+			"fury-cutter"
+          ]
+        },
+        {
+          "name": "bisharp",
+          "level": 39,
+          "item": "quick-claw",
+          "moves": [
+            "crunch",
+            "iron-tail",
+            "wing-attack",
+            "fury-cutter"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-39",
+      "name": "pokefanf-ruth",
+      "team": [
+        {
+          "name": "vanilluxe",
+          "level": 39,
+          "item": "focus-band",
+          "moves": [
+            "ice-beam",
+            "ancientpower",
+			"iron-tail"
+          ]
+        },
+        {
+          "name": "darmanitan",
+          "level": 39,
+          "item": "charcoal",
+          "moves": [
+            "flamethrower",
+            "rock-slide",
+            "submission",
+            "double-edge"
+          ]
+        },
+        {
+          "name": "stunfisk",
+	  	  "level": 39,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"toxic",
+	    	"thunderbolt",
+	        "earthquake",
+	    	"rock-slide"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-39",
+      "name": "psychic-norman",
+	  "b2b": true, 
+      "team": [
+        {
+          "name": "beheeyem",
+          "level": 39,
+          "item": "brightpowder",
+          "moves": [
+            "psychic",
+            "thunderpunch",
+			"ice-punch",
+			"fire-punch"
+          ]
+        },
+        {
+          "name": "gothitelle",
+          "level": 39,
+          "item": "gold-berry",
+          "moves": [
+            "confuse-ray",
+            "crunch",
+            "thunderbolt",
+            "ancientpower"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-39",
+      "name": "sailor-eugene",
+      "team": [
+        {
+          "name": "conkeldurr",
+          "level": 38,
+          "item": "gold-berry",
+          "moves": [
+            "submission",
+            "body-slam",
+			"thunderpunch",
+			"sludge-bomb"
+          ]
+        },
+        {
+          "name": "seismitoad",
+          "level": 39,
+          "item": "brightpowder",
+          "moves": [
+            "earthquake",
+            "sludge-bomb",
+            "waterfall",
+            "ice-punch"
+          ]
+        },
+        {
+          "name": "sawk",
+	  	  "level": 39,
+	  	  "item": "hard-stone",
+	  	  "moves": [
+	    	"rock-slide",
+	    	"cross-chop",
+	        "double-edge",
+	    	"earthquake"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-39",
+      "name": "pokefanm-derek",
+	  "b2b": true,
+	  "meta": "end gauntlet",
+      "team": [
+        {
+          "name": "alomomola",
+          "level": 39,
+          "item": "leftovers",
+          "moves": [
+            "rain-dance",
+            "surf",
+			"thunder",
+			"icy-wind"
+          ]
+        },
+        {
+          "name": "zebstrika",
+          "level": 39,
+          "item": "magnet",
+          "moves": [
+            "thunderbolt",
+            "double-edge",
+            "double-kick",
+            "flamethrower"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-40",
+      "name": "swimmerm-simon",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "emolga",
+          "level": 40,
+          "item": "gold-berry",
+          "moves": [
+            "thunder",
+            "sky-attack",
+			"iron-tail",
+			"quick-attack"
+          ]
+        },
+        {
+          "name": "basculin",
+          "level": 40,
+          "item": "mystic-water",
+          "moves": [
+            "hydro-pump",
+            "crunch",
+            "return",
+            "ice-beam"
+          ]
+        },
+        {
+          "name": "sawsbuck",
+	  	  "level": 40,
+	  	  "item": "miracle-seed",
+	  	  "moves": [
+	    	"giga-drain",
+	    	"earthquake",
+	        "return",
+	    	"jump-kick"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-40",
+      "name": "swimmerf-paula",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "bouffalant",
+          "level": 40,
+          "item": "mystic-water",
+          "moves": [
+            "surf",
+            "double-edge",
+			"reversal",
+			"submission"
+          ]
+        },
+        {
+          "name": "stunfisk",
+          "level": 40,
+          "item": "quick-claw",
+          "moves": [
+            "surf",
+            "sludge-bomb",
+            "earthquake",
+            "thunder"
+          ]
+        },
+        {
+          "name": "leavanny",
+	  	  "level": 40,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"petal-dance",
+	    	"fury-cutter",
+	        "rock-slide",
+	    	"wing-attack"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-40",
+      "name": "swimmerm-randall",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "eelektross",
+          "level": 40,
+          "item": "focus-band",
+          "moves": [
+            "thunderbolt",
+            "surf",
+			"giga-drain",
+			"return"
+          ]
+        },
+        {
+          "name": "escavalier",
+          "level": 40,
+          "item": "gold-berry",
+          "moves": [
+            "fury-cutter",
+            "metal-claw",
+            "giga-drain",
+            "return"
+          ]
+        },
+        {
+          "name": "carracosta",
+	  	  "level": 40,
+	  	  "item": "hard-stone",
+	  	  "moves": [
+	    	"surf",
+	    	"ancientpower",
+	        "mud-slap",
+	    	"sandstorm"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-40",
+      "name": "swimmerf-elaine",
+	  "meta": "perma rain",
+	  "b2b": true,
+      "team": [
+        {
+          "name": "simipour",
+          "level": 40,
+          "item": "mystic-water",
+          "moves": [
+            "hydro-pump"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerm-george",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "ferrothorn",
+          "level": 40,
+          "item": "gold-berry",
+          "moves": [
+            "leech-seed",
+            "spikes",
+			"thunder",
+			"metal-claw"
+          ]
+        },
+        {
+          "name": "galvantula",
+                    "dvs": {
+                        "atk": 14,
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 40,
+          "item": "silverpowder",
+          "moves": [
+            "thunder-wave",
+            "thunderbolt",
+            "fury-cutter",
+            "hp-water"
+          ]
+        },
+        {
+          "name": "jellicent",
+	  	  "level": 40,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"toxic",
+	    	"recover",
+	        "giga-drain",
+	    	"surf"
+          ]
+        },
+        {
+          "name": "watchog",
+	  	  "level": 40,
+	  	  "item": "brightpowder",
+	  	  "moves": [
+	    	"hypnosis",
+	    	"hyper-fang",
+	        "thunder",
+	    	"mud-slap"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerf-kara",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "stoutland",
+          "level": 40,
+          "item": "magnet",
+          "moves": [
+            "surf",
+            "thunder",
+			"return"
+          ]
+        },
+        {
+          "name": "cofagrigus",
+                    "dvs": {
+                        "atk": 14,
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 40,
+          "item": "gold-berry",
+          "moves": [
+            "toxic",
+            "icy-wind",
+            "hp-water",
+            "night-shade"
+          ]
+        },
+        {
+          "name": "zebstrika",
+	  	  "level": 40,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"thunder",
+	    	"jump-kick",
+	        "flamethrower",
+	    	"quick-attack"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-40",
+      "name": "swimmerm-mathew",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "seismitoad",
+          "level": 40,
+          "item": "brightpowder",
+          "moves": [
+            "lovely-kiss",
+            "hydro-pump",
+			"ice-punch",
+			"earthquake"
+          ]
+        },
+        {
+          "name": "scolipede",
+          "level": 40,
+          "item": "gold-berry",
+          "moves": [
+            "mud-slap",
+            "sludge-bomb",
+            "fury-cutter",
+            "iron-tail"
+          ]
+        },
+        {
+          "name": "liepard",
+	  	  "level": 40,
+	  	  "item": "scope-lens",
+	  	  "moves": [
+	    	"thunder-wave",
+	    	"confuse-ray",
+	        "crunch",
+	    	"slash"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerf-wendy",
+	  "b2b": true,
+	  "meta": "perma rain, start gauntlet",
+      "team": [
+        {
+          "name": "swanna",
+          "level": 40,
+          "item": "brightpowder",
+          "moves": [
+            "confuse-ray",
+            "hydro-pump",
+			"drill-peck",
+			"ice-beam"
+          ]
+        },
+        {
+          "name": "klinklang",
+          "level": 40,
+          "item": "magnet",
+          "moves": [
+            "thunder-wave",
+            "thunder",
+            "return",
+            "rock-slide"
+          ]
+        },
+        {
+          "name": "lilligant",
+                    "dvs": {
+                        "atk": 14,
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+	  	  "level": 40,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"sleep-powder",
+	    	"giga-drain",
+	        "hp-water",
+	    	"return"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerf-denise",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "cinccino",
+          "level": 40,
+          "item": "pink-bow",
+          "moves": [
+            "sing",
+            "doubleslap",
+			"surf",
+			"thunder"
+          ]
+        },
+        {
+          "name": "bisharp",
+          "level": 40,
+          "item": "quick-claw",
+          "moves": [
+            "pursuit",
+            "crunch",
+            "metal-claw",
+            "wing-attack"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerm-berke",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "simisear",
+	  	  "level": 40,
+	  	  "item": "quick-claw",
+	  	  "moves": [
+	    	"thunder",
+	    	"fire-blast",
+	        "shadow-ball",
+	    	"mud-slap"
+          ]
+        },
+        {
+          "name": "cryogonal",
+          "level": 40,
+          "item": "nevermeltice",
+          "moves": [
+            "confuse-ray",
+            "ice-beam",
+            "ancientpower",
+            "mud-slap"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerf-susie",
+	  "meta": "perma rain, gives thunderstone after battle",
+      "team": [
+        {
+          "name": "beartic",
+          "level": 40,
+          "item": "mystic-water",
+          "moves": [
+            "surf",
+            "ice-beam",
+			"return",
+			"earthquake"
+          ]
+        },
+        {
+          "name": "haxorus",
+          "level": 40,
+          "item": "mystic-water",
+          "moves": [
+            "surf",
+            "dragonbreath",
+            "fury-cutter",
+            "iron-tail"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerm-charlie",
+	  "meta": "perma rain",
+      "team": [
+        {
+          "name": "durant",
+          "level": 40,
+          "item": "hard-stone",
+          "moves": [
+            "fury-cutter",
+            "metal-claw",
+			"ancientpower",
+			"earthquake"
+          ]
+        },
+        {
+          "name": "serperior",
+          "level": 40,
+          "item": "gold-berry",
+          "moves": [
+            "leech-seed",
+            "glare",
+            "giga-drain",
+            "dragonbreath"
+          ]
+        },
+        {
+          "name": "vanilluxe",
+                    "dvs": {
+                        "atk": 14,
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+	  	  "level": 40,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"ice-beam",
+	    	"return",
+	        "hp-water",
+	    	"mirror-coat"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Route-41",
+      "name": "swimmerf-kaylee",
+	  "meta": "perma rain, end gauntlet",
+	  "b2b": true,
+      "team": [
+        {
+          "name": "amoonguss",
+          "level": 40,
+          "item": "gold-berry",
+          "moves": [
+            "spore",
+            "pursuit",
+			"giga-drain",
+			"sludge-bomb"
+          ]
+        },
+        {
+          "name": "accelgor",
+          "level": 40,
+          "item": "quick-claw",
+          "moves": [
+            "pursuit",
+            "bubblebeam",
+            "fury-cutter",
+            "giga-drain"
+          ]
+        },
+        {
+          "name": "druddigon",
+	  	  "level": 40,
+	  	  "item": "miracleberry",
+	  	  "moves": [
+	    	"pursuit",
+	    	"outrage",
+	        "surf",
+	    	"return"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "cianwood-city",
+      "name": "n",
+      "team": [
+        {
+          "name": "zoroark",
+          "level": 41,
+          "item": "brightpowder",
+          "moves": [
+            "transform",
+            "crunch",
+			"submission",
+			"return"
+          ]
+        },
+        {
+          "name": "darmanitan",
+          "level": 42,
+          "item": "charcoal",
+          "moves": [
+            "flamethrower",
+            "cross-chop",
+            "return",
+            "earthquake"
+          ]
+        },
+        {
+          "name": "archeops",
+	  	  "level": 42,
+	  	  "item": "dragon-fang",
+	  	  "moves": [
+	    	"dragonbreath",
+	    	"return",
+	        "ancientpower",
+	    	"wing-attack"
+          ]
+        },
+        {
+          "name": "sigilyph",
+	  	  "level": 42,
+	  	  "item": "twistedspoon",
+	  	  "moves": [
+	    	"confuse-ray",
+	    	"return",
+	        "psychic",
+	    	"wing-attack"
+          ]
+        },
+        {
+          "name": "seismitoad",
+	  	  "level": 41,
+	  	  "item": "quick-claw",
+	  	  "moves": [
+	    	"surf",
+	    	"ice-beam",
+	        "earthquake",
+	    	"return"
+          ]
+        },
+        {
+          "name": "gigalith",
+	  	  "level": 42,
+	  	  "item": "quick-claw",
+	  	  "moves": [
+	    	"ancientpower",
+	    	"earthquake",
+	        "return",
+	    	"metal-claw"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "cianwood-gym",
+      "name": "blackbelt-yoshi",
+      "team": [
+        {
+          "name": "scrafty",
+          "level": 42,
+          "item": "gold-berry",
+          "moves": [
+            "submission",
+            "crunch",
+			"double-edge",
+			"outrage"
+          ]
+        },
+        {
+          "name": "simisage",
+          "level": 42,
+          "item": "blackbelt",
+          "moves": [
+            "thunder-wave",
+            "leech-seed",
+            "cross-chop",
+            "petal-dance"
+          ]
+        },
+        {
+          "name": "escavalier",
+	  	  "level": 42,
+	  	  "item": "quick-claw",
+	  	  "moves": [
+	    	"submission",
+	    	"steel-wing",
+	        "horn-attack",
+	    	"fury-cutter"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "cianwood-gym",
+      "name": "blackbelt-lung",
+	  "b2b": true,
+      "team": [
+        {
+          "name": "krookodile",
+          "level": 42,
+          "item": "gold-berry",
+          "moves": [
+            "Earthquake",
+            "crunch",
+			"submission",
+			"sludge-bomb"
+          ]
+        },
+        {
+          "name": "darmanitan-zen",
+          "level": 42,
+          "item": "gold-berry",
+          "moves": [
+            "flamethrower",
+            "psybeam",
+            "cross-chop",
+            "crunch"
+          ]
+        },
+        {
+          "name": "garbodor",
+	  	  "level": 42,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"sludge-bomb",
+	    	"cross-chop",
+	        "giga-drain",
+	    	"ancientpower"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "cianwood-gym",
+      "name": "blackbelt-nob",
+      "team": [
+        {
+          "name": "conkeldurr",
+          "level": 42,
+          "item": "gold-berry",
+          "moves": [
+            "submission",
+            "rock-slide",
+			"mach-punch",
+			"return"
+          ]
+        },
+        {
+          "name": "excadrill",
+          "level": 42,
+          "item": "focus-band",
+          "moves": [
+            "horn-attack",
+            "submission",
+            "rock-slide",
+            "fury-cutter"
+          ]
+        },
+        {
+          "name": "heatmor",
+	  	  "level": 42,
+	  	  "item": "blackbelt",
+	  	  "moves": [
+	    	"cross-chop",
+	    	"flamethrower",
+	        "thunderpunch",
+	    	"shadow-ball"
+          ]
+        },
+        {
+          "name": "audino",
+	  	  "level": 42,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"blizzard",
+	    	"fire-blast",
+	        "thunder",
+	    	"psychic"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "cianwood-gym",
+      "name": "blackbelt-adrago",
+      "team": [
+        {
+          "name": "golurk",
+          "level": 42,
+          "item": "quick-claw",
+          "moves": [
+            "earthquake",
+            "shadow-ball",
+			"submission",
+			"rock-slide"
+          ]
+        },
+        {
+          "name": "crustle",
+          "level": 42,
+          "item": "focus-band",
+          "moves": [
+            "rock-slide",
+            "fury-cutter",
+            "submission",
+            "crabhammer"
+          ]
+        },
+        {
+          "name": "emboar",
+	  	  "level": 42,
+	  	  "item": "charcoal",
+	  	  "moves": [
+	    	"flamethrower",
+	    	"cross-chop",
+	        "thunderpunch",
+	    	"double-edge"
+          ]
+        },
+        {
+          "name": "bouffalant",
+	  	  "level": 42,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"double-edge",
+	    	"submission",
+	        "earthquake",
+	    	"outrage"
 		  ]
 		}	    
       ]
