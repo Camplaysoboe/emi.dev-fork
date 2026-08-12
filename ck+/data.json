@@ -13267,17 +13267,17 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 34,
+                            "level": 20,
                             "pokemon": "alomomola"
                         },
                         {
                             "chance": 30,
-                            "level": 34,
+                            "level": 20,
                             "pokemon": "bouffalant"
                         },
                         {
                             "chance": 10,
-                            "level": 34,
+                            "level": 20,
                             "pokemon": "emolga"
                         }
                     ],
@@ -13607,7 +13607,7 @@
             "area": "battle-tower-outside",
             "pools": [
                 {
-                    "pool": "headbutt.forest",
+                    "pool": "headbutt.route",
                     "type": "headbutt"
                 }
             ]
@@ -19745,17 +19745,21 @@
                     "move": "hidden-power"
                 },
                 {
+                    "level": 12,
+                    "move": "thunder-wave"
+                },
+                {
                     "level": 20,
-                    "move": "hidden-power"
+                    "move": "psybeam"
                 },
                 {
                     "level": 27,
-                    "move": "thunderpunch"
+                    "move": "spark"
                 },
-                {
-                    "level": 34,
-                    "move": "psychic"
-                }
+				{
+					"level": 34,
+					"move": "psychic"
+				}
             ],
             "name": "duosion",
             "pokedex": 5,
@@ -20335,13 +20339,9 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "harden"
+                    "move": "tackle"
                 },
                 {
-                    "level": 7,
-                    "move": "harden"
-                },
-				{
 					"level": 16,
 					"move": "rollout"
 				},
@@ -20386,55 +20386,23 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "poison-sting"
-                },
-                {
-                    "level": 10,
-                    "move": "fury-attack"
-                },
-                {
-                    "level": 14,
-                    "move": "twineedle"
-                },
-                {
-                    "level": 16,
-                    "move": "giga-drain"
-                },
-                {
-                    "level": 21,
-                    "move": "sludge-bomb"
-                },
-                {
-                    "level": 25,
-                    "move": "fury-cutter"
-                },
-                {
-                    "level": 30,
-                    "move": "wing-attack"
-                },
-                {
-                    "level": 32,
-                    "move": "endure"
-                },
-                {
-                    "level": 35,
-                    "move": "pin-missile"
-                },
-                {
-                    "level": 40,
                     "move": "leech-life"
                 },
                 {
-                    "level": 43,
-                    "move": "toxic"
-                },
-                {
-                    "level": 48,
-                    "move": "drill-peck"
-                },
-                {
-                    "level": 51,
+                    "level": 10,
                     "move": "sludge"
+                },
+                {
+                    "level": 24,
+                    "move": "body-slam"
+                },
+                {
+                    "level": 38,
+                    "move": "sludge-bomb"
+                },
+                {
+                    "level": 44,
+                    "move": "agility"
                 }
             ],
             "name": "scolipede",
@@ -20578,9 +20546,13 @@
                     "move": "swift"
                 },
                 {
-                    "level": 29,
-                    "move": "wing-attack"
-                }
+                    "level": 28,
+                    "move": "steel-wing"
+                },
+				{
+					"level": 32,
+					"move": "morning-sun"
+				}
             ],
             "name": "tranquill",
             "pokedex": 17,
@@ -20633,7 +20605,7 @@
                     "move": "wing-attack"
                 },
                 {
-                    "level": 37,
+                    "level": 44,
                     "move": "drill-peck"
                 },
                 {
@@ -29937,43 +29909,39 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "quick-attack"
+                    "move": "rage"
                 },
                 {
                     "level": 4,
-                    "move": "tail-whip"
+                    "move": "mud-slap"
                 },
                 {
                     "level": 13,
-                    "move": "horn-attack"
+                    "move": "headbutt"
                 },
                 {
                     "level": 19,
                     "move": "scary-face"
                 },
                 {
-                    "level": 30,
-                    "move": "headbutt"
-                },
-                {
-                    "level": 34,
+                    "level": 26,
                     "move": "submission"
                 },
                 {
+                    "level": 34,
+                    "move": "rock-slide"
+                },
+                {
                     "level": 43,
-                    "move": "thrash"
-                },
-                {
-                    "level": 44,
-                    "move": "iron-tail"
-                },
-                {
-                    "level": 50,
-                    "move": "megahorn"
+                    "move": "body-slam"
                 },
                 {
                     "level": 53,
                     "move": "double-edge"
+                },
+                {
+                    "level": 58,
+                    "move": "iron-tail"
                 }
             ],
             "name": "bouffalant",
@@ -30175,23 +30143,23 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "sing"
+                    "move": "water-gun"
                 },
                 {
-                    "level": 8,
-                    "move": "mist"
-                },
-                {
-                    "level": 15,
-                    "move": "body-slam"
+                    "level": 16,
+                    "move": "bubblebeam"
                 },
                 {
                     "level": 22,
-                    "move": "confuse-ray"
+                    "move": "icy-wind"
                 },
                 {
                     "level": 29,
-                    "move": "perish-song"
+                    "move": "body-slam"
+                },
+                {
+                    "level": 36,
+                    "move": "psychic"
                 },
                 {
                     "level": 36,
@@ -30199,23 +30167,19 @@
                 },
                 {
                     "level": 43,
-                    "move": "psychic"
-                },
-                {
-                    "level": 48,
-                    "move": "thunderbolt"
+                    "move": "surf"
                 },
                 {
                     "level": 50,
-                    "move": "safeguard"
+                    "move": "ice-beam"
                 },
                 {
                     "level": 57,
-                    "move": "hydro-pump"
-                }, 
+                    "move": "mirror-coat"
+                },
                 {
-                    "level": 64,
-                    "move": "ancientpower"
+                    "level": 62,
+                    "move": "recover"
                 }
             ],
             "name": "alomomola",
@@ -37932,8 +37896,8 @@
                     "move": "drill-peck"
                 },
                 {
-                    "level": 48,
-                    "move": "hydro-pump"
+                    "level": 43,
+                    "move": "waterfall"
                 },
                 {
                     "level": 59,
@@ -43480,8 +43444,8 @@
 	  	  "level": 39,
 	  	  "item": "gold-berry",
 	  	  "moves": [
-	    	"lovely-kiss",
 	    	"dream-eater",
+	    	"lovely-kiss",
 	        "psychic",
 	    	"ancientpower"
           ]
@@ -43771,7 +43735,7 @@
             "thunderbolt",
             "surf",
 			"giga-drain",
-			"return"
+			"flamethrower"
           ]
         },
         {
@@ -44126,8 +44090,8 @@
         {
           "name": "vanilluxe",
                     "dvs": {
-                        "atk": 14,
-						"def": 13,
+                        "atk": 12,
+						"def": 15,
 						"hp": 7,
 						"spa": 15,
 						"spd": 15,
@@ -44138,7 +44102,7 @@
 	  	  "moves": [
 	    	"ice-beam",
 	    	"return",
-	        "hp-water",
+	        "hp-ground",
 	    	"mirror-coat"
 		  ]
 		}	    
@@ -44180,7 +44144,7 @@
 	    	"pursuit",
 	    	"outrage",
 	        "surf",
-	    	"return"
+	    	"body-slam"
 		  ]
 		}	    
       ]
