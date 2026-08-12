@@ -44306,7 +44306,7 @@
           "level": 42,
           "item": "gold-berry",
           "moves": [
-            "Earthquake",
+            "earthquake",
             "crunch",
 			"submission",
 			"sludge-bomb"
