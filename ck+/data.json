@@ -4498,112 +4498,112 @@
                         "day": [
                              {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "poliwhirl"
+                                "level": 30,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "piloswine"
+                                "level": 30,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "zebstrika"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "joltik"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "golbat"
+                                "level": 30,
+                                "pokemon": "emolga"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "dewgong"
+                                "level": 30,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "sneasel"
+                                "level": 30,
+                                "pokemon": "bouffalant"
                             }
                         ],
                         "morning": [
           		    {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "poliwhirl"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "sneasel"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "dewgong"
+                                "level": 30,
+                                "pokemon": "drilbur"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "golbat"
+                                "level": 30,
+                                "pokemon": "krokorok"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "stunfisk"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "piloswine"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "poliwhirl"
+                                "level": 30,
+                                "pokemon": "beheeyem"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "beheeyem"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "golbat"
+                                "level": 30,
+                                "pokemon": "musharna"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "dewgong"
+                                "level": 30,
+                                "pokemon": "gothorita"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "piloswine"
+                                "level": 30,
+                                "pokemon": "duosion"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "sneasel"
+                                "level": 30,
+                                "pokemon": "sigilyph"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "sigilyph"
                             }
                         ]
                     },
@@ -9027,112 +9027,112 @@
                         "day": [
                             {
                                 "chance": 30,
-                                "level": 49,
-                                "pokemon": "durant"
+                                "level": 30,
+                                "pokemon": "cinccino"
                             },
                             {
                                 "chance": 30,
-                                "level": 49,
-                                "pokemon": "crobat"
+                                "level": 30,
+                                "pokemon": "durant"
                             },
                             {
                                 "chance": 20,
-                                "level": 49,
-                                "pokemon": "slowbro"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 10,
-                                "level": 49,
-                                "pokemon": "slowbro"
+                                "level": 30,
+                                "pokemon": "herdier"
                             },
                             {
                                 "chance": 5,
-                                "level": 49,
-                                "pokemon": "chandelure"
+                                "level": 30,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 4,
-                                "level": 49,
-                                "pokemon": "keldeo"
+                                "level": 30,
+                                "pokemon": "durant"
                             },
                             {
                                 "chance": 1,
-                                "level": 49,
-                                "pokemon": "slowking"
+                                "level": 30,
+                                "pokemon": "durant"
                             }
                         ],
                         "morning": [
                             {
                                 "chance": 30,
-                                "level": 49,
-                                "pokemon": "durant"
+                                "level": 30,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 30,
-                                "level": 49,
-                                "pokemon": "slowbro"
+                                "level": 30,
+                                "pokemon": "pawniard"
                             },
                             {
                                 "chance": 20,
-                                "level": 49,
-                                "pokemon": "chandelure"
+                                "level": 30,
+                                "pokemon": "sigilyph"
                             },
                             {
                                 "chance": 10,
-                                "level": 49,
-                                "pokemon": "chandelure"
+                                "level": 30,
+                                "pokemon": "watchog"
                             },
                             {
                                 "chance": 5,
-                                "level": 49,
-                                "pokemon": "crobat"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 4,
-                                "level": 49,
-                                "pokemon": "crobat"
+                                "level": 30,
+                                "pokemon": "sigilyph"
                             },
                             {
                                 "chance": 1,
-                                "level": 49,
-                                "pokemon": "slowking"
+                                "level": 30,
+                                "pokemon": "sigilyph"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 49,
-                                "pokemon": "durant"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 30,
-                                "level": 49,
-                                "pokemon": "chandelure"
+                                "level": 30,
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 20,
-                                "level": 49,
-                                "pokemon": "crobat"
+                                "level": 30,
+                                "pokemon": "ferroseed"
                             },
                             {
                                 "chance": 10,
-                                "level": 49,
-                                "pokemon": "crobat"
+                                "level": 30,
+                                "pokemon": "liepard"
                             },
                             {
                                 "chance": 5,
-                                "level": 49,
-                                "pokemon": "slowbro"
+                                "level": 30,
+                                "pokemon": "vullaby"
                             },
                             {
                                 "chance": 4,
-                                "level": 49,
-                                "pokemon": "slowbro"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 1,
-                                "level": 49,
-                                "pokemon": "slowking"
+                                "level": 30,
+                                "pokemon": "ferroseed"
                             }
                         ]
                     },
@@ -9142,18 +9142,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 49,
-                            "pokemon": "starmie"
+                            "level": 20,
+                            "pokemon": "cubchoo"
                         },
                         {
                             "chance": 30,
-                            "level": 49,
-                            "pokemon": "maractus"
+                            "level": 20,
+                            "pokemon": "vanillite"
                         },
                         {
                             "chance": 10,
-                            "level": 49,
-                            "pokemon": "slowking"
+                            "level": 20,
+                            "pokemon": "cryogonal"
                         }
                     ],
                     "type": "surfing"
@@ -29533,7 +29533,7 @@
             "evolutions": [
                 {
                     "into": "escavalier",
-                    "level": "37",
+                    "level": "43",
                     "method": "level"
                 }
             ],
@@ -34914,7 +34914,7 @@
                     "move": "thunderbolt"
                 },
                 {
-                    "level": 46,
+                    "level": 40,
                     "move": "earthquake"
                 }
             ],
@@ -44318,7 +44318,7 @@
         {
           "name": "excadrill",
           "level": 42,
-          "item": "focus-band",
+          "item": "miracleberry",
           "moves": [
             "horn-attack",
             "submission",
@@ -44328,7 +44328,7 @@
         },
         {
           "name": "heatmor",
-	  	  "level": 42,
+	  	  "level": 41,
 	  	  "item": "blackbelt",
 	  	  "moves": [
 	    	"cross-chop",
