@@ -44423,6 +44423,79 @@
 		  ]
 		}	    
       ]
+    },
+	{
+      "area": "Olivine Gym",
+      "name": "leader-clay",
+	  "meta": "perma sand?",
+      "team": [
+        {
+          "name": "gigalith",
+          "level": 48,
+          "item": "focus-band",
+          "moves": [
+            "spikes",
+            "earthquake",
+			"rock-slide",
+			"explosion"
+          ]
+        },
+        {
+          "name": "seismitoad",
+          "level": 48,
+          "item": "quick-claw",
+          "moves": [
+            "lovely-kiss",
+            "earthquake",
+            "ice-beam",
+            "surf"
+          ]
+        },
+        {
+          "name": "ferrothorn",
+	  	  "level": 48,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"leech-seed",
+	    	"ancientpower",
+	        "giga-drain",
+	    	"explosion"
+		  ]
+		},
+		{
+		  "name": "stunfisk",
+		  "level": 48,
+		  "item": "gold-berry",
+		  "moves": [
+			"spikes",
+			"thunderbolt",
+			"sludge-bomb",
+			"earthquake"
+		  ]
+		},
+		{
+		  "name": "golurk",
+		  "level": 48,
+		  "item": "quick-claw",
+		  "moves": [
+			"shadow-ball",
+			"earthquake",
+			"ancientpower",
+			"submission"
+		  ]
+		},
+		{
+		  "name": "excadrill",
+		  "level": 48,
+		  "item": "soft-sand",
+		  "moves": [
+			"horn-attack",
+			"rock-slide",
+			"metal-claw",
+			"submission"
+		  ]
+		}	    
+      ]
     }
     ],
     "type_matchups": [
