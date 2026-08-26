@@ -16568,11 +16568,11 @@
         {
             "accuracy": 100,
             "extra": [
-                "100% chance to lower opponent's defense"
+                "50% chance to lower opponent's defense"
             ],
             "index": 249,
             "name": "rock-smash",
-            "power": 40,
+            "power": 20,
             "pp": 15,
             "type": "fighting"
         },
@@ -43978,7 +43978,7 @@
             "confuse-ray",
             "ice-beam",
             "ancientpower",
-            "mud-slap"
+            "bubblebeam"
 		  ]
 		}	    
       ]
@@ -44425,13 +44425,597 @@
       ]
     },
 	{
+      "area": "whirl-island",
+      "name": "gruntm-12",
+      "team": [
+        {
+          "name": "lilligant",
+                    "dvs": {
+                        "atk": 14,
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 47,
+          "item": "brightpowder",
+          "moves": [
+            "sleep-powder",
+            "substitute",
+			"petal-dance",
+			"hp-fire"
+          ]
+        },
+        {
+          "name": "basculin",
+          "level": 47,
+          "item": "focus-band",
+          "moves": [
+            "ancientpower",
+            "hydro-pump",
+            "double-edge",
+            "reversal"
+          ]
+        },
+        {
+          "name": "simisear",
+	  	  "level": 47,
+	  	  "item": "magnet",
+	  	  "moves": [
+	    	"flamethrower",
+	    	"zap-cannon",
+	        "crunch",
+	    	"rock-slide"
+          ]
+        },
+        {
+          "name": "audino",
+	  	  "level": 50,
+	  	  "item": "brightpowder",
+	  	  "moves": [
+	    	"explosion"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "whirl-island",
+      "name": "gruntm-22",
+      "team": [
+        {
+          "name": "mandibuzz",
+          "level": 47,
+          "item": "brightpowder",
+          "moves": [
+            "toxic",
+            "recover",
+			"night-shade",
+			"wing-attack"
+          ]
+        },
+        {
+          "name": "scrafty",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "counter",
+            "submission",
+            "crunch",
+            "dragonbreath"
+          ]
+        },
+        {
+          "name": "garbodor",
+	  	  "level": 47,
+	  	  "item": "quick-claw",
+	  	  "moves": [
+	    	"toxic",
+	    	"explosion",
+	        "sludge-bomb",
+	    	"earthquake"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "whirl-island",
+      "name": "gruntm-23",
+      "team": [
+        {
+          "name": "stoutland",
+          "level": 47,
+          "item": "focus-band",
+          "moves": [
+            "extremespeed",
+            "double-edge",
+			"crunch",
+			"zap-cannon"
+          ]
+        },
+        {
+          "name": "watchog",
+          "level": 47,
+          "item": "brightpowder",
+          "moves": [
+            "hypnosis",
+            "hyper-fang",
+            "iron-tail",
+            "submission"
+          ]
+        },
+        {
+          "name": "liepard",
+	  	  "level": 47,
+	  	  "item": "blackglasses",
+	  	  "moves": [
+	    	"thunder-wave",
+	    	"confuse-ray",
+	        "crunch",
+	    	"psychic"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "whirl-island",
+      "name": "gruntm-26",
+      "team": [
+        {
+          "name": "amoonguss",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "spore",
+            "synthesis",
+			"giga-drain",
+			"sludge-bomb"
+          ]
+        },
+        {
+          "name": "krookodile",
+          "level": 47,
+          "item": "blackglasses",
+          "moves": [
+            "pursuit",
+            "earthquake",
+            "rock-slide",
+            "shadow-ball"
+          ]
+        },
+        {
+          "name": "conkeldurr",
+	  	  "level": 47,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"cross-chop",
+	    	"double-edge",
+	        "sludge-bomb",
+	    	"ice-punch"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "whirl-island",
+      "name": "colress",
+      "team": [
+        {
+          "name": "klinklang",
+          "level": 48,
+          "item": "focus-band",
+          "moves": [
+            "spikes",
+            "zap-cannon",
+			"metal-claw",
+			"explosion"
+          ]
+        },
+        {
+          "name": "beheeyem",
+          "level": 48,
+          "item": "brightpowder",
+          "moves": [
+            "psychic",
+            "thunderpunch",
+            "ice-punch",
+            "fire-punch"
+          ]
+        },
+        {
+          "name": "bisharp",
+	  	  "level": 47,
+	  	  "item": "quick-claw",
+	  	  "moves": [
+	    	"crunch",
+	    	"iron-tail",
+	        "wing-attack",
+	    	"fury-cutter"
+          ]
+        },
+        {
+          "name": "darmanitan-zen",
+	  	  "level": 47,
+	  	  "item": "twistedspoon",
+	  	  "moves": [
+	    	"hypnosis",
+	    	"psychic",
+	        "flamethrower",
+	    	"crunch"
+          ]
+        },
+        {
+          "name": "galvantula",
+	  	  "level": 48,
+	  	  "item": "silverpowder",
+	  	  "moves": [
+	    	"thunder-wave",
+	    	"thunderbolt",
+	        "fury-cutter",
+	    	"pursuit"
+          ]
+        },
+        {
+          "name": "cofagrigus",
+	  	  "level": 48,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"shadow-ball",
+	    	"crunch",
+	        "giga-drain",
+	    	"psychic"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "sailor-huey",
+      "team": [
+        {
+          "name": "swanna",
+          "level": 47,
+          "item": "mystic-water",
+          "moves": [
+            "surf",
+            "drill-peck",
+			"ice-beam",
+			"double-edge"
+          ]
+        },
+        {
+          "name": "carracosta",
+          "level": 47,
+          "item": "focus-band",
+          "moves": [
+            "rock-slide",
+            "sleep-talk",
+            "waterfall",
+            "ancientpower"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "gentleman-alfred",
+	  "b2b": true, 
+      "team": [
+        {
+          "name": "gothitelle",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "psychic",
+            "crunch",
+			"thunderbolt",
+			"petal-dance"
+          ]
+        },
+        {
+          "name": "unfezant",
+                    "dvs": {
+                        "atk": 12,
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 47,
+          "item": "sharp-beak",
+          "moves": [
+            "hypnosis",
+            "drill-peck",
+            "return",
+            "hp-fighting"
+          ]
+        },
+        {
+          "name": "leavanny",
+	  	  "level": 47,
+	  	  "item": "miracle-seed",
+	  	  "moves": [
+	    	"petal-dance",
+	    	"fury-cutter",
+	        "rock-slide",
+	    	"shadow-ball"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "gentleman-preston",
+      "team": [
+        {
+          "name": "whimsicott",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "sky-attack",
+            "sleep-powder",
+			"petal-dance",
+			"giga-drain"
+          ]
+        },
+        {
+          "name": "emolga",
+          "level": 47,
+          "item": "miracleberry",
+          "moves": [
+            "thunder-wave",
+            "thunderbolt",
+            "sky-attack",
+            "iron-tail"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "birdkeeper-theo",
+	  "b2b": true,
+      "team": [
+        {
+          "name": "braviary",
+          "level": 46,
+          "item": "gold-berry",
+          "moves": [
+            "return",
+            "sleep-talk",
+			"sky-attack",
+			"metal-claw"
+          ]
+        },
+        {
+          "name": "archeops",
+          "level": 47,
+          "item": "sharp-beak",
+          "moves": [
+            "wing-attack",
+            "rock-slide",
+            "dragonbreath",
+            "shadow-ball"
+          ]
+        },
+        {
+          "name": "eelektross",
+          "level": 47,
+          "item": "focus-band",
+          "moves": [
+            "thunderbolt",
+            "surf",
+            "submission",
+            "super-fang"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "sailor-terrell",
+	  "meta": "start of gauntlet",
+      "team": [
+        {
+          "name": "emboar",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "flamethrower",
+            "cross-chop",
+			"earthquake",
+			"rock-slide"
+          ]
+        },
+        {
+          "name": "jellicent",
+          "level": 47,
+          "item": "leftovers",
+          "moves": [
+            "giga-drain",
+            "rain-dance",
+            "toxic",
+            "surf"
+          ]
+        },
+        {
+          "name": "gigalith",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "spikes",
+            "earthquake",
+            "metal-claw",
+            "rock-slide"
+          ]
+        },
+        {
+          "name": "sigilyph",
+                    "dvs": {
+                        "atk": 14,
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 47,
+          "item": "mystic-water",
+          "moves": [
+            "rain-dance",
+            "psychic",
+            "thunder",
+            "hp-water"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "sailor-kent",
+      "team": [
+        {
+          "name": "sawsbuck",
+          "level": 48,
+          "item": "miracle-seed",
+          "moves": [
+            "petal-dance",
+            "double-edge",
+			"hi-jump-kick",
+			"earthquake"
+          ]
+        },
+        {
+          "name": "crustle",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "rock-slide",
+            "fury-cutter",
+            "earthquake",
+            "crabhammer"
+          ]
+        },
+        {
+          "name": "beartic",
+          "level": 47,
+          "item": "pink-bow",
+          "moves": [
+            "return",
+            "ice-beam",
+            "earthquake",
+            "cross-chop"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "lass-connie",
+	  "b2b": true,
+      "team": [
+        {
+          "name": "cinccino",
+          "level": 48,
+          "item": "pink-bow",
+          "moves": [
+            "doubleslap",
+			"thunderbolt",
+			"ice-beam"
+          ]
+        },
+        {
+          "name": "swoobat",
+          "level": 47,
+          "item": "miracleberry",
+          "moves": [
+            "psychic",
+            "confuse-ray",
+            "drill-peck",
+            "attract"
+          ]
+        },
+        {
+          "name": "alomomola",
+          "level": 47,
+          "item": "leftovers",
+          "moves": [
+            "surf",
+            "toxic",
+            "ice-beam",
+            "icy-wind"
+          ]
+        },
+        {
+          "name": "vanilluxe",
+          "level": 47,
+          "item": "nevermeltice",
+          "moves": [
+            "ice-beam",
+            "double-edge",
+            "hp-ground"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "olivine-lighthouse",
+      "name": "sailor-ernest",
+      "team": [
+        {
+          "name": "accelgor",
+          "level": 47,
+          "item": "silverpowder",
+          "moves": [
+            "spikes",
+			"sandstorm",
+			"fury-cutter",
+			"body-slam"
+          ]
+        },
+        {
+          "name": "escavalier",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "spikes",
+            "fury-cutter",
+            "metal-claw",
+            "horn-attack"
+          ]
+        },
+        {
+          "name": "audino",
+          "level": 47,
+          "item": "leftovers",
+          "moves": [
+            "toxic",
+            "recover",
+            "seismic-toss",
+            "night-shade"
+          ]
+        },
+        {
+          "name": "krookodile",
+          "level": 47,
+          "item": "soft-sand",
+          "moves": [
+            "earthquake",
+            "rock-slide",
+            "crunch",
+			"iron-tail"
+		  ]
+		}	    
+      ]
+    },
+	{
       "area": "Olivine Gym",
       "name": "leader-clay",
-	  "meta": "perma sand?",
       "team": [
         {
           "name": "gigalith",
-          "level": 48,
+          "level": 50,
           "item": "focus-band",
           "moves": [
             "spikes",
@@ -44442,7 +45026,7 @@
         },
         {
           "name": "seismitoad",
-          "level": 48,
+          "level": 50,
           "item": "quick-claw",
           "moves": [
             "lovely-kiss",
@@ -44453,7 +45037,7 @@
         },
         {
           "name": "ferrothorn",
-	  	  "level": 48,
+	  	  "level": 50,
 	  	  "item": "focus-band",
 	  	  "moves": [
 	    	"leech-seed",
@@ -44464,7 +45048,7 @@
 		},
 		{
 		  "name": "stunfisk",
-		  "level": 48,
+		  "level": 50,
 		  "item": "gold-berry",
 		  "moves": [
 			"spikes",
@@ -44475,7 +45059,7 @@
 		},
 		{
 		  "name": "golurk",
-		  "level": 48,
+		  "level": 50,
 		  "item": "quick-claw",
 		  "moves": [
 			"shadow-ball",
@@ -44486,7 +45070,7 @@
 		},
 		{
 		  "name": "excadrill",
-		  "level": 48,
+		  "level": 50,
 		  "item": "soft-sand",
 		  "moves": [
 			"horn-attack",
