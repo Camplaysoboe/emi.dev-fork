@@ -1743,34 +1743,34 @@
                         {
                             "chance": 70,
                             "level": 20,
-                            "pokemon": "larvesta"
+                            "pokemon": "cubchoo"
                         },
                         {
                             "chance": 15,
                             "level": 20,
-                            "pokemon": "yamask"
+                            "pokemon": "vanillite"
                         },
                         {
                             "chance": 15,
                             "level": 20,
-                            "pokemon": "foongus"
+                            "pokemon": "cryogonal"
                         }
                     ],
                     "night": [
                         {
                             "chance": 70,
                             "level": 20,
-                            "pokemon": "larvesta"
+                            "pokemon": "cubchoo"
                         },
                         {
                             "chance": 15,
                             "level": 20,
-                            "pokemon": "yamask"
+                            "pokemon": "vanillite"
                         },
                         {
                             "chance": 15,
                             "level": 20,
-                            "pokemon": "foongus"
+                            "pokemon": "cryogonal"
                         }
                     ]
                 },
@@ -2899,22 +2899,22 @@
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "solosis"
                             },
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "munna"
                             },
                             {
                                 "chance": 20,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "purrloin"
                             },
                             {
                                 "chance": 10,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "woobat"
                             },
                             {
                                 "chance": 5,
@@ -2924,34 +2924,34 @@
                             {
                                 "chance": 4,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "gothita"
                             },
                             {
                                 "chance": 1,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "zorua"
                             }
                         ],
                         "morning": [
                              {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "gothita"
                             },
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "munna"
                             },
                             {
                                 "chance": 20,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "solosis"
                             },
                             {
                                 "chance": 10,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "woobat"
                             },
                             {
                                 "chance": 5,
@@ -2961,34 +2961,34 @@
                             {
                                 "chance": 4,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "scraggy"
                             },
                             {
                                 "chance": 1,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "zorua"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "purrloin"
                             },
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "scraggy"
                             },
                             {
                                 "chance": 20,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "munna"
                             },
                             {
                                 "chance": 10,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "woobat"
                             },
                             {
                                 "chance": 5,
@@ -2998,12 +2998,12 @@
                             {
                                 "chance": 4,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "solosis"
                             },
                             {
                                 "chance": 1,
                                 "level": 5,
-                                "pokemon": "elgyem"
+                                "pokemon": "zorua"
                             }
                         ]
                     },
@@ -4614,17 +4614,17 @@
                         {
                             "chance": 60,
                             "level": 30,
-                            "pokemon": "dewgong"
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
                             "level": 30,
-                            "pokemon": "seadra"
+                            "pokemon": "yamask"
                         },
                         {
                             "chance": 10,
                             "level": 30,
-                            "pokemon": "poliwhirl"
+                            "pokemon": "frillish"
                         }
                     ],
                     "type": "surfing"
@@ -4632,14 +4632,6 @@
                 {
                     "pool": "fishing.whirlislands.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.whirlislands.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.whirlislands.super",
-                    "type": "super-rod"
                 }
             ]
         },
@@ -4784,112 +4776,112 @@
                         "day": [
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "piloswine"
+                                "level": 30,
+                                "pokemon": "drilbur"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "sneasel"
+                                "level": 30,
+                                "pokemon": "pawniard"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "klang"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "durant"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "golbat"
+                                "level": 30,
+                                "pokemon": "karrablast"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "poliwhirl"
+                                "level": 30,
+                                "pokemon": "escavalier"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "dewgong"
+                                "level": 30,
+                                "pokemon": "beheeyem"
                             }
                         ],
                         "morning": [
           		    {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "piloswine"
+                                "level": 30,
+                                "pokemon": "klang"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "dewgong"
+                                "level": 30,
+                                "pokemon": "pawniard"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "poliwhirl"
+                                "level": 30,
+                                "pokemon": "klang"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "golbat"
+                                "level": 30,
+                                "pokemon": "durant"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "karrablast"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "escavalier"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "sneasel"
+                                "level": 30,
+                                "pokemon": "beheeyem"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "piloswine"
+                                "level": 30,
+                                "pokemon": "pawniard"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "drilbur"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "golbat"
+                                "level": 30,
+                                "pokemon": "klang"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "poliwhirl"
+                                "level": 30,
+                                "pokemon": "durant"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "sneasel"
+                                "level": 30,
+                                "pokemon": "karrablast"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "dewgong"
+                                "level": 30,
+                                "pokemon": "escavalier"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "beheeyem"
                             }
                         ]
                     },
@@ -4898,14 +4890,6 @@
                 {
                     "pool": "fishing.whirlislands.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.whirlislands.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.whirlislands.super",
-                    "type": "super-rod"
                 }
             ]
         },
@@ -4917,112 +4901,112 @@
                         "day": [
                              {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "krabby"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "throh"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "sawk"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "mienfoo"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "scraggy"
+                                "level": 30,
+                                "pokemon": "gurdurr"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "scraggy"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "scraggy"
+                                "level": 30,
+                                "pokemon": "scrafty"
                             }
                         ],
                         "morning": [
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "scraggy"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "krabby"
+                                "level": 30,
+                                "pokemon": "darmanitan-zen"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "darumaka"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "scraggy"
+                                "level": 30,
+                                "pokemon": "heatmor"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "larvesta"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "darmanitan-zen"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "krabby"
+                                "level": 30,
+                                "pokemon": "darmanitan-zen"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 30,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "scraggy"
                             },
                             {
                                 "chance": 20,
-                                "level": 25,
-                                "pokemon": "scraggy"
+                                "level": 30,
+                                "pokemon": "vullaby"
                             },
                             {
                                 "chance": 10,
-                                "level": 25,
-                                "pokemon": "krabby"
+                                "level": 30,
+                                "pokemon": "liepard"
                             },
                             {
                                 "chance": 5,
-                                "level": 25,
-                                "pokemon": "scraggy"
+                                "level": 30,
+                                "pokemon": "krokorok"
                             },
                             {
                                 "chance": 4,
-                                "level": 25,
-                                "pokemon": "scrafty"
+                                "level": 30,
+                                "pokemon": "zorua"
                             },
                             {
                                 "chance": 1,
-                                "level": 25,
-                                "pokemon": "kingler"
+                                "level": 30,
+                                "pokemon": "pawniard"
                             }
                         ]
                     },
@@ -5031,14 +5015,6 @@
                 {
                     "pool": "fishing.whirlislands.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.whirlislands.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.whirlislands.super",
-                    "type": "super-rod"
                 }
             ]
         },
@@ -6776,7 +6752,7 @@
                             {
                                 "chance": 4,
                                 "level": 12,
-                                "pokemon": "pansear"
+                                "pokemon": "heatmor"
                             },
                             {
                                 "chance": 1,
@@ -6813,7 +6789,7 @@
                             {
                                 "chance": 4,
                                 "level": 12,
-                                "pokemon": "pansage"
+                                "pokemon": "petilil"
                             },
                             {
                                 "chance": 1,
@@ -6850,7 +6826,7 @@
                             {
                                 "chance": 4,
                                 "level": 12,
-                                "pokemon": "panpour"
+                                "pokemon": "zorua"
                             },
                             {
                                 "chance": 1,
@@ -7339,12 +7315,12 @@
                             {
                                 "chance": 4,
                                 "level": 28,
-                                "pokemon": "simisear"
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 1,
                                 "level": 28,
-                                "pokemon": "simisear"
+                                "pokemon": "druddigon"
                             }
                         ],
                         "morning": [
@@ -7376,12 +7352,12 @@
                             {
                                 "chance": 4,
                                 "level": 28,
-                                "pokemon": "simisage"
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 1,
                                 "level": 28,
-                                "pokemon": "simisage"
+                                "pokemon": "druddigon"
                             }
                         ],
                         "night": [
@@ -7413,12 +7389,12 @@
                             {
                                 "chance": 4,
                                 "level": 28,
-                                "pokemon": "simipour"
+                                "pokemon": "druddigon"
                             },
                             {
                                 "chance": 1,
                                 "level": 28,
-                                "pokemon": "simipour"
+                                "pokemon": "druddigon"
                             }
                         ]
                     },
@@ -7697,14 +7673,6 @@
                 {
                     "pool": "fishing.lake.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.lake.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.lake.super",
-                    "type": "super-rod"
                 },
                 {
                     "pool": "headbutt.lake",
@@ -9161,14 +9129,6 @@
                 {
                     "pool": "fishing.lake.old",
                     "type": "old-rod"
-                },
-                {
-                    "pool": "fishing.lake.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.lake.super",
-                    "type": "super-rod"
                 }
             ]
         },
@@ -12665,7 +12625,7 @@
                     "type": "surfing"
                 },
                 {
-                    "pool": "fishing.pond.old",
+                    "pool": "fishing.shore.old",
                     "type": "old-rod"
                 },
                 {
@@ -13551,9 +13511,9 @@
                     "pool": [
                         {
                             "chance": 100,
-                            "extra": "Traded for gothita on the 5th floor of the department store",
+                            "extra": "Traded for darmanitan on the 5th floor of the department store",
                             "level": 1,
-                            "pokemon": "timburr"
+                            "pokemon": "darmanitan-zen"
                         }
                     ],
                     "type": "trade"
@@ -14538,6 +14498,11 @@
                 {
                     "amount": "renewable",
                     "info": "$5000 in mart",
+                    "item": "moon-stone"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$5000 in mart",
                     "item": "fire-stone"
                 },
                 {
@@ -14682,7 +14647,7 @@
                 },
                 {
                     "amount": "renewable",
-                    "info": "$3000 in mart 3F",
+                    "info": "$5000 in mart 3F",
                     "item": "poison-barb"
                 },
                 {
@@ -15052,6 +15017,21 @@
                     "info": "$1000 in mart",
                     "item": "miracleberry"
                 },
+				{
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "soft-sand"
+                },
+				{
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "magnet"
+                },
+				{
+                    "amount": "renewable",
+                    "info": "$10000 in mart",
+                    "item": "sharp-beak"
+                },
                 {
                     "amount": "1",
                     "info": "obtained after defeating Jasmine",
@@ -15163,8 +15143,8 @@
             "items": [
                 {
                     "amount": "1",
-                    "info": "Susie gives it to you",
-                    "item": "hm-06"
+                    "info": "given by Susie after fighting her",
+                    "item": "thunderstone"
                 }
 ],
             "locations": [
@@ -17507,13 +17487,13 @@
         {
             "accuracy": 100,
             "extra": [
-                "Hits 2-5 times"
+                "Hits 2 times"
             ],
             "index": 4,
             "name": "comet-punch",
-            "power": 25,
+            "power": 50,
             "pp": 15,
-            "template": "multi-hit",
+            "template": "double-hit",
             "type": "steel"
         },
         {
@@ -17595,12 +17575,13 @@
         {
             "accuracy": 100,
             "extra": [
-                "lowers opponent's speed"
+                "hits 2-5 times"
             ],
             "index": 198,
             "name": "bone-rush",
-            "power": 60,
+            "power": 25,
             "pp": 10,
+			"template": "multi-hit",
             "type": "ground"
         },
         {
@@ -18739,14 +18720,15 @@
             "type": "ground"
         },
         {
-            "accuracy": 50,
+            "accuracy": 100,
             "extra": [
-                "100% chance to paralyze opponent"
+                "user takes 33% damage as recoil"
             ],
             "index": 192,
             "name": "zap-cannon",
             "power": 120,
             "pp": 5,
+			"template": "recoil-third",
             "type": "electric"
         },
         {
@@ -19295,6 +19277,7 @@
             "name": "outrage",
             "power": 120,
             "pp": 15,
+			"template": "recoil-third",
             "type": "dragon"
         },
         {
@@ -20354,8 +20337,8 @@
 					"move": "body-slam"
 				},
 				{
-					"level": 32,
-					"move": "fury-cutter"
+					"level": 36,
+					"move": "toxic"
 				}
             ],
             "name": "whirlipede",
@@ -20402,7 +20385,7 @@
                 },
                 {
                     "level": 44,
-                    "move": "agility"
+                    "move": "fury-cutter"
                 }
             ],
             "name": "scolipede",
@@ -20610,7 +20593,7 @@
                 },
                 {
                     "level": 48,
-                    "move": "double-edge"
+                    "move": "tri-attack"
                 },
                 {
                     "level": 54,
@@ -20950,7 +20933,7 @@
             "evolutions": [
                 {
                     "into": "cinccino",
-                    "Item": "moon-stone",
+                    "item": "moon-stone",
                     "method": "Item"
                 }
             ],
@@ -21467,7 +21450,7 @@
                     "move": "bind"
                 },
                 {
-                    "level": 16,
+                    "level": 14,
                     "move": "spark"
                 }
             ],
@@ -21524,6 +21507,10 @@
                 {
                     "level": 1,
                     "move": "tackle"
+				},
+				{
+					"level": 16,
+					"move": "metal-claw"
                 },
                 {
                     "level": 20,
@@ -21598,7 +21585,7 @@
                 },
                 {
                     "level": 48,
-                    "move": "hyper-beam"
+                    "move": "comet-punch"
                 }
             ],
             "name": "klinklang",
@@ -21903,11 +21890,11 @@
                 },
                 {
                     "level": 22,
-                    "move": "spark"
+                    "move": "dig"
                 },
                 {
                     "level": 24,
-                    "move": "rock-throw"
+                    "move": "crunch"
                 },
                 {
                     "level": 30,
@@ -21984,7 +21971,7 @@
                 },
                 {
                     "level": 44,
-                    "move": "crunch"
+                    "move": "submission"
                 },
                 {
                     "level": 60,
@@ -23226,12 +23213,12 @@
                     "move": "spark"
                 },
                 {
-                    "level": 17,
-                    "move": "dig"
+                    "level": 16,
+                    "move": "leech-life"
                 },
                 {
                     "level": 28,
-                    "move": "slash"
+                    "move": "fury-cutter"
                 },
                 {
                     "level": 36,
@@ -24543,19 +24530,19 @@
                 },
                 {
                     "level": 1,
-                    "move": "leer"
+                    "move": "rock-smash"
                 },
                 {
                     "level": 7,
-                    "move": "rock-throw"
+                    "move": "seismic-toss"
                 },
                 {
                     "level": 13,
                     "move": "karate-chop"
                 },
                 {
-                    "level": 19,
-                    "move": "seismic-toss"
+                    "level": 16,
+                    "move": "rock-throw"
                 },
                 {
                     "level": 22,
@@ -24566,10 +24553,6 @@
 					"move": "mach-punch"
 				},
 				{
-                    "level": 31,
-                    "move": "rock-slide"
-                },
-                {
                     "level": 37,
                     "move": "submission"
                 },
@@ -24646,35 +24629,27 @@
                     "move": "leer"
                 },
                 {
-                    "level": 7,
-                    "move": "rock-throw"
-                },
-                {
-                    "level": 13,
+                    "level": 15,
                     "move": "karate-chop"
                 },
                 {
                     "level": 19,
                     "move": "seismic-toss"
-                },
-                {
-                    "level": 22,
-                    "move": "vital-throw"
-                },
-                {
-                    "level": 31,
-                    "move": "rock-slide"
-                },
-                {
-                    "level": 37,
-                    "move": "submission"
+				},
+				{
+                    "level": 34,
+                    "move": "body-slam"
                 },
                 {
                     "level": 43,
+                    "move": "submission"
+                },
+                {
+                    "level": 52,
                     "move": "scary-face"
                 },
                 {
-                    "level": 49,
+                    "level": 61,
                     "move": "cross-chop"
                 }
             ],
@@ -24731,15 +24706,7 @@
                     "move": "low-kick"
                 },
                 {
-                    "level": 1,
-                    "move": "leer"
-                },
-                {
-                    "level": 7,
-                    "move": "rock-throw"
-                },
-                {
-                    "level": 13,
+                    "level": 15,
                     "move": "karate-chop"
                 },
                 {
@@ -24747,24 +24714,16 @@
                     "move": "seismic-toss"
                 },
                 {
-                    "level": 22,
+                    "level": 34,
                     "move": "vital-throw"
                 },
                 {
-                    "level": 31,
-                    "move": "rock-slide"
-                },
-                {
-                    "level": 37,
+                    "level": 43,
                     "move": "submission"
                 },
                 {
-                    "level": 43,
+                    "level": 52,
                     "move": "scary-face"
-                },
-                {
-                    "level": 49,
-                    "move": "cross-chop"
                 },
 		{
 		    "level": 60,
@@ -24921,7 +24880,7 @@
                     "move": "synthesis"
                 },
 				{
-					"level": 30,
+					"level": 32,
 					"move": "giga-drain"
 				}
             ],
@@ -25185,11 +25144,11 @@
                 },
                 {
                     "level": 6,
-                    "move": "defense-curl"
+                    "move": "rock-throw"
                 },
                 {
                     "level": 11,
-                    "move": "rock-throw"
+                    "move": "mud-slap"
                 },
                 {
                     "level": 14,
@@ -25202,14 +25161,6 @@
                 {
                     "level": 26,
                     "move": "body-slam"
-                },
-                {
-                    "level": 28,
-                    "move": "karate-chop"
-                },
-                {
-                    "level": 31,
-                    "move": "rock-slide"
                 },
                 {
                     "level": 36,
@@ -25284,8 +25235,8 @@
                     "move": "tackle"
                 },
                 {
-                    "level": 6,
-                    "move": "defense-curl"
+                    "level": 1,
+                    "move": "rock-throw"
                 },
                 {
                     "level": 11,
@@ -25300,23 +25251,19 @@
                     "move": "selfdestruct"
                 },
                 {
-                    "level": 28,
+                    "level": 25,
+                    "move": "rollout"
+                },
+                {
+                    "level": 34,
                     "move": "body-slam"
                 },
                 {
-                    "level": 33,
-                    "move": "karate-chop"
-                },
-                {
-                    "level": 35,
-                    "move": "rock-slide"
-                },
-                {
-                    "level": 40,
+                    "level": 41,
                     "move": "earthquake"
                 },
                 {
-                    "level": 46,
+                    "level": 48,
                     "move": "explosion"
                 }
             ],
@@ -25377,15 +25324,11 @@
                     "move": "tackle"
                 },
                 {
-                    "level": 6,
-                    "move": "defense-curl"
-                },
-                {
-                    "level": 11,
+                    "level": 1,
                     "move": "rock-throw"
                 },
                 {
-                    "level": 16,
+                    "level": 1,
                     "move": "magnitude"
                 },
                 {
@@ -25393,28 +25336,20 @@
                     "move": "selfdestruct"
                 },
                 {
-                    "level": 28,
-                    "move": "body-slam"
+                    "level": 34,
+                    "move": "rollout"
                 },
                 {
-                    "level": 33,
-                    "move": "karate-chop"
-                },
-                {
-                    "level": 35,
-                    "move": "rock-slide"
-                },
-                {
-                    "level": 40,
+                    "level": 41,
                     "move": "earthquake"
                 },
                 {
-                    "level": 46,
-                    "move": "explosion"
+                    "level": 48,
+                    "move": "rock-slide"
                 },
                 {
-                    "level": 49,
-                    "move": "submission"
+                    "level": 55,
+                    "move": "explosion"
                 }
             ],
             "name": "gigalith",
@@ -27706,7 +27641,7 @@
             "evolutions": [
                 {
                     "into": "mandibuzz",
-                    "level": 50,
+                    "level": 42,
                     "method": "level"
                 }
             ],
@@ -27862,7 +27797,7 @@
                 },
                 {
                     "level": 5,
-                    "move": "bite"
+                    "move": "faint-attack"
                 },
                 {
                     "level": 9,
@@ -28750,19 +28685,19 @@
                 },
                 {
                     "level": 25,
-                    "move": "giga-drain"
+                    "move": "synthesis"
                 },
                 {
                     "level": 34,
-                    "move": "growth"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 40,
-                    "move": "sacred-fire"
+                    "move": "petal-dance"
                 },
                 {
                     "level": 46,
-                    "move": "synthesis"
+                    "move": "faint-attack"
                 },
                 {
                     "level": 60,
@@ -29176,11 +29111,11 @@
                     "move": "ice-beam"
                 },
                 {
-                    "level": 49,
+                    "level": 45,
                     "move": "cross-chop"
                 },
                 {
-                    "level": 61,
+                    "level": 48,
                     "move": "earthquake"
                 }
             ],
@@ -29521,8 +29456,8 @@
                     "move": "rock-smash"
                 },
                 {
-                    "level": 38,
-                    "move": "horn-attack"
+                    "level": 40,
+                    "move": "metal-claw"
                 }
             ],
             "name": "karrablast",
@@ -29545,7 +29480,7 @@
                 "snore",
                 "hyper-beam",
                 "protect",
-		"wing-attack",
+				"wing-attack",
                 "endure",
                 "frustration",
                 "return",
@@ -29557,7 +29492,6 @@
                 "attract",
                 "thief",
                 "steel-wing",
-                "fury-cutter",
                 "cut"
             ],
             "types": [
@@ -29976,6 +29910,26 @@
 				{
 					"level": 25,
 					"move": "flame-wheel"
+				},
+				{
+					"level": 30,
+					"move": "leech-life"
+				},
+				{
+					"level": 34,
+					"move": "flamethrower"
+				},
+				{
+					"level": 38,
+					"move": "fury-cutter"
+				},
+				{
+					"level": 42,
+					"move": "double-edge"
+				},
+				{
+					"level": 50,
+					"move": "giga-drain"
 				}
             ],
             "name": "larvesta",
@@ -30122,7 +30076,7 @@
                     "move": "ice-beam"
                 },
                 {
-                    "level": 43,
+                    "level": 40,
                     "move": "surf"
                 },
                 {
@@ -30970,47 +30924,31 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "scratch"
+                    "move": "waterfall"
                 },
                 {
                     "level": 1,
-                    "move": "harden"
-                },
-                {
-                    "level": 9,
-                    "move": "mega-drain"
-                },
-                {
-                    "level": 11,
-                    "move": "bubblebeam"
-                },
-                {
-                    "level": 14,
-                    "move": "rock-throw"
-                },
-                {
-                    "level": 22,
-                    "move": "dig"
-                },
-                {
-                    "level": 28,
-                    "move": "slash"
-                },
-                {
-                    "level": 37,
                     "move": "rock-slide"
                 },
                 {
+                    "level": 1,
+                    "move": "crunch"
+                },
+                {
+                    "level": 1,
+                    "move": "protect"
+                },
+                {
+                    "level": 40,
+                    "move": "mud-slap"
+                },
+                {
                     "level": 46,
-                    "move": "fury-cutter"
+                    "move": "ice-beam"
                 },
                 {
-                    "level": 55,
-                    "move": "ancientpower"
-                },
-                {
-                    "level": 62,
-                    "move": "crabhammer"
+                    "level": 54,
+                    "move": "earthquake"
                 }
             ],
             "name": "carracosta",
@@ -31956,12 +31894,12 @@
                     "move": "mega-drain"
                 },
                 {
-                    "level": 23,
-                    "move": "body-slam"
+                    "level": 25,
+                    "move": "giga-drain"
                 },
                 {
                     "level": 31,
-                    "move": "giga-drain"
+                    "move": "body-slam"
                 }
             ],
             "name": "servine",
@@ -32016,12 +31954,16 @@
                     "move": "tackle"
                 },
                 {
-                    "level": 47,
-                    "move": "dragonbreath"
+                    "level": 36,
+                    "move": "petal-dance"
                 },
                 {
-                    "level": 55,
-                    "move": "petal-dance"
+                    "level": 40,
+                    "move": "dragonbreath"
+				},
+				{
+					"level": 48,
+					"move": "leech-seed"
                 }
             ],
             "name": "serperior",
@@ -33190,7 +33132,7 @@
             "evolutions": [
                 {
                     "into": "cofagrigus",
-                    "level": 27,
+                    "level": 34,
                     "method": "level"
                 }
             ],
@@ -33199,47 +33141,27 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "bubble"
+                    "move": "night-shade"
                 },
                 {
                     "level": 1,
-                    "move": "confuse-ray"
-                },
-                {
-                    "level": 5,
-                    "move": "water-gun"
-                },
-                {
-                    "level": 13,
-                    "move": "spark"
-                },
-                {
-                    "level": 17,
-                    "move": "bubblebeam"
-                },
-                {
-                    "level": 25,
-                    "move": "aurora-beam"
-                },
-                {
-                    "level": 32,
                     "move": "thunder-wave"
                 },
                 {
-                    "level": 39,
-                    "move": "thunder"
+                    "level": 7,
+                    "move": "confuse-ray"
                 },
                 {
-                    "level": 41,
-                    "move": "ice-beam"
+                    "level": 13,
+                    "move": "lick"
                 },
                 {
-                    "level": 44,
-                    "move": "thunderbolt"
+                    "level": 17,
+                    "move": "confusion"
                 },
                 {
-                    "level": 53,
-                    "move": "hydro-pump"
+                    "level": 25,
+                    "move": "psychic"
                 }
             ],
             "name": "yamask",
@@ -33285,47 +33207,23 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "bubble"
+                    "move": "shadow-ball"
                 },
                 {
                     "level": 1,
-                    "move": "confuse-ray"
+                    "move": "psychic"
                 },
                 {
-                    "level": 5,
-                    "move": "water-gun"
+                    "level": 1,
+                    "move": "night-shade"
                 },
                 {
-                    "level": 13,
-                    "move": "spark"
+                    "level": 34,
+                    "move": "shadow-ball"
                 },
                 {
-                    "level": 17,
-                    "move": "bubblebeam"
-                },
-                {
-                    "level": 25,
-                    "move": "aurora-beam"
-                },
-                {
-                    "level": 32,
-                    "move": "thunder-wave"
-                },
-                {
-                    "level": 39,
-                    "move": "thunder"
-                },
-                {
-                    "level": 41,
-                    "move": "ice-beam"
-                },
-                {
-                    "level": 44,
-                    "move": "thunderbolt"
-                },
-                {
-                    "level": 53,
-                    "move": "hydro-pump"
+                    "level": 45,
+                    "move": "crunch"
                 }
             ],
             "name": "cofagrigus",
@@ -34260,19 +34158,19 @@
                 },
                 {
                     "level": 23,
-                    "move": "waterfall"
+                    "move": "surf"
                 },
                 {
                     "level": 28,
                     "move": "crunch"
                 },
                 {
-                    "level": 36,
+                    "level": 32,
                     "move": "ice-beam"
                 },
                 {
-                    "level": 50,
-                    "move": "surf"
+                    "level": 38,
+                    "move": "octazooka"
                 }
             ],
             "name": "panpour",
@@ -38130,7 +38028,7 @@
             "evolutions": [
                 {
                     "into": "darmanitan",
-                    "level": 35,
+                    "level": 32,
                     "method": "level"
                 }
             ],
@@ -38411,10 +38309,6 @@
                 {
                     "level": 33,
                     "move": "rock-slide"
-                },
-                {
-                    "level": 41,
-                    "move": "earthquake"
                 }
             ],
             "name": "drilbur",
@@ -38462,51 +38356,19 @@
             "learnset": [
                {
                     "level": 1,
-                    "move": "rock-throw"
-                },
-                {
-                    "level": 1,
-                    "move": "growl"
-                },
-                {
-                    "level": 9,
-                    "move": "defense-curl"
-                },
-                {
-                    "level": 11,
-                    "move": "headbutt"
+                    "move": "magnitude"
                 },
                 {
                     "level": 17,
-                    "move": "rollout"
+                    "move": "mud-slap"
                 },
                 {
                     "level": 25,
-                    "move": "fury-attack"
-                },
-                {
-                    "level": 33,
-                    "move": "dig"
-                },
-                {
-                    "level": 38,
-                    "move": "powder-snow"
+                    "move": "metal-claw"
                 },
                 {
                     "level": 41,
-                    "move": "earthquake"
-                },
-                {
-                    "level": 45,
-                    "move": "rapid-spin"
-                },
-                {
-                    "level": 49,
-                    "move": "endure"
-                },
-                {
-                    "level": 51,
-                    "move": "rock-slide"
+                    "move": "horn-attack"
                 }
             ],
             "name": "excadrill",
@@ -40078,9 +39940,9 @@
           "level": 10,
           "item": "berry",
           "moves": [
+            "hypnosis",
             "headbutt",
-            "bite",
-	    	"hypnosis"		
+	    	"bite"		
           ]
         }
       ]
@@ -40128,7 +39990,6 @@
           "item": "berry",
           "moves": [
             "rock-throw",
-            "leech-life",
 	   	 	"mud-slap"
           ]
         },
@@ -40171,7 +40032,7 @@
           "level": 11,
           "item": "berry",
           "moves": [
-            "whirlpool",
+            "bubblebeam",
             "rock-throw",
             "bite"
           ]
@@ -40181,9 +40042,9 @@
            "level": 11,
            "item":  "berry",
 	   	   "moves": [
+			 "stun-spore",
 	     	 "pin-missile",
-	         "razor-leaf",
-	         "stun-spore"
+	         "razor-leaf"
           ]
         }	   
       ]
@@ -40207,8 +40068,8 @@
           "level": 11,
           "item": "berry",
           "moves": [
-            "bubblebeam",
             "hypnosis",
+            "bubblebeam",
             "mud-slap",
 	    	"powder-snow"
           ]
@@ -40218,8 +40079,8 @@
           "level": 11,
           "item": "berry",
           "moves": [
-            "psybeam",
             "hypnosis",
+            "psybeam",
             "dream-eater",
             "tri-attack"
           ]
@@ -40327,10 +40188,10 @@
           "level": 12,
           "item": "berry",
           "moves": [
-            "night-shade",
             "confuse-ray",
             "toxic",
-	    	"confusion"
+            "confusion",
+	    	"night-shade"
           ]
         }
       ]
@@ -40352,8 +40213,8 @@
           "level": 12,
           "item": "berry",
           "moves": [
-            "confusion",
             "rest",
+            "confusion",
             "powder-snow",
             "thundershock"
           ]
@@ -40369,9 +40230,9 @@
           "level": 12,
           "item": "berry",
           "moves": [
+            "charm",
             "confusion",
             "thunderpunch",
-            "charm",
             "razor-leaf"
           ]
         },
@@ -40488,10 +40349,10 @@
           "level": 15,
           "item": "berry",
           "moves": [
+		    "confuse-ray",
             "wing-attack",
             "psybeam",
-	    	"mega-drain",
-	   	 	"confuse-ray"
+	    	"mega-drain"
           ]
         }
       ]
@@ -40537,8 +40398,8 @@
           "item": "berry",
           "moves": [
             "toxic",
-            "pursuit",
-            "confuse-ray"
+            "confuse-ray",
+            "pursuit"
           ]
         },
         {
@@ -40556,8 +40417,8 @@
           "level": 16,
           "item": "mint-berry",
           "moves": [
-            "confusion",
             "hypnosis",
+            "confusion",
             "absorb",
             "night-shade"
           ]
@@ -40701,9 +40562,9 @@
           "item": "berry-juice",
           "moves": [
             "toxic",
+			"recover",
             "confusion",
-            "surf",
-            "recover"
+            "surf"
           ]
         }
       ]
@@ -40745,9 +40606,9 @@
           "level": 20,
           "item": "miracleberry",
           "moves": [
+		    "confuse-ray",
             "wing-attack",
             "confusion",
-            "confuse-ray",
 	    	"giga-drain"
           ]
         },
@@ -40758,7 +40619,7 @@
           "moves": [
             "spark",
             "crunch",
-	    	"fire-punch"
+	    	"headbutt"
           ]
         }
       ]
@@ -40829,13 +40690,21 @@
         },
         {
           "name": "maractus",
+                    "dvs": {
+                        "atk": 13,
+						"def": 12,
+						"hp": 11,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
           "level": 21,
           "item": "berry-juice",
           "moves": [
-            "mega-drain",
             "toxic",
-            "hp-rock",
-	   	 	"synthesis"
+            "synthesis",
+            "mega-drain",
+	   	 	"hp-rock"
           ]
         }
       ]
@@ -40859,10 +40728,10 @@
           "level": 22,
           "item": "berry",
           "moves": [
+		    "confuse-ray",
             "shadow-ball",
             "flame-wheel",
-	    	"mega-drain",
-            "confuse-ray"
+	    	"mega-drain"
           ]
         },
         {
@@ -40924,9 +40793,9 @@
           "item": "miracleberry",
           "moves": [
             "thunder-wave",
+			"confuse-ray",
             "wing-attack",
-            "confusion",
-	    	"confuse-ray"
+            "confusion"
           ]
         },
         {
@@ -40971,10 +40840,10 @@
           "level": 20,
           "item": "berry-juice",
           "moves": [
+		    "attract",
             "rock-slide",
             "mud-slap",
-            "headbutt",
-            "attract"
+            "headbutt"
           ]
         },
         {
@@ -41010,7 +40879,8 @@
           "item": "focus-band",
           "moves": [
             "rock-smash",
-            "reversal"
+            "reversal",
+			"faint-attack"
           ]
         }
       ]
@@ -41025,7 +40895,7 @@
           "item": "focus-band",
           "moves": [
             "selfdestruct",
-            "ice-beam",
+            "aurora-beam",
 	    	"headbutt"
           ]
         },
@@ -41062,8 +40932,8 @@
           "level": 21,
           "item": "kings-rock",
           "moves": [
-            "bubblebeam",
             "toxic",
+            "bubblebeam",
             "swift",
 	    	"leech-life"
           ]
@@ -41073,10 +40943,10 @@
 	  "level": 22,
 	  "item": "brightpowder",
 	  "moves": [
+	    "toxic",
 	    "surf",
 	    "mud-slap",
-	    "sludge",
-	    "toxic"
+	    "sludge"
           ]
         }	 
       ]
@@ -41091,9 +40961,9 @@
           "level": 21,
           "item": "gold-berry",
           "moves": [
+			"toxic",
             "sludge",
             "mud-slap",
-            "toxic",
 	    	"ice-punch"
           ]
         },
@@ -41110,13 +40980,22 @@
         },
         {
           "name": "whimsicott",
+                    "dvs": {
+                        "atk": 14,
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
+		  
           "level": 22,
           "item": "miracle-seed",
           "moves": [
+		    "leech-seed",
             "giga-drain",
             "hp-fire",
-            "psybeam",
-	    	"leech-seed"
+            "psybeam"
           ]
         }
       ]
@@ -41131,10 +41010,10 @@
           "level": 22,
           "item": "berry-juice",
           "moves": [
-            "confusion",
             "hypnosis",
             "confuse-ray",
-	    	"ice-punch"
+            "ice-punch",
+	    	"confusion"
           ]
         },
         {
@@ -41170,9 +41049,9 @@
           "level": 22,
           "item": "berry-juice",
           "moves": [
-            "fire-punch",
             "hypnosis",
             "confuse-ray",
+			"fire-punch",
 	    	"confusion"
           ]
         },
@@ -41183,7 +41062,7 @@
           "moves": [
             "giga-drain",
             "submission",
-            "rock-slide"
+            "crunch"
           ]
         },
         {
@@ -41192,9 +41071,9 @@
           "item": "berry-juice",
           "moves": [
             "fire-punch",
-            "submission",
-            "thunderpunch",
-	    	"double-edge"
+            "karate-chop",
+            "spark",
+	    	"take-down"
           ]
         }
       ]
@@ -41209,10 +41088,10 @@
           "level": 22,
           "item": "berry-juice",
           "moves": [
-            "confusion",
             "hypnosis",
             "confuse-ray",
-	    	"thunderpunch"
+	    	"thunderpunch",
+			"confusion"
           ]
         },
         {
@@ -41230,7 +41109,7 @@
           "level": 23,
           "item": "berry-juice",
           "moves": [
-            "surf",
+            "waterfall",
             "ice-punch",
             "slash",
 	    	"fury-cutter"
@@ -41258,10 +41137,10 @@
           "level": 23,
           "item": "mystic-water",
           "moves": [
+		    "toxic",
             "bubblebeam",
             "ancientpower",
-            "mud-slap",
-            "toxic"
+            "mud-slap"
           ]
         },
         {
@@ -41286,31 +41165,32 @@
           "level": 23,
           "item": "berry-juice",
           "moves": [
-            "lovely-kiss",
             "giga-drain",
-            "bubblebeam",
-            "spikes"
+            "lovely-kiss",
+            "spikes",
+            "bubblebeam"
           ]
         },
         {
-          "name": "dewott",
+          "name": "servine",
           "level": 23,
           "item": "silverpowder",
           "moves": [
-            "fury-cutter",
-            "bubblebeam",
-            "ice-punch",
-            "karate-chop"
+            "giga-drain",
+            "poisonpowder",
+            "leech-seed",
+            "body-slam"
           ]
         },
         {
-          "name": "rufflet",
+          "name": "vullaby",
           "level": 23,
-          "item": "no-item",
+          "item": "mint-berry",
           "moves": [
-            "drill-peck",
-            "mud-slap",
-            "return"
+            "faint-attack",
+            "toxic",
+            "confuse-ray",
+			"wing-attack"
           ]
         }
       ]
@@ -41324,8 +41204,8 @@
           "level": 24,
           "item": "berry-juice",
           "moves": [
-            "spore",
             "sludge",
+            "spore",
             "mega-drain",
             "body-slam"
           ]
@@ -41335,21 +41215,21 @@
           "level": 24,
           "item": "miracleberry",
           "moves": [
-            "mud-slap",
             "spark",
-            "faint-attack",
-			"toxic"
+            "toxic",
+            "mud-slap",
+			"ancientpower"
           ]
         },
         {
-          "name": "vullaby",
+          "name": "ferroseed",
           "level": 24,
           "item": "mint-berry",
           "moves": [
-            "toxic",
-            "faint-attack",
-            "wing-attack",
-            "confuse-ray"
+            "giga-drain",
+            "leech-seed",
+            "metal-claw",
+            "ancientpower"
           ]
         }
       ]
@@ -41363,10 +41243,10 @@
           "level": 23,
           "item": "berry",
           "moves": [
-            "headbutt",
-            "spark",
-            "flame-wheel",
-            "crunch"
+            "swift",
+            "glare",
+            "crunch",
+            "reflect"
           ]
         },
         {
@@ -41376,8 +41256,8 @@
           "moves": [
             "spark",
             "thunder-wave",
-            "flame-wheel",
-            "double-kick"
+            "double-kick",
+            "light-screen"
           ]
         },
         {
@@ -41385,9 +41265,10 @@
           "level": 23,
           "item": "berry",
           "moves": [
-            "stun-spore",
             "psybeam",
-            "giga-drain"
+            "poisonpowder",
+            "giga-drain",
+			"sleep-powder"
           ]
         }
       ]
@@ -41412,10 +41293,10 @@
           "level": 24,
           "item": "miracleberry",
           "moves": [
+		    "thunder-wave",
             "bite",
             "slash",
-            "shadow-ball",
-            "thunder-wave"
+            "shadow-ball"
           ]
         },
         {
@@ -41443,10 +41324,10 @@
           "level": 25,
           "item": "miracleberry",
           "moves": [
+		    "hypnosis",
             "crunch",
             "hyper-fang",
-            "low-kick",
-            "hypnosis"
+            "low-kick"
           ]
         },
         {
@@ -41472,10 +41353,10 @@
           "level": 27,
           "item": "berry",
           "moves": [
+		    "confuse-ray",
             "waterfall",
             "aurora-beam",
-            "wing-attack",
-            "confuse-ray"
+            "wing-attack"
           ]
         },
         {
@@ -41495,8 +41376,8 @@
           "item": "berry",
           "moves": [
             "glare",
-            "razor-leaf",
-            "headbutt",
+            "giga-drain",
+            "body-slam",
             "faint-attack"
           ]
 		}
@@ -41516,7 +41397,7 @@
             "flame-wheel",
             "karate-chop",
             "mud-slap",
-            "headbutt"
+            "thunderpunch"
           ]
         },
         {
@@ -41531,14 +41412,14 @@
           ]
         },
         {
-          "name": "swadloon",
-          "level": 28,
+          "name": "gurdurr",
+          "level": 27,
           "item": "berry",
           "moves": [
-            "synthesis",
-            "giga-drain",
-            "toxic",
-            "leech-life"
+            "karate-chop",
+            "rock-throw",
+            "thunderpunch",
+            "body-slam"
           ]
 		}
       ]
@@ -41603,7 +41484,7 @@
           "moves": [
             "ice-beam",
             "body-slam",
-            "karate-chop"
+            "metal-claw"
           ]
         },
         {
@@ -41614,7 +41495,7 @@
             "flamethrower",
             "mud-slap",
             "crunch",
-	    "headbutt"
+			"headbutt"
           ]
 		}
       ]
@@ -41631,7 +41512,7 @@
           "moves": [
             "earthquake",
             "crunch",
-	    "rock-slide"
+			"rock-slide"
           ]
         },
         {
@@ -41679,10 +41560,10 @@
           "level": 27,
           "item": "berry-juice",
           "moves": [
+			"confuse-ray",
             "psybeam",
             "ice-punch",
-            "faint-attack",
-            "confuse-ray"
+            "faint-attack"
           ]
         },
         {
@@ -41748,9 +41629,9 @@
           "item": "gold-berry",
           "moves": [
             "thunder-wave",
+			"recover",
             "earthquake",
-            "thunderbolt",
-            "recover"
+            "thunderbolt"
           ]
         },
         {
@@ -41806,10 +41687,10 @@
           "level": 28,
           "item": "poison-barb",
           "moves": [
-            "sludge",
+			"sludge",
+            "spikes",
             "giga-drain",
-	    "metal-claw",
-            "spikes"
+			"metal-claw"
           ]
         },
         {
@@ -41847,7 +41728,7 @@
           "moves": [
             "fire-punch",
             "metal-claw",
-	    "crunch",
+			"crunch",
             "karate-chop"
           ]
         },
@@ -41856,9 +41737,9 @@
           "level": 28,
           "item": "berry-juice",
           "moves": [
+			"thunder-wave",
             "metal-claw",
             "thunderbolt",
-            "thunder-wave",
             "rock-slide"
           ]
         },
@@ -41889,7 +41770,7 @@
           "moves": [
             "waterfall",
             "crunch",
-	    "shadow-ball",
+			"shadow-ball",
             "double-edge"
           ]
         },
@@ -41915,7 +41796,7 @@
           "moves": [
             "mud-slap",
             "metal-claw",
-	    "rock-slide"
+			"rock-slide"
           ]
         },
         {
@@ -42027,10 +41908,10 @@
           "level": 29,
           "item": "miracleberry",
           "moves": [
+			"confuse-ray",
             "psychic",
             "ice-punch",
-            "rock-slide",
-            "confuse-ray"
+            "rock-slide"
           ]
         },
         {
@@ -42165,24 +42046,24 @@
       "team": [
         {
           "name": "galvantula",
-          "level": 31,
+          "level": 30,
           "item": "berry-juice",
           "moves": [
+			"thunder-wave",
             "spark",
             "sludge",
-	    	"fury-cutter",
-	    	"thunder-wave"
+	    	"leech-life"
           ]
         },
         {
           "name": "leavanny",
           "level": 32,
-          "item": "quick-claw",
+          "item": "hard-stone",
           "moves": [
 			"thunder-wave",
             "petal-dance",
             "fury-cutter",
-            "slash"
+            "rock-slide"
           ]
         },
         {
@@ -42192,14 +42073,14 @@
 		  "moves": [
 			"faint-attack",
 			"metal-claw",
-			"slash",
+			"wing-attack",
 			"fury-cutter"
 		  ]
 		},
 		{
 		  "name": "larvesta",
 		  "level": 32,
-		  "item": "gold-berry",
+		  "item": "quick-claw",
 		  "moves": [
 			"flamethrower",
 			"spark",
@@ -42208,14 +42089,14 @@
 		  ]
 		},
 		{
-		  "name": "crustle",
+		  "name": "scolipede",
 		  "level": 30,
-		  "item": "gold-berry",
+		  "item": "berry-juice",
 		  "moves": [
-			"rock-throw",
-			"mud-slap",
+			"toxic",
+			"sludge-bomb",
 			"leech-life",
-			"seismic-toss"
+			"horn-attack"
 		  ]
 		},
 		{
@@ -42242,7 +42123,7 @@
           "moves": [
             "giga-drain",
             "jump-kick",
-	    "body-slam",
+			"body-slam",
             "jump-kick"
           ]
         },
@@ -42328,7 +42209,7 @@
           "moves": [
             "poison-gas",
             "sludge-bomb",
-	    "giga-drain",
+			"giga-drain",
             "mud-slap"
           ]
         },
@@ -42351,7 +42232,7 @@
             "flamethrower",
             "crunch",
             "body-slam",
-	    "dragonbreath"
+			"dragonbreath"
           ]
 	}
       ]
@@ -42368,7 +42249,7 @@
           "moves": [
             "thunder-wave",
             "psychic",
-	    "thunderpunch",
+			"thunderpunch",
             "giga-drain"
           ]
         },
@@ -42390,7 +42271,7 @@
             "thunder-wave",
             "selfdestruct",
             "thunderbolt",
-	    "metal-claw"
+			"metal-claw"
           ]
 	}
       ]
@@ -42407,7 +42288,7 @@
           "moves": [
             "rock-slide",
             "magnitude",
-	    "fury-cutter",
+			"fury-cutter",
             "bubblebeam"
           ]
         },
@@ -42417,7 +42298,7 @@
           "item": "metal-coat",
           "moves": [
             "metal-claw",
-            "megahorn",
+            "fury-cutter",
             "slash",
             "mud-slap"
           ]
@@ -42430,7 +42311,7 @@
             "morning-sun",
             "flame-wheel",
             "fury-cutter",
-	    "psybeam"
+			"psybeam"
           ]
 	},
 	{
@@ -42458,7 +42339,7 @@
           "moves": [
             "wing-attack",
             "rock-throw",
-	    "twister",
+			"twister",
             "bite"
           ]
         },
@@ -42478,7 +42359,7 @@
           "level": 34,
           "item": "berserk-gene",
           "moves": [
-            "drill-peck",
+            "wing-attack",
             "waterfall",
             "aurora-beam"
           ]
@@ -42536,7 +42417,7 @@
             "zap-cannon",
             "flame-wheel",
             "double-kick",
-	    "headbutt"
+			"headbutt"
           ]
 	}
       ]
@@ -42584,7 +42465,7 @@
             "ancientpower",
             "surf",
             "ice-punch",
-	    "iron-tail"
+			"iron-tail"
           ]
 	}
       ]
@@ -42657,7 +42538,7 @@
           "moves": [
             "stun-spore",
             "synthesis",
-	    "solarbeam",
+			"solarbeam",
             "psychic"
           ]
         },
@@ -42696,10 +42577,10 @@
           "level": 35,
           "item": "berry-juice",
           "moves": [
-            "fire-punch",
-            "thunderpunch",
-	    "solarbeam",
-            "karate-chop"
+            "flame-wheel",
+            "dig",
+			"solarbeam",
+            "crunch"
           ]
         },
         {
@@ -42720,7 +42601,7 @@
             "flamethrower",
             "double-edge",
             "fury-cutter",
-	    "rock-slide"
+			"rock-slide"
           ]
 	}
       ]
@@ -42784,9 +42665,9 @@
 		  "level": 35,
 		  "item": "berry-juice",
 		  "moves": [
-			"fire-punch",
+			"flame-wheel",
 			"psybeam",
-			"crunch",
+			"bite",
 			"headbutt"
 	  ]
 	}
@@ -43279,7 +43160,7 @@
 		  "item": "berry-juice",
 		  "moves": [
 			"destiny-bond",
-			"flamethrower",
+			"fire-punch",
 			"shadow-ball",
 			"mega-drain"
 		  ]
@@ -43408,7 +43289,7 @@
 	  	  "item": "berserk-gene",
 	  	  "moves": [
 	    	"steel-wing",
-	    	"body-slam",
+	    	"headbutt",
 	        "flamethrower",
 	    	"crunch"
 		  ]
@@ -43663,13 +43544,12 @@
         },
         {
           "name": "leavanny",
-	  	  "level": 40,
+	  	  "level": 39,
 	  	  "item": "focus-band",
 	  	  "moves": [
 	    	"petal-dance",
 	    	"fury-cutter",
-	        "rock-slide",
-	    	"wing-attack"
+	        "rock-slide"
 		  ]
 		}	    
       ]
@@ -43698,7 +43578,7 @@
             "fury-cutter",
             "metal-claw",
             "giga-drain",
-            "return"
+            "headbutt"
           ]
         },
         {
@@ -44129,7 +44009,7 @@
         },
         {
           "name": "archeops",
-	  	  "level": 42,
+	  	  "level": 41,
 	  	  "item": "dragon-fang",
 	  	  "moves": [
 	    	"dragonbreath",
@@ -44233,7 +44113,7 @@
           "level": 42,
           "item": "gold-berry",
           "moves": [
-            "flamethrower",
+            "fire-punch",
             "psybeam",
             "cross-chop",
             "crunch"
@@ -44355,6 +44235,7 @@
 	{
       "area": "Cianwood Gym",
       "name": "leader-marshal",
+	  "meta": "after getting badge, Olivine is blocked until beating Colress",
       "team": [
         {
           "name": "sawk",
@@ -44365,17 +44246,17 @@
             "rock-slide",
 			"body-slam",
 			"mach-punch"
-          ]
-        },
-        {
-          "name": "eelektross",
-          "level": 44,
-          "item": "quick-claw",
-          "moves": [
-            "thunder-wave",
-            "cross-chop",
-            "giga-drain",
-            "dragonbreath"
+		  ]
+		},
+		{
+		  "name": "braviary",
+		  "level": 44,
+		  "item": "gold-berry",
+		  "moves": [
+			"sky-attack",
+			"cross-chop",
+			"double-edge",
+			"ancientpower"
           ]
         },
         {
@@ -44390,14 +44271,14 @@
 		  ]
 		},
 		{
-		  "name": "braviary",
+		  "name": "eelektross",
 		  "level": 44,
-		  "item": "gold-berry",
+		  "item": "quick-claw",
 		  "moves": [
-			"sky-attack",
+			"thunder-wave",
 			"cross-chop",
-			"double-edge",
-			"ancientpower"
+			"giga-drain",
+			"dragonbreath"
 		  ]
 		},
 		{
@@ -44471,10 +44352,10 @@
         },
         {
           "name": "audino",
-	  	  "level": 50,
+	  	  "level": 47,
 	  	  "item": "brightpowder",
 	  	  "moves": [
-	    	"explosion"
+	    	"selfdestruct"
 		  ]
 		}	    
       ]
