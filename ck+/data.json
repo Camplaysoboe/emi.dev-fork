@@ -31890,7 +31890,7 @@
                     "move": "tackle"
                 },
                 {
-                    "level": 18,
+                    "level": 16,
                     "move": "mega-drain"
                 },
                 {
@@ -40374,7 +40374,7 @@
         },
         {
           "name": "rufflet",
-          "level": 15,
+          "level": 16,
           "item": "pink-bow",
           "moves": [
             "rock-smash",
@@ -40405,7 +40405,7 @@
         },
         {
           "name": "swanna",
-          "level": 14,
+          "level": 15,
           "item": "mystic-water",
           "moves": [
             "water-gun",
@@ -40415,7 +40415,7 @@
         },
         {
           "name": "sigilyph",
-          "level": 16,
+          "level": 14,
           "item": "mint-berry",
           "moves": [
             "hypnosis",
