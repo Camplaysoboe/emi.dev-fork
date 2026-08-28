@@ -40325,6 +40325,7 @@
     {
       "area": "Violet City Gym",
       "name": "birdkeeper-rod",
+	  "meta": "Horn Drill is 100 Accuracy",
       "team": [
         {
           "name": "axew",
