@@ -44963,6 +44963,94 @@
 		  ]
 		}	    
       ]
+    },
+	{
+      "area": "Mahogany Gym",
+      "name": "leader-brycen",
+      "team": [
+        {
+          "name": "vanilluxe",
+                    "dvs": {
+                        "atk": 13,
+						"def": 15,
+						"hp": 15,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 58,
+          "item": "focus-band",
+          "moves": [
+            "ice-beam",
+            "hp-steel",
+			"surf",
+			"explosion"
+          ]
+        },
+        {
+          "name": "beartic",
+          "level": 58,
+          "item": "quick-claw",
+          "moves": [
+            "ice-beam",
+            "earthquake",
+            "cross-chop",
+            "return"
+          ]
+        },
+        {
+          "name": "samurott",
+	  	  "level": 58,
+	  	  "item": "nevermeltice",
+	  	  "moves": [
+	    	"surf",
+	    	"ice-beam",
+	        "fury-cutter",
+	    	"horn-attack"
+		  ]
+		},
+		{
+		  "name": "mienshao",
+		  "level": 58,
+		  "item": "blackbelt",
+		  "moves": [
+			"hi-jump-kick",
+			"shadow-ball",
+			"ice-punch",
+			"thunderpunch"
+		  ]
+		},
+		{
+		  "name": "cryogonal",
+		  "level": 58,
+		  "item": "gold-berry",
+		  "moves": [
+			"bubblebeam",
+			"reflect",
+			"ice-beam",
+			"ancientpower"
+		  ]
+		},
+		{
+		  "name": "keldeo",
+                    "dvs": {
+                        "atk": 14,
+						"def": 15,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+		  "level": 58,
+		  "item": "mystic-water",
+		  "moves": [
+			"waterfall",
+			"submission",
+			"icy-wind",
+			"hp-electric"
+		  ]
+		}	    
+      ]
     }
     ],
     "type_matchups": [
