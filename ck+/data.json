@@ -44978,12 +44978,12 @@
 						"spd": 15,
 						"spe": 15
                     },
-          "level": 58,
-          "item": "focus-band",
+          "level": 57,
+          "item": "gold-berry",
           "moves": [
             "ice-beam",
             "hp-steel",
-			"surf",
+			"waterfall",
 			"explosion"
           ]
         },
@@ -45011,7 +45011,7 @@
 		},
 		{
 		  "name": "mienshao",
-		  "level": 58,
+		  "level": 57,
 		  "item": "blackbelt",
 		  "moves": [
 			"hi-jump-kick",
