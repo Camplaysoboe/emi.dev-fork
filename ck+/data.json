@@ -16959,7 +16959,7 @@
             "index": 77,
             "name": "poisonpowder",
             "power": 0,
-            "pp": 3,
+            "pp": 35,
             "type": "poison"
         },
         {
@@ -17094,7 +17094,7 @@
             "index": 73,
             "name": "leech-seed",
             "power": 0,
-            "pp": 10,
+            "pp": 1,
             "type": "grass"
         },
         {
@@ -18476,7 +18476,7 @@
             "index": 202,
             "name": "giga-drain",
             "power": 75,
-            "pp": 10,
+            "pp": 5,
             "template": "drain-half",
             "type": "grass"
         },
@@ -18521,7 +18521,7 @@
             "index": 78,
             "name": "stun-spore",
             "power": 0,
-            "pp": 3,
+            "pp": 30,
             "type": "grass"
         },
         {
@@ -18781,7 +18781,7 @@
             "index": 79,
             "name": "sleep-powder",
             "power": 0,
-            "pp": 3,
+            "pp": 15,
             "type": "grass"
         },
         {
