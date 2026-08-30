@@ -20934,7 +20934,7 @@
                 {
                     "into": "cinccino",
                     "item": "moon-stone",
-                    "method": "Item"
+                    "method": "item"
                 }
             ],
             "gender": "f50",
