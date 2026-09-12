@@ -1,6 +1,6 @@
 var attackBadges = 1;
-var defenseBadges = 7;
-var specialBadges = 6;
+var defenseBadges = 6;
+var specialBadges = 7;
 var speedBadges = 3;
 var badgeTypes = new Map([
 	["flying", 1],
@@ -8,8 +8,8 @@ var badgeTypes = new Map([
 	["bug", 3],
 	["dark", 4],
 	["fighting", 5],
-	["ice", 6],
-	["steel", 7],
+	["ground", 6],
+	["ice", 7],
 	["dragon", 8],
 	["electric", 9],
 	["psychic", 10],
@@ -286,8 +286,8 @@ if (game.name == "ck+xp") {
 	]);
 } else {
 	attackBadges = 1;
-	defenseBadges = 7;
-	specialBadges = 6;
+	defenseBadges = 6;
+	specialBadges = 7;
 	speedBadges = 3;
 	badgeTypes = new Map([
 		["flying", 1],
@@ -295,8 +295,8 @@ if (game.name == "ck+xp") {
 		["bug", 3],
 		["dark", 4],
 		["fighting", 5],
-		["ice", 6],
-		["steel", 7],
+		["ground", 6],
+		["ice", 7],
 		["dragon", 8],
 		["electric", 9],
 		["psychic", 10],
