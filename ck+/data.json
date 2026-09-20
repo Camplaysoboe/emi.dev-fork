@@ -38993,7 +38993,7 @@
         {
           "name": "duosion",
           "level": 27,
-          "item": "berry",
+          "item": "berry-juice",
           "moves": [
             "confusion",
             "thunderpunch",
@@ -39596,7 +39596,7 @@
 		  "item": "berry-juice",
 		  "moves": [
 			"toxic",
-			"sludge-bomb",
+			"sludge",
 			"leech-life",
 			"horn-attack"
 		  ]
