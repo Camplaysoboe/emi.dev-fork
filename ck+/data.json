@@ -18618,7 +18618,7 @@
         {
             "accuracy": 100,
             "extra": [
-                "1/3 chance to paralyze"
+                "always hits"
             ],
             "index": 209,
             "name": "spark",
