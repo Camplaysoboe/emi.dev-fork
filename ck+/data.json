@@ -16601,7 +16601,7 @@
             ],
             "index": 249,
             "name": "rock-smash",
-            "power": 20,
+            "power": 40,
             "pp": 15,
             "type": "fighting"
         },
@@ -17285,7 +17285,7 @@
             "type": "normal"
         },
         {
-            "accuracy": 85,
+            "accuracy": 100,
             "extra": [
                 "User takes 33% of damage dealt as recoil"
             ],
@@ -37814,7 +37814,7 @@
         {
           "name": "audino",
           "level": 16,
-          "item": "berry",
+          "item": "no-item",
           "moves": [
             "horn-drill"
           ]
