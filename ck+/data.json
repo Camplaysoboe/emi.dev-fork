@@ -22243,7 +22243,7 @@
                     "move": "steel-wing"
                 },
                 {
-                    "level": 32,
+                    "level": 38,
                     "move": "ice-beam"
                 }
             ],
@@ -22285,7 +22285,7 @@
                 },
                 {
                     "level": 40,
-                    "move": "ice-beam"
+                    "move": "waterfall"
                 },
                 {
                     "level": 44,
