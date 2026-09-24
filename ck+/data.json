@@ -25638,7 +25638,7 @@
             "evolutions": [
                 {
                     "into": "scrafty",
-                    "level": 39,
+                    "level": 38,
                     "method": "level"
                 }
             ],
@@ -25653,7 +25653,7 @@
                     "level": 6,
                     "move": "headbutt"
                 },               
-		{
+				{
                     "level": 9,
                     "move": "karate-chop"
                 },
