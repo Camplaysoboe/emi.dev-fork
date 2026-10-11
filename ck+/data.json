@@ -2458,17 +2458,17 @@
                             {
                                 "chance": 20,
                                 "level": 22,
-                                "pokemon": "throh"
+                                "pokemon": "timburr"
                             },
                             {
                                 "chance": 10,
                                 "level": 22,
-                                "pokemon": "sawk"
+                                "pokemon": "throh"
                             },
                             {
                                 "chance": 5,
                                 "level": 22,
-                                "pokemon": "scraggy"
+                                "pokemon": "sawk"
                             },
                             {
                                 "chance": 4,
@@ -3891,7 +3891,7 @@
                             {
                                 "chance": 30,
                                 "level": 28,
-                                "pokemon": "heatmor"
+                                "pokemon": "darmanitan-zen"
                             },
                             {
                                 "chance": 20,
@@ -3901,12 +3901,12 @@
                             {
                                 "chance": 10,
                                 "level": 28,
-                                "pokemon": "darmanitan-zen"
+                                "pokemon": "simisear"
                             },
                             {
                                 "chance": 5,
                                 "level": 28,
-                                "pokemon": "simisear"
+                                "pokemon": "litwick"
                             },
                             {
                                 "chance": 4,
@@ -3938,12 +3938,12 @@
                             {
                                 "chance": 10,
                                 "level": 28,
-                                "pokemon": "heatmor"
+                                "pokemon": "simisear"
                             },
                             {
                                 "chance": 5,
                                 "level": 28,
-                                "pokemon": "simisear"
+                                "pokemon": "litwick"
                             },
                             {
                                 "chance": 4,
@@ -3970,17 +3970,17 @@
                             {
                                 "chance": 20,
                                 "level": 28,
-                                "pokemon": "heatmor"
+                                "pokemon": "darmanitan"
                             },
                             {
                                 "chance": 10,
                                 "level": 28,
-                                "pokemon": "darmanitan"
+                                "pokemon": "simisear"
                             },
                             {
                                 "chance": 5,
                                 "level": 28,
-                                "pokemon": "simisear"
+                                "pokemon": "litwick"
                             },
                             {
                                 "chance": 4,
@@ -4484,12 +4484,12 @@
           		    {
                                 "chance": 30,
                                 "level": 30,
-                                "pokemon": "druddigon"
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 30,
                                 "level": 30,
-                                "pokemon": "druddigon"
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 20,
@@ -4509,12 +4509,12 @@
                             {
                                 "chance": 4,
                                 "level": 30,
-                                "pokemon": "druddigon"
+                                "pokemon": "bouffalant"
                             },
                             {
                                 "chance": 1,
                                 "level": 30,
-                                "pokemon": "druddigon"
+                                "pokemon": "bouffalant"
                             }
                         ],
                         "night": [
@@ -6242,7 +6242,7 @@
                     "type": "old-rod"
                 },
                 {
-                    "pool": "headbutt.canyon",
+                    "pool": "headbutt.town",
                     "type": "headbutt"
                 }
             ]
@@ -6391,7 +6391,7 @@
                     "type": "old-rod"
                 },
                 {
-                    "pool": "headbutt.canyon",
+                    "pool": "headbutt.town",
                     "type": "headbutt"
                 }
             ]
@@ -6812,6 +6812,53 @@
                 {
                     "pool": "headbutt.route",
                     "type": "headbutt"
+                },
+                {
+                    "pool": [
+                        {
+                            "chance": 19,
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "level": 5,
+                            "pokemon": "larvesta"
+                        },
+                        {
+                            "chance": 19,
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "level": 5,
+                            "pokemon": "munna"
+                        },
+                        {
+                            "chance": 16,
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "level": 5,
+                            "pokemon": "minccino"
+                        },
+                        {
+                            "chance": 14,
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "level": 5,
+                            "pokemon": "vanillite"
+                        },
+                        {
+                            "chance": 12,
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "level": 5,
+                            "pokemon": "mienfoo"
+                        },
+                        {
+                            "chance": 11,
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "level": 5,
+                            "pokemon": "petilil"
+                        },
+                        {
+                            "chance": 9,
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "level": 5,
+                            "pokemon": "cottonee"
+                        }
+                    ],
+                    "type": "gift"
                 }
             ]
         },
@@ -6834,7 +6881,7 @@
                             {
                                 "chance": 20,
                                 "level": 22,
-                                "pokemon": "trubbish"
+                                "pokemon": "timburr"
                             },
                             {
                                 "chance": 10,
@@ -7096,7 +7143,7 @@
                         {
                             "chance": 100,
                             "extra": "Requires squirtbottle",
-                            "level": 35,
+                            "level": 20,
                             "pokemon": "heatmor"
                         }
                     ],
@@ -7349,6 +7396,10 @@
                     "type": "walking"
                 },
                 {
+                    "pool": "fishing.shore.old",
+                    "type": "old-rod"
+                },
+                {
                     "pool": "headbutt.route",
                     "type": "headbutt"
                 }
@@ -7530,7 +7581,7 @@
                             {
                                 "chance": 30,
                                 "level": 30,
-                                "pokemon": "maractus"
+                                "pokemon": "darumaka"
                             },
                             {
                                 "chance": 20,
@@ -7540,7 +7591,7 @@
                             {
                                 "chance": 10,
                                 "level": 30,
-                                "pokemon": "petilil"
+                                "pokemon": "darmanitan"
                             },
                             {
                                 "chance": 5,
@@ -7550,12 +7601,12 @@
                             {
                                 "chance": 4,
                                 "level": 30,
-                                "pokemon": "cottonee"
+                                "pokemon": "heatmor"
                             },
                             {
                                 "chance": 1,
                                 "level": 30,
-                                "pokemon": "cottonee"
+                                "pokemon": "darmanitan-zen"
                             }
                         ],
                         "night": [
@@ -12248,15 +12299,7 @@
                     "type": "old-rod"
                 },
                 {
-                    "pool": "fishing.ocean.good",
-                    "type": "good-rod"
-                },
-                {
-                    "pool": "fishing.ocean.super",
-                    "type": "super-rod"
-                },
-                {
-                    "pool": "headbutt.kanto",
+                    "pool": "headbutt.town",
                     "type": "headbutt"
                 }
             ]
@@ -13519,7 +13562,7 @@
             "area": "azalea-town",
             "pools": [
                 {
-                    "pool": "headbutt.town",
+                    "pool": "headbutt.canyon",
                     "type": "headbutt"
                 }
             ]
@@ -14152,7 +14195,7 @@
             "name": "miracleberry"
         },
         {
-            "description": "When given to a pokemon it restores 100hp out of battle, also heals Amphy",
+            "description": "Restores 40hp upon falling under 50% hp",
             "name": "moomoo-milk"
         },
         {
@@ -14258,7 +14301,7 @@
 				},
 				{
 					"amount": "renewable",
-					"info": "$3,000 in mart",
+					"info": "$5,000 in mart",
 					"item": "pink-bow"
 				},
 				{
@@ -14643,7 +14686,7 @@
                 },
                 {
                     "amount": "1",
-                    "info": "$1,500 in underground shop",
+                    "info": "$2,500 in underground shop",
                     "item": "pink-bow"
                 },
                 {
@@ -14665,6 +14708,16 @@
                     "amount": "1",
                     "info": "$2,500 in underground shop",
                     "item": "leaf-stone"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$1,000 in mart 5F",
+                    "item": "miracleberry"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$500 in mart 5F",
+                    "item": "ragecandybar"
                 },
                 {
                     "amount": "renewable",
@@ -14722,9 +14775,14 @@
                     "item": "tm-33"
                 },
                 {
+                    "amount": "renewable",
+                    "info": "$0 in mart 5F",
+                    "item": "tm-10"
+                },
+                {
                     "amount": "1",
                     "info": "Obtained after defeating Whitney",
-                    "item": "tm-45"
+                    "item": "tm-49"
                 },
                 {
                     "amount": "1",
@@ -14833,13 +14891,8 @@
             "id": 20,
             "items": [
                 {
-                    "amount": "1",
-                    "info": "talk to the guy to the right of heatmor after defeating it",
-                    "item": "tm-08"
-                },
-                {
                     "amount": "99",
-                    "info": "tree by national-park entrance",
+                    "info": "tree by violet-city",
                     "item": "ice-berry"
                 }
             ],
@@ -14974,7 +15027,7 @@
             "items": [],
             "locations": [
                 "burned-tower-1f",
-		"burned-tower-b1f"
+				"burned-tower-b1f"
             ],
             "name": "burned-tower",
             "positions": [
@@ -15050,8 +15103,8 @@
                 },
 				{
                     "amount": "renewable",
-                    "info": "$1,000 in mart",
-                    "item": "gold-berry"
+                    "info": "$2,500 in mart",
+                    "item": "moomoo-milk"
                 },
 				{
                     "amount": "renewable",
@@ -15071,7 +15124,7 @@
                 {
                     "amount": "1",
                     "info": "obtained after defeating Jasmine",
-                    "item": "tm-23"
+                    "item": "tm-26"
                 }
             ],
             "locations": [
@@ -15122,13 +15175,7 @@
         },
         {
             "id": 30,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "talk to the Blue woman by rock smash rocks",
-                    "item": "sharp-beak"
-                }
-            ],
+            "items": [],
             "locations": [
                 "route-40"
             ],
@@ -15188,17 +15235,12 @@
                 {
                     "amount": "1",
                     "info": "obtained after defeating Chuck",
-                    "item": "tm-01"
+                    "item": "tm-08"
                 },
-                {
-                    "amount": "1",
-                    "info": "obtained after defeating Chuck and talking to the woman outside the gym",
-                    "item": "hm-02"
-                },
-                {
-                    "amount": "1",
-                    "info": "obtained after defeating Eusine and entering the cafe",
-                    "item": "hm-04"
+				{
+                    "amount": "renewable",
+                    "info": "$2,500 in mart",
+                    "item": "moomoo-milk"
                 },
 				{
                     "amount": "renewable",
@@ -15355,23 +15397,13 @@
             "items": [
                 {
                     "amount": "1",
-                    "info": "Obtained after defeating Shiny volcarona",
+                    "info": "Obtained after defeating Shiny Haxorus",
                     "item": "red-scale"
                 },
                 {
                     "amount": "1",
                     "info": "Inside house on the left side on the lake.",
                     "item": "tm-10"
-                },
-                {
-                    "amount": "1",
-                    "info": "on the island.",
-                    "item": "tm-43"
-                },
-                {
-                    "amount": "1",
-                    "info": "on the island.",
-                    "item": "blackbelt"
                 }
             ],
             "locations": [
@@ -16597,12 +16629,12 @@
         {
             "accuracy": 100,
             "extra": [
-                "50% chance to lower opponent's defense"
+                "100% chance to lower opponent's defense"
             ],
             "index": 249,
             "name": "rock-smash",
             "power": 40,
-            "pp": 15,
+            "pp": 5,
             "type": "fighting"
         },
         {
@@ -18211,7 +18243,7 @@
             "index": 182,
             "name": "protect",
             "power": 0,
-            "pp": 10,
+            "pp": 5,
             "type": "normal"
         },
         {
@@ -18956,7 +18988,7 @@
             "index": 197,
             "name": "detect",
             "power": 0,
-            "pp": 5,
+            "pp": 1,
             "type": "fighting"
         },
         {
@@ -19727,9 +19759,13 @@
                 "spe": 20
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -19780,9 +19816,13 @@
                 "spe": 30
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -19818,11 +19858,15 @@
                 "spe": 30
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
                 "shadow-ball",
 				"ice-punch",
 				"thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -19878,10 +19922,16 @@
                 "spe": 64
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
                 "ice-punch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -19936,10 +19986,16 @@
                 "spe": 69
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
                 "ice-punch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -19984,10 +20040,16 @@
                 "spe": 74
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
                 "ice-punch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20039,11 +20101,16 @@
                 "spe": 57
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
 				"return",
 				"dig",
 				"shadow-ball",
 				"mud-slap",
+				"detect",
 				"attract",
 				"fury-cutter"
 			],
@@ -20103,11 +20170,16 @@
                 "spe": 67
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
 				"return",
 				"dig",
 				"shadow-ball",
 				"mud-slap",
+				"detect",
 				"attract",
 				"fury-cutter"
 			],
@@ -20181,11 +20253,16 @@
                 "spe": 97
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
 				"return",
 				"dig",
 				"shadow-ball",
 				"mud-slap",
+				"detect",
 				"attract",
 				"fury-cutter"
             ],
@@ -20233,11 +20310,15 @@
                 "spe": 57
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
 				"return",
 				"dig",
 				"shadow-ball",
 				"mud-slap",
+				"detect",
 				"attract",
 				"fury-cutter"
 			],
@@ -20290,11 +20371,15 @@
                 "spe": 47
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
 				"return",
 				"dig",
 				"shadow-ball",
 				"mud-slap",
+				"detect",
 				"attract",
 				"fury-cutter"
 			],
@@ -20332,6 +20417,10 @@
                 {
                     "level": 44,
                     "move": "fury-cutter"
+                },
+                {
+                    "level": 48,
+                    "move": "horn-attack"
                 }
             ],
             "name": "scolipede",
@@ -20345,11 +20434,15 @@
                 "spe": 112
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
 				"return",
 				"dig",
 				"shadow-ball",
 				"mud-slap",
+				"detect",
 				"attract",
 				"fury-cutter"
             ],
@@ -20402,7 +20495,10 @@
                 "spe": 43
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20462,7 +20558,10 @@
                 "spe": 65
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20507,7 +20606,10 @@
                 "spe": 93
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20555,12 +20657,16 @@
                 "spe": 42
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
                 "thunder",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20600,6 +20706,9 @@
                 "spe": 77
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
                 "thunder",
                 "return",
@@ -20608,6 +20717,7 @@
                 "mud-slap",
 				"ice-punch",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -20633,7 +20743,7 @@
                 },
                 {
                     "level": 7,
-                    "move": "rock-smash"
+                    "move": "swift"
                 },
                 {
                     "level": 13,
@@ -20671,8 +20781,12 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20703,7 +20817,7 @@
                     "move": "double-edge"
                 },
                 {
-                    "level": 52,
+                    "level": 57,
                     "move": "sky-attack"
                 }
             ],
@@ -20718,8 +20832,12 @@
                 "spe": 80
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20787,10 +20905,14 @@
                 "spe": 75
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
                 "dig",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20846,10 +20968,14 @@
                 "spe": 115
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
                 "dig",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -20903,11 +21029,11 @@
                 },
                 {
                     "level": 52,
-                    "move": "zap-cannon"
+                    "move": "flamethrower"
                 },
                 {
                     "level": 56,
-                    "move": "iron-tail"
+                    "move": "zap-cannon"
                 }
             ],
             "name": "eelektrik",
@@ -20921,10 +21047,14 @@
                 "spe": 40
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
                 "mud-slap",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -20963,10 +21093,6 @@
                     "move": "giga-drain"
                 },
                 {
-                    "level": 38,
-                    "move": "thunderbolt"
-                },
-                {
                     "level": 41,
                     "move": "thunderbolt"
                 },
@@ -20976,11 +21102,11 @@
                 },
                 {
                     "level": 52,
-                    "move": "zap-cannon"
+                    "move": "flamethrower"
                 },
                 {
                     "level": 56,
-                    "move": "iron-tail"
+                    "move": "zap-cannon"
                 }
             ],
             "name": "eelektross",
@@ -20994,10 +21120,14 @@
                 "spe": 50
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
                 "mud-slap",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -21231,8 +21361,12 @@
                 "spe": 30
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -21283,8 +21417,12 @@
                 "spe": 50
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -21336,8 +21474,12 @@
                 "spe": 90
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -21392,18 +21534,23 @@
                 "spe": 65
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
 				"shadow-ball",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
             "types": [
                 "ground",
-		"dark"
+				"dark"
             ]
         },
         {
@@ -21458,18 +21605,23 @@
                 "spe": 74
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
 				"shadow-ball",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
             "types": [
                 "ground",
-		"dark"
+				"dark"
             ]
         },
         {
@@ -21505,12 +21657,17 @@
                 "spe": 92
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
 				"shadow-ball",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -21567,12 +21724,17 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
 				"thunder",
+				"earthquake",
                 "return",
 				"dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -21612,12 +21774,17 @@
                 "spe": 80
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
 				"thunder",
+				"earthquake",
                 "return",
 				"dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -21685,9 +21852,13 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -21746,9 +21917,13 @@
                 "spe": 70
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -22202,8 +22377,12 @@
                 "spe": 44
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
 				"iron-tail",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -22258,8 +22437,12 @@
                 "spe": 59
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
 				"iron-tail",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -22307,8 +22490,12 @@
                 "spe": 79
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
 				"iron-tail",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -22720,9 +22907,12 @@
                 "spe": 65
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
                 "attract",
+				"detect",
                 "fury-cutter"
             ],
             "types": [
@@ -22771,14 +22961,17 @@
                 "spe": 108
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
                 "attract",
+				"detect",
                 "fury-cutter"
             ],
             "types": [
                 "bug",
-		"electric"
+				"electric"
             ]
         },
         {
@@ -22833,10 +23026,15 @@
                 "spe": 55
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -22879,7 +23077,7 @@
                     "move": "slash"
                 },
                 {
-                    "level": 46,
+                    "level": 42,
                     "move": "crabhammer"
                 },
                 {
@@ -22898,10 +23096,15 @@
                 "spe": 45
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -22970,10 +23173,14 @@
                 "spe": 10
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
 				"shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -23042,10 +23249,14 @@
                 "spe": 20
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
 				"shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -23771,9 +23982,12 @@
                 "spe": 45
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -23828,9 +24042,12 @@
                 "spe": 55
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -23847,12 +24064,24 @@
                     "move": "teleport"
                 },
                 {
-                    "level": 26,
-                    "move": "recover"
+                    "level": 18,
+                    "move": "disable"
                 },
                 {
-                    "level": 45,
-                    "move": "reflect"
+                    "level": 21,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 26,
+                    "move": "crunch"
+                },
+                {
+                    "level": 31,
+                    "move": "future-sight"
+                },
+                {
+                    "level": 38,
+                    "move": "psychic"
                 },
                 {
                     "level": 62,
@@ -23870,9 +24099,12 @@
                 "spe": 65
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -23943,11 +24175,16 @@
                 "spe": 35
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -24011,11 +24248,16 @@
                 "spe": 40
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -24064,11 +24306,16 @@
                 "spe": 45
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -24124,7 +24371,10 @@
                 "spe": 42
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -24180,7 +24430,10 @@
                 "spe": 42
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -24210,6 +24463,10 @@
                     "move": "fury-cutter"
                 },
                 {
+                    "level": 44,
+                    "move": "petal-dance"
+                },
+                {
                     "level": 50,
                     "move": "megahorn"
                 }
@@ -24225,8 +24482,11 @@
                 "spe": 92
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract",
 				"fury-cutter"
             ],
@@ -24240,7 +24500,7 @@
             "evolutions": [
                 {
                     "into": "amoonguss",
-                    "level": 30,
+                    "level": 31,
                     "method": "level"
                 }
             ],
@@ -24283,8 +24543,11 @@
                 "spe": 15
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -24338,8 +24601,11 @@
                 "spe": 30
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -24408,8 +24674,13 @@
                 "spe": 15
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -24481,8 +24752,13 @@
                 "spe": 20
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -24543,8 +24819,13 @@
                 "spe": 25
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -24588,20 +24869,16 @@
                     "move": "thunderpunch"
                 },
                 {
-                    "level": 20,
-                    "move": "shadow-ball"
-                },
-                {
                     "level": 23,
                     "move": "fire-punch"
                 },
                 {
-                    "level": 34,
-                    "move": "flamethrower"
-				},
+                    "level": 28,
+                    "move": "shadow-ball"
+                },
                 {
-					"level": 43,
-					"move": "sludge-bomb"
+                    "level": 36,
+                    "move": "flamethrower"
 				},
 				{
 					"level": 53,
@@ -24619,10 +24896,14 @@
                 "spe": 64
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "dig",
                 "shadow-ball",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -24643,14 +24924,14 @@
                     "level": 1,
                     "move": "crunch"
                 },
-		{
-		    "level": 1,
-		    "move": "shadow-ball"
-		},
-		{
-		    "level": 1,
-		    "move": "sludge-bomb"
-		}
+				{
+					"level": 1,
+					"move": "shadow-ball"
+				},
+				{
+					"level": 1,
+					"move": "sludge-bomb"
+				}
             ],
             "name": "simisear",
             "pokedex": 78,
@@ -24663,10 +24944,14 @@
                 "spe": 101
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "dig",
                 "shadow-ball",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -25569,9 +25854,14 @@
                 "spe": 65
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
+				"earthquake",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -25624,9 +25914,14 @@
                 "spe": 75
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
+				"earthquake",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -25685,17 +25980,22 @@
                 "spe": 48
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
                 "dig",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
             "types": [
                 "dark",
-		"fighting"
+				"fighting"
             ]
         },
         {
@@ -25731,11 +26031,16 @@
                 "spe": 58
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
                 "dig",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -25784,9 +26089,12 @@
                 "spe": 20
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
                 "attract",
+				"detect",
                 "fire-punch"
             ],
             "types": [
@@ -25842,9 +26150,12 @@
                 "spe": 55
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
                 "attract",
+				"detect",
                 "fire-punch"
             ],
             "types": [
@@ -25893,9 +26204,12 @@
                 "spe": 80
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
                 "attract",
+				"detect",
                 "fire-punch"
             ],
             "types": [
@@ -26471,9 +26785,13 @@
                 "spe": 65
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "mud-slap",
                 "dig",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -26517,9 +26835,13 @@
                 "spe": 105
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "mud-slap",
                 "dig",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -26578,8 +26900,12 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -26595,6 +26921,10 @@
                 {
                     "level": 1,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 42,
+                    "move": "bone-rush"
                 },
                 {
                     "level": 50,
@@ -26616,8 +26946,12 @@
                 "spe": 80
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -26673,9 +27007,13 @@
                 "spe": 65
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "dig",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -26705,7 +27043,7 @@
                 },
                 {
                     "level": 40,
-                    "move": "sludge-bomb"
+                    "move": "flamethrower"
                 }
             ],
             "name": "zoroark",
@@ -26719,9 +27057,13 @@
                 "spe": 105
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "dig",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -26785,11 +27127,16 @@
                 "spe": 85
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -26823,8 +27170,12 @@
                     "move": "submission"
                 },
                 {
-                    "level": 44,
-                    "move": "rock-slide"
+                    "level": 42,
+                    "move": "earthquake"
+                },
+                {
+                    "level": 46,
+                    "move": "recover"
                 },
                 {
                     "level": 50,
@@ -26842,11 +27193,16 @@
                 "spe": 45
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -27390,14 +27746,20 @@
                 "spe": 50
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "iron-tail",
                 "thunder",
+				"earthquake",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -27458,7 +27820,10 @@
                 "spe": 60
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -27799,11 +28164,17 @@
                 "spe": 40
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
                 "ice-punch",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -27844,11 +28215,17 @@
                 "spe": 50
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
                 "ice-punch",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -28154,10 +28531,6 @@
                 },
                 {
                     "level": 30,
-                    "move": "rock-smash"
-                },
-                {
-                    "level": 40,
                     "move": "metal-claw"
                 }
             ],
@@ -28172,9 +28545,13 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
                 "dig",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -28214,8 +28591,11 @@
                 "spe": 29
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -28240,7 +28620,7 @@
                     "move": "body-slam"
                 },
                 {
-                    "level": 40,
+                    "level": 38,
                     "move": "thunderbolt"
                 },
                 {
@@ -28263,9 +28643,13 @@
                 "spe": 116
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "thunder",
+				"earthquake",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -28292,11 +28676,11 @@
                 },
                 {
                     "level": 49,
-                    "move": "confuse-ray"
+                    "move": "ice-beam"
                 },
                 {
-                    "level": 57,
-                    "move": "hydro-pump"
+                    "level": 56,
+                    "move": "recover"
                 }
             ],
             "name": "jellicent",
@@ -28310,8 +28694,12 @@
                 "spe": 60
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
-                "shadow-ball",
+				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -28454,9 +28842,14 @@
                 "spe": 55
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
 				"return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -28490,6 +28883,10 @@
 				{
 					"level": 15,
 					"move": "take-down"
+                },
+				{
+					"level": 20,
+					"move": "pin-missile"
 				},
 				{
 					"level": 25,
@@ -28527,8 +28924,13 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
 				"return",
 				"dig",
+				"detect",
 				"attract",
 				"fury-cutter"
 			],
@@ -28598,7 +29000,10 @@
                 "spe": 100
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -28659,8 +29064,12 @@
                 "spe": 65
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -28701,12 +29110,12 @@
 	            "move": "ice-beam"
 		},
 		{
-		    "level": 48,
-	            "move": "blizzard"
+		    "level": 44,
+	            "move": "recover"
 		},
 		{
-		    "level": 60,
-	            "move": "recover"
+		    "level": 48,
+	            "move": "blizzard"
 		}
             ],
             "name": "cryogonal",
@@ -28720,7 +29129,11 @@
                 "spe": 105
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
 				"return",
+				"detect",
 				"attract"
 			],
             "types": [
@@ -29160,10 +29573,15 @@
                 "spe": 75
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -29228,11 +29646,16 @@
                 "spe": 70
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -29302,11 +29725,16 @@
                 "spe": 110
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -29371,11 +29799,17 @@
                 "spe": 22
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
                 "shadow-ball",
                 "mud-slap",
                 "ice-punch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -29428,11 +29862,17 @@
                 "spe": 32
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
                 "shadow-ball",
                 "mud-slap",
                 "ice-punch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -29844,10 +30284,15 @@
                 "spe": 38
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -29913,9 +30358,15 @@
                 "spe": 58
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
+                "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -29978,9 +30429,14 @@
                 "spe": 98
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -30212,8 +30668,12 @@
                 "spe": 63
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30260,8 +30720,12 @@
                 "spe": 83
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30302,8 +30766,12 @@
                 "spe": 113
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30346,9 +30814,14 @@
                 "spe": 45
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30381,15 +30854,19 @@
                 },
                 {
                     "level": 18,
-                    "move": "take-down"
-                },
-                {
-                    "level": 20,
                     "move": "karate-chop"
                 },
                 {
-                    "level": 24,
+                    "level": 20,
                     "move": "fire-punch"
+                },
+                {
+                    "level": 24,
+                    "move": "vital-throw"
+                },
+                {
+                    "level": 31,
+                    "move": "submission"
                 }
             ],
             "name": "pignite",
@@ -30403,16 +30880,21 @@
                 "spe": 55
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
             "types": [
                 "fire",
-		"fighting"
+				"fighting"
             ]
         },
         {
@@ -30426,22 +30908,14 @@
                 },
                 {
                     "level": 37,
-                    "move": "submission"
-                },
-                {
-                    "level": 45,
                     "move": "flamethrower"
                 },
                 {
-                    "level": 55,
-                    "move": "rock-slide"
-                },
-                {
-                    "level": 60,
+                    "level": 45,
                     "move": "earthquake"
                 },
                 {
-                    "level": 64,
+                    "level": 57,
                     "move": "cross-chop"
                 }
             ],
@@ -30456,16 +30930,21 @@
                 "spe": 65
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
                 "mud-slap",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
             "types": [
                 "fire",
-		"fighting"
+				"fighting"
             ]
         },
         {
@@ -30504,8 +30983,13 @@
                 "spe": 45
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
                 "dig",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -30553,8 +31037,13 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
                 "dig",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -30599,8 +31088,13 @@
                 "spe": 70
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
                 "dig",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -30657,9 +31151,16 @@
                 "spe": 66
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"thunder",
                 "return",
+				"dig",
                 "shadow-ball",
+				"mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30712,12 +31213,16 @@
                 "spe": 106
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
 				"thunder",
                 "return",
-                "dig",
+				"dig",
                 "shadow-ball",
-                "mud-slap",
+				"mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30784,11 +31289,15 @@
                 "spe": 30
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
 				"shadow-ball",
 				"ice-punch",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -30829,11 +31338,15 @@
                 "spe": 40
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"thunder",
                 "return",
 				"shadow-ball",
 				"ice-punch",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -30893,7 +31406,10 @@
                 "spe": 30
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30945,7 +31461,10 @@
                 "spe": 90
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -30974,19 +31493,15 @@
                 },
                 {
                     "level": 6,
-                    "move": "mega-drain"
-                },
-                {
-                    "level": 11,
                     "move": "razor-leaf"
                 },
                 {
-                    "level": 14,
+                    "level": 12,
                     "move": "poisonpowder"
                 },
                 {
                     "level": 20,
-                    "move": "giga-drain"
+                    "move": "mega-drain"
                 },
                 {
                     "level": 23,
@@ -30998,14 +31513,18 @@
                 },
                 {
                     "level": 30,
-                    "move": "petal-dance"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 36,
                     "move": "encore"
                 },
                 {
-                    "level": 42,
+                    "level": 40,
+                    "move": "petal-dance"
+                },
+                {
+                    "level": 44,
                     "move": "leech-seed"
                 }
             ],
@@ -31020,8 +31539,11 @@
                 "spe": 66
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -31043,19 +31565,15 @@
                 },
                 {
                     "level": 6,
-                    "move": "mega-drain"
-                },
-                {
-                    "level": 11,
                     "move": "razor-leaf"
                 },
                 {
-                    "level": 14,
+                    "level": 12,
                     "move": "poisonpowder"
                 },
                 {
                     "level": 20,
-                    "move": "giga-drain"
+                    "move": "mega-drain"
                 },
                 {
                     "level": 23,
@@ -31067,14 +31585,18 @@
                 },
                 {
                     "level": 30,
-                    "move": "petal-dance"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 36,
                     "move": "encore"
                 },
                 {
-                    "level": 42,
+                    "level": 40,
+                    "move": "petal-dance"
+                },
+                {
+                    "level": 44,
                     "move": "leech-seed"
                 },
                 {
@@ -31093,8 +31615,11 @@
                 "spe": 116
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -31230,6 +31755,10 @@
                     "move": "confusion"
                 },
                 {
+                    "level": 20,
+                    "move": "thunder-wave"
+                },
+                {
                     "level": 25,
                     "move": "psychic"
                 }
@@ -31245,8 +31774,12 @@
                 "spe": 30
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -31290,8 +31823,12 @@
                 "spe": 30
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -31339,10 +31876,14 @@
                 "spe": 60
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "thunder",
                 "return",
                 "mud-slap",
 				"thunderpunch",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -31394,12 +31935,17 @@
                 "spe": 55
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
 				"thunder",
+				"earthquake",
                 "return",
 				"dig",
                 "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -31529,8 +32075,11 @@
                 "spe": 55
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "dig",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -31690,8 +32239,11 @@
                 "spe": 72
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -31736,8 +32288,11 @@
                 "spe": 114
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -32113,11 +32668,15 @@
                 "spe": 64
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "iron-tail",
                 "return",
 				"dig",
 				"shadow-ball",
                 "ice-punch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -32157,11 +32716,15 @@
                 "spe": 101
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "iron-tail",
                 "return",
 				"dig",
 				"shadow-ball",
                 "ice-punch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -32213,10 +32776,15 @@
                 "spe": 65
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
 				"shadow-ball",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -32647,10 +33215,14 @@
                 "spe": 32
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "thunder",
+				"earthquake",
                 "return",
 				"dig",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -32730,10 +33302,15 @@
                 "spe": 64
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
                 "return",
 				"dig",
 				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -32773,10 +33350,15 @@
                 "spe": 101
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"iron-tail",
+				"earthquake",
                 "return",
 				"dig",
 				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -33297,6 +33879,10 @@
                     "move": "iron-tail"
                 },
                 {
+                    "level": 58,
+                    "move": "zap-cannon"
+                },
+                {
                     "level": 60,
                     "move": "encore"
                 }
@@ -33312,10 +33898,13 @@
                 "spe": 103
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
 				"iron-tail",
 				"thunder",
                 "return",
 				"thunderpunch",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -33598,10 +34187,14 @@
                 "spe": 109
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
 				"return",
 				"dig",
 				"shadow-ball",
 				"attract",
+				"detect",
 				"fury-cutter"
 			],
             "types": [
@@ -33760,8 +34353,11 @@
                 "spe": 25
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -33797,6 +34393,10 @@
                 {
                     "level": 46,
                     "move": "toxic"
+                },
+                {
+                    "level": 50,
+                    "move": "destiny-bond"
                 }
             ],
             "name": "accelgor",
@@ -33810,8 +34410,11 @@
                 "spe": 145
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -34203,18 +34806,24 @@
                 "spe": 35
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
+				"earthquake",
                 "return",
                 "shadow-ball",
                 "mud-slap",
 				"shadow-ball",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
             "types": [
                 "ground",
-		"ghost"
+				"ghost"
             ]
         },
         {
@@ -34286,18 +34895,24 @@
                 "spe": 55
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"icy-wind",
+				"protect",
+				"earthquake",
                 "return",
                 "shadow-ball",
                 "mud-slap",
 				"shadow-ball",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
             "types": [
                 "ground",
-		"ghost"
+				"ghost"
             ]
         },
         {
@@ -34326,6 +34941,10 @@
                     "move": "waterfall"
                 },
                 {
+                    "level": 30,
+                    "move": "destiny-bond"
+                },
+                {
                     "level": 37,
                     "move": "double-edge"
                 },
@@ -34338,7 +34957,7 @@
                     "move": "ice-beam"
                 },
                 {
-                    "level": 62,
+                    "level": 52,
                     "move": "dragonbreath"
                 }
             ],
@@ -34353,8 +34972,11 @@
                 "spe": 98
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -34398,9 +35020,13 @@
                 "spe": 20
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "return",
-				"dig",
-				"mud-slap",
+                "dig",
+                "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -35372,7 +35998,11 @@
                 "spe": 55
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -35411,10 +36041,10 @@
                 },
                 {
                     "level": 43,
-                    "move": "waterfall"
+                    "move": "surf"
                 },
                 {
-                    "level": 59,
+                    "level": 56,
                     "move": "sky-attack"
                 }
             ],
@@ -35429,7 +36059,11 @@
                 "spe": 98
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -35563,8 +36197,12 @@
                 "spe": 97
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -35701,10 +36339,15 @@
                 "spe": 50
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
 				"dig",
                 "mud-slap",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -35773,10 +36416,15 @@
                 "spe": 95
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
 				"dig",
                 "mud-slap",
+				"detect",
                 "attract",
 				"fire-punch"
             ],
@@ -35879,7 +36527,7 @@
             "evolutions": [
                 {
                     "into": "excadrill",
-                    "level": 40,
+                    "level": 42,
                     "method": "level"
                 }
             ],
@@ -35926,9 +36574,14 @@
                 "spe": 68
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -35954,7 +36607,7 @@
                     "move": "metal-claw"
                 },
                 {
-                    "level": 41,
+                    "level": 42,
                     "move": "horn-attack"
                 }
             ],
@@ -35969,9 +36622,14 @@
                 "spe": 88
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
 				"dig",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -36009,10 +36667,15 @@
                 "spe": 95
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
+				"earthquake",
                 "return",
                 "dig",
-				"shadow-ball",
+                "shadow-ball",
                 "mud-slap",
+				"detect",
                 "attract",
                 "fury-cutter"
             ],
@@ -36078,13 +36741,18 @@
                 "spe": 48
             },
             "tmhm": [
+				"rock-smash",
+				"hidden-power",
+				"protect",
                 "iron-tail",
+				"earthquake",
                 "return",
                 "dig",
                 "shadow-ball",
                 "mud-slap",
                 "ice-punch",
                 "thunderpunch",
+				"detect",
                 "attract",
                 "fire-punch"
             ],
@@ -36342,8 +37010,11 @@
                 "spe": 24
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "return",
                 "shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -36402,9 +37073,13 @@
                 "spe": 76
             },
             "tmhm": [
+				"hidden-power",
+				"protect",
                 "thunder",
+				"earthquake",
                 "return",
                 "mud-slap",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -36445,20 +37120,12 @@
                     "move": "bubblebeam"
                 },
                 {
-                    "level": 25,
-                    "move": "recover"
-                },
-                {
                     "level": 31,
                     "move": "surf"
                 },
                 {
                     "level": 37,
                     "move": "shadow-ball"
-                },
-                {
-                    "level": 43,
-                    "move": "confuse-ray"
                 }
             ],
             "name": "frillish",
@@ -36472,8 +37139,12 @@
                 "spe": 40
             },
             "tmhm": [
+				"hidden-power",
+				"icy-wind",
+				"protect",
                 "return",
 				"shadow-ball",
+				"detect",
                 "attract"
             ],
             "types": [
@@ -37585,8 +38256,8 @@
           "item": "berry",
           "moves": [
             "leech-seed",
-            "mega-drain",
             "poisonpowder",
+            "mega-drain",
             "hp-water"
           ]
         },
@@ -38207,7 +38878,7 @@
         },
         {
           "name": "axew",
-          "level": 22,
+          "level": 21,
           "item": "berry",
           "moves": [
             "dragonbreath"
@@ -38672,8 +39343,8 @@
       "team": [
         {
           "name": "amoonguss",
-          "level": 24,
-          "item": "berry-juice",
+          "level": 23,
+          "item": "berry",
           "moves": [
             "sludge",
             "spore",
@@ -38797,7 +39468,7 @@
           "moves": [
 		    "hypnosis",
             "crunch",
-            "hyper-fang",
+            "headbutt",
             "low-kick"
           ]
         },
@@ -38849,7 +39520,7 @@
             "glare",
             "giga-drain",
             "body-slam",
-            "faint-attack"
+            "wing-attack"
           ]
 		}
       ]
@@ -38876,10 +39547,10 @@
           "level": 27,
           "item": "berry",
           "moves": [
-            "bubblebeam",
             "toxic",
             "recover",
-            "psybeam"
+            "psybeam",
+            "bubblebeam"
           ]
         },
         {
@@ -39262,7 +39933,7 @@
       "team": [
         {
           "name": "excadrill",
-          "level": 29,
+          "level": 28,
           "item": "berry",
           "moves": [
             "mud-slap",
@@ -39380,7 +40051,7 @@
           "item": "miracleberry",
           "moves": [
 			"confuse-ray",
-            "psychic",
+            "psybeam",
             "ice-punch",
             "rock-slide"
           ]
@@ -39571,14 +40242,14 @@
 		  "moves": [
 			"waterfall",
 			"crunch",
-			"double-edge",
+			"take-down",
 			"hp-rock"
 		  ]
 		},
 		{
 		  "name": "accelgor",
 		  "level": 31,
-		  "item": "mystic-water",
+		  "item": "berry-juice",
 		  "moves": [
 			"spikes",
 			"bubblebeam",
@@ -39939,7 +40610,7 @@
           "moves": [
             "fire-punch",
             "solarbeam",
-            "submission",
+            "vital-throw",
             "mud-slap"
           ]
         },
@@ -40031,9 +40702,9 @@
         {
           "name": "excadrill",
           "level": 34,
-          "item": "berry-juice",
+          "item": "soft-sand",
           "moves": [
-            "horn-attack",
+            "mud-slap",
             "metal-claw",
             "slash",
             "ancientpower"
@@ -40104,7 +40775,7 @@
             "extremespeed",
             "submission",
 			"shadow-ball",
-            "rock-slide"
+            "mud-slap"
           ]
         },
         {
@@ -40152,7 +40823,7 @@
 		  "item": "berry-juice",
 		  "moves": [
 			"flame-wheel",
-			"psybeam",
+			"confusion",
 			"bite",
 			"headbutt"
 	  ]
@@ -40341,7 +41012,7 @@
 	{
           "name": "amoonguss",
           "level": 35,
-          "item": "gold-berry",
+          "item": "miracleberry",
           "moves": [
             "spore",
             "mud-slap",
@@ -40368,18 +41039,18 @@
             "flamethrower",
             "crunch",
             "shadow-ball",
-	    "sludge-bomb"
+			"sludge-bomb"
           ]
 	},
 	{
           "name": "samurott",
           "level": 36,
-          "item": "metal-coat",
+          "item": "berry-juice",
           "moves": [
             "waterfall",
-            "ice-beam",
-            "fury-cutter",
-            "metal-claw"
+            "icy-wind",
+            "horn-attack",
+            "submission"
 	  ]
 	}
       ]
@@ -41597,12 +42268,12 @@
         {
           "name": "darmanitan-zen",
           "level": 42,
-          "item": "gold-berry",
+          "item": "berserk-gene",
           "moves": [
-            "fire-punch",
-            "psybeam",
+            "double-edge",
+            "shadow-ball",
             "cross-chop",
-            "crunch"
+            "rock-slide"
           ]
         },
         {
@@ -41674,11 +42345,19 @@
       "team": [
         {
           "name": "golurk",
-          "level": 42,
+                    "dvs": {
+                        "atk": 13,
+						"def": 14,
+						"hp": 11,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 41,
           "item": "quick-claw",
           "moves": [
             "earthquake",
-            "shadow-ball",
+            "hp-ghost",
 			"submission",
 			"rock-slide"
           ]
@@ -41747,7 +42426,15 @@
         },
         {
           "name": "throh",
-	  	  "level": 44,
+                    "dvs": {
+                        "atk": 13,
+						"def": 14,
+						"hp": 11,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+	  	  "level": 43,
 	  	  "item": "gold-berry",
 	  	  "moves": [
 	    	"cross-chop",
@@ -41758,7 +42445,7 @@
 		},
 		{
 		  "name": "eelektross",
-		  "level": 44,
+		  "level": 43,
 		  "item": "quick-claw",
 		  "moves": [
 			"thunder-wave",
@@ -41774,14 +42461,14 @@
 		  "moves": [
 			"hi-jump-kick",
 			"ice-punch",
-			"fury-cutter",
+			"body-slam",
 			"sludge-bomb"
 		  ]
 		},
 		{
 		  "name": "haxorus",
-		  "level": 44,
-		  "item": "dragon-fang",
+		  "level": 43,
+		  "item": "miracleberry",
 		  "moves": [
 			"dragonbreath",
 			"cross-chop",
@@ -41848,45 +42535,6 @@
     },
 	{
       "area": "whirl-island",
-      "name": "gruntm-22",
-      "team": [
-        {
-          "name": "mandibuzz",
-          "level": 47,
-          "item": "brightpowder",
-          "moves": [
-            "toxic",
-            "recover",
-			"night-shade",
-			"wing-attack"
-          ]
-        },
-        {
-          "name": "scrafty",
-          "level": 47,
-          "item": "gold-berry",
-          "moves": [
-            "counter",
-            "submission",
-            "crunch",
-            "dragonbreath"
-          ]
-        },
-        {
-          "name": "garbodor",
-	  	  "level": 47,
-	  	  "item": "quick-claw",
-	  	  "moves": [
-	    	"toxic",
-	    	"explosion",
-	        "sludge-bomb",
-	    	"earthquake"
-		  ]
-		}	    
-      ]
-    },
-	{
-      "area": "whirl-island",
       "name": "gruntm-23",
       "team": [
         {
@@ -41926,7 +42574,47 @@
     },
 	{
       "area": "whirl-island",
+      "name": "gruntm-22",
+      "team": [
+        {
+          "name": "mandibuzz",
+          "level": 47,
+          "item": "brightpowder",
+          "moves": [
+            "toxic",
+            "recover",
+			"night-shade",
+			"wing-attack"
+          ]
+        },
+        {
+          "name": "scrafty",
+          "level": 47,
+          "item": "gold-berry",
+          "moves": [
+            "counter",
+            "submission",
+            "crunch",
+            "dragonbreath"
+          ]
+        },
+        {
+          "name": "garbodor",
+	  	  "level": 47,
+	  	  "item": "quick-claw",
+	  	  "moves": [
+	    	"toxic",
+	    	"explosion",
+	        "sludge-bomb",
+	    	"earthquake"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "whirl-island",
       "name": "gruntm-26",
+	  "b2b": true,
       "team": [
         {
           "name": "amoonguss",
@@ -42024,11 +42712,19 @@
         },
         {
           "name": "cofagrigus",
+                    "dvs": {
+                        "atk": 15,
+						"def": 13,
+						"hp": 15,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
 	  	  "level": 48,
 	  	  "item": "gold-berry",
 	  	  "moves": [
 	    	"shadow-ball",
-	    	"crunch",
+	    	"hp-ice",
 	        "giga-drain",
 	    	"psychic"
 		  ]
@@ -42399,7 +43095,7 @@
           "moves": [
             "lovely-kiss",
             "earthquake",
-            "ice-beam",
+            "ice-punch",
             "surf"
           ]
         },
@@ -42428,7 +43124,7 @@
 		{
 		  "name": "golurk",
 		  "level": 50,
-		  "item": "quick-claw",
+		  "item": "gold-berry",
 		  "moves": [
 			"shadow-ball",
 			"earthquake",
@@ -42441,10 +43137,10 @@
 		  "level": 50,
 		  "item": "soft-sand",
 		  "moves": [
-			"horn-attack",
 			"rock-slide",
-			"metal-claw",
-			"submission"
+			"sleep-talk",
+			"horn-attack",
+			"metal-claw"
 		  ]
 		}	    
       ]
@@ -42623,45 +43319,6 @@
             "rock-slide",
 			"earthquake",
 			"return"
-		  ]
-		}	    
-      ]
-    },
-	{
-      "area": "Route 42",
-      "name": "pokemaniac-shane",
-      "team": [
-        {
-          "name": "basculin",
-          "level": 54,
-          "item": "pink-bow",
-          "moves": [
-            "double-edge",
-            "surf",
-			"ice-beam",
-			"crunch"
-          ]
-        },
-        {
-          "name": "watchog",
-          "level": 54,
-          "item": "miracleberry",
-          "moves": [
-            "hypnosis",
-            "hyper-fang",
-            "submission",
-            "crunch"
-          ]
-        },
-        {
-          "name": "heatmor",
-	  	  "level": 54,
-	  	  "item": "focus-band",
-	  	  "moves": [
-	    	"flamethrower",
-	    	"submission",
-	        "rock-slide",
-	    	"shadow-ball"
 		  ]
 		}	    
       ]
@@ -43073,21 +43730,13 @@
         },
         {
           "name": "archeops",
-                    "dvs": {
-                        "atk": 14,
-						"def": 14,
-						"hp": 3,
-						"spa": 15,
-						"spd": 15,
-						"spe": 15
-                    },
           "level": 53,
           "item": "quick-claw",
           "moves": [
             "wing-attack",
             "ancientpower",
             "flamethrower",
-            "hp-grass"
+            "dragonbreath"
           ]
         },
         {
@@ -43113,7 +43762,7 @@
     },
 	{
       "area": "Rocket Hideout",
-      "name": "gruntM-16",
+      "name": "gruntm-16",
 	  "meta": "spikes",
       "team": [
         {
@@ -43140,7 +43789,7 @@
         },
         {
           "name": "braviary",
-	  	  "level": 55,
+	  	  "level": 54,
 	  	  "item": "focus-band",
 	  	  "moves": [
 	    	"sky-attack",
@@ -43214,7 +43863,7 @@
         {
           "name": "maractus",
           "level": 55,
-          "item": "leftovers",
+          "item": "focus-band",
           "moves": [
             "synthesis",
             "toxic",
@@ -43528,7 +44177,7 @@
         {
           "name": "krookodile",
 	  	  "level": 56,
-	  	  "item": "quick-claw",
+	  	  "item": "blackglasses",
 	  	  "moves": [
 	    	"crunch",
 	    	"swagger",
@@ -43672,7 +44321,7 @@
 						"spe": 15
                     },
           "level": 57,
-          "item": "mystic-water",
+          "item": "miracle-seed",
           "moves": [
             "spore",
             "petal-dance",
@@ -43796,7 +44445,7 @@
         },
         {
           "name": "mienshao",
-          "level": 57,
+          "level": 56,
           "item": "gold-berry",
           "moves": [
             "cross-chop",
@@ -43825,31 +44474,20 @@
         {
           "name": "vanilluxe",
                     "dvs": {
-                        "atk": 13,
+                        "atk": 14,
 						"def": 15,
-						"hp": 15,
+						"hp": 7,
 						"spa": 15,
 						"spd": 15,
 						"spe": 15
                     },
           "level": 57,
-          "item": "gold-berry",
+          "item": "focus-band",
           "moves": [
             "ice-beam",
-            "hp-steel",
+            "hp-electric",
 			"waterfall",
 			"explosion"
-          ]
-        },
-        {
-          "name": "beartic",
-          "level": 58,
-          "item": "quick-claw",
-          "moves": [
-            "ice-beam",
-            "earthquake",
-            "cross-chop",
-            "return"
           ]
         },
         {
@@ -43861,6 +44499,17 @@
 	    	"ice-beam",
 	        "fury-cutter",
 	    	"horn-attack"
+          ]
+        },
+        {
+          "name": "beartic",
+          "level": 58,
+          "item": "quick-claw",
+          "moves": [
+            "ice-beam",
+            "earthquake",
+            "cross-chop",
+            "return"
 		  ]
 		},
 		{
@@ -43903,7 +44552,7 @@
 						"spd": 15,
 						"spe": 15
                     },
-		  "level": 58,
+		  "level": 57,
 		  "item": "mystic-water",
 		  "moves": [
 			"waterfall",
