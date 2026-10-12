@@ -44568,14 +44568,22 @@
       "name": "leader-drayden",
       "team": [
         {
-          "name": "druddigon",
+          "name": "serperior",
+                    "dvs": {
+                        "atk": 13,
+						"def": 12,
+						"hp": 11,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
           "level": 63,
-          "item": "quick-claw",
+          "item": "brightpowder",
           "moves": [
+            "glare",
             "dragonbreath",
-            "sleep-talk",
-			"iron-tail",
-			"ancientpower"
+			"hp-rock",
+			"iron-tail"
           ]
         },
         {
@@ -44590,25 +44598,14 @@
           ]
         },
         {
-          "name": "emboar",
+          "name": "darmanitan",
           "level": 63,
-          "item": "dragon-fang",
+          "item": "pink-bow",
           "moves": [
-            "outrage",
+            "double-edge",
             "flamethrower",
             "cross-chop",
-            "zap-cannon"
-		  ]
-		},
-		{
-		  "name": "haxorus",
-		  "level": 63,
-		  "item": "gold-berry",
-		  "moves": [
-			"outrage",
-			"cross-chop",
-			"flamethrower",
-			"earthquake"
+            "earthquake"
 		  ]
 		},
 		{
@@ -44620,6 +44617,17 @@
 			"flamethrower",
 			"crunch",
 			"steel-wing"
+		  ]
+		},
+		{
+		  "name": "haxorus",
+		  "level": 63,
+		  "item": "gold-berry",
+		  "moves": [
+			"outrage",
+			"cross-chop",
+			"flamethrower",
+			"earthquake"
 		  ]
 		},
 		{
