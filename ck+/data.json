@@ -44562,6 +44562,78 @@
 		  ]
 		}	    
       ]
+    },
+	{
+      "area": "Blackthorn Gym",
+      "name": "leader-drayden",
+      "team": [
+        {
+          "name": "druddigon",
+          "level": 63,
+          "item": "quick-claw",
+          "moves": [
+            "dragonbreath",
+            "sleep-talk",
+			"iron-tail",
+			"ancientpower"
+          ]
+        },
+        {
+          "name": "archeops",
+	  	  "level": 63,
+	  	  "item": "gold-berry",
+	  	  "moves": [
+	    	"wing-attack",
+	    	"rock-slide",
+	        "earthquake",
+	    	"dragonbreath"
+          ]
+        },
+        {
+          "name": "emboar",
+          "level": 63,
+          "item": "dragon-fang",
+          "moves": [
+            "outrage",
+            "flamethrower",
+            "cross-chop",
+            "zap-cannon"
+		  ]
+		},
+		{
+		  "name": "haxorus",
+		  "level": 63,
+		  "item": "gold-berry",
+		  "moves": [
+			"outrage",
+			"cross-chop",
+			"flamethrower",
+			"earthquake"
+		  ]
+		},
+		{
+		  "name": "hydreigon",
+		  "level": 63,
+		  "item": "charcoal",
+		  "moves": [
+			"dragonbreath",
+			"flamethrower",
+			"crunch",
+			"steel-wing"
+		  ]
+		},
+		{
+		  "name": "cobalion",
+		  "level": 63,
+		  "item": "miracleberry",
+		  "moves": [
+			"iron-tail",
+			"thunder-wave",
+			"submission",
+			"rock-slide"
+		  ]
+		}	    
+      ]
     }
     ],
     "type_matchups": [
