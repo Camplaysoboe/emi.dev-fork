@@ -18,7 +18,7 @@ var badgeTypes = new Map([
 	["rock", 13],
 	["water", 14],
 	["fire", 15],
-	["ground", 16],
+	["steel", 16],
 ]);
 var specialTypes = new Set([
 	"fire", "water", "electric", "grass", "ice", "psychic", "dragon", "dark"
@@ -305,6 +305,6 @@ if (game.name == "ck+xp") {
 		["rock", 13],
 		["water", 14],
 		["fire", 15],
-		["ground", 16],
+		["steel", 16],
 	]);
 }
