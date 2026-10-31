@@ -45362,6 +45362,225 @@
     },
 	{
       "area": "Radio Tower",
+      "name": "rival-10",
+	  "meta": "spikes, if player picked Oshawott",
+      "team": [
+        {
+          "name": "hydreigon",
+          "level": 60,
+          "item": "berserk-gene",
+          "moves": [
+            "frustration",
+            "outrage",
+			"crunch",
+			"steel-wing"
+          ]
+        },
+        {
+          "name": "eelektross",
+	  	  "level": 60,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"zap-cannon",
+	    	"flamethrower",
+	        "surf",
+	    	"giga-drain"
+          ]
+        },
+        {
+          "name": "chandelure",
+          "level": 60,
+          "item": "gold-berry",
+          "moves": [
+            "confuse-ray",
+            "flamethrower",
+            "shadow-ball",
+			"petal-dance"
+          ]
+        },
+        {
+          "name": "conkeldurr",
+          "level": 60,
+          "item": "hard-stone",
+          "moves": [
+            "submission",
+            "rock-slide",
+            "body-slam",
+			"earthquake"
+          ]
+        },
+        {
+          "name": "simipour",
+          "level": 60,
+          "item": "mystic-water",
+          "moves": [
+            "surf",
+            "ice-beam",
+            "iron-tail",
+			"crunch"
+          ]
+        },
+        {
+          "name": "serperior",
+          "level": 60,
+          "item": "focus-band",
+          "moves": [
+            "leech-seed",
+            "petal-dance",
+            "dragonbreath",
+			"ancientpower"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Radio Tower",
+      "name": "rival-11",
+	  "meta": "spikes, if player picked Snivy",
+      "team": [
+        {
+          "name": "hydreigon",
+          "level": 60,
+          "item": "berserk-gene",
+          "moves": [
+            "frustration",
+            "outrage",
+			"crunch",
+			"steel-wing"
+          ]
+        },
+        {
+          "name": "eelektross",
+	  	  "level": 60,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"zap-cannon",
+	    	"flamethrower",
+	        "surf",
+	    	"giga-drain"
+          ]
+        },
+        {
+          "name": "jellicent",
+          "level": 60,
+          "item": "leftovers",
+          "moves": [
+            "toxic",
+            "surf",
+            "ice-beam",
+			"shadow-ball"
+          ]
+        },
+        {
+          "name": "excadrill",
+          "level": 60,
+          "item": "soft-sand",
+          "moves": [
+            "earthquake",
+            "sleep-talk",
+            "rock-slide",
+			"rock-smash"
+          ]
+        },
+        {
+          "name": "simisage",
+          "level": 60,
+          "item": "miracle-seed",
+          "moves": [
+            "petal-dance",
+            "cross-chop",
+            "iron-tail",
+			"rock-slide"
+          ]
+        },
+        {
+          "name": "emboar",
+          "level": 60,
+          "item": "quick-claw",
+          "moves": [
+            "flamethrower",
+            "cross-chop",
+            "double-edge",
+			"zap-cannon"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Radio Tower",
+      "name": "rival-12",
+	  "meta": "spikes, if player picked Tepig",
+      "team": [
+        {
+          "name": "hydreigon",
+          "level": 60,
+          "item": "berserk-gene",
+          "moves": [
+            "frustration",
+            "outrage",
+			"crunch",
+			"steel-wing"
+          ]
+        },
+        {
+          "name": "eelektross",
+	  	  "level": 60,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"zap-cannon",
+	    	"flamethrower",
+	        "surf",
+	    	"giga-drain"
+          ]
+        },
+        {
+          "name": "whimsicott",
+          "level": 60,
+          "item": "miracleberry",
+          "moves": [
+            "substitute",
+            "sleep-powder",
+            "giga-drain",
+			"psychic"
+          ]
+        },
+        {
+          "name": "golurk",
+          "level": 60,
+          "item": "gold-berry",
+          "moves": [
+            "earthquake",
+            "shadow-ball",
+            "submission",
+			"rock-slide"
+          ]
+        },
+        {
+          "name": "simisear",
+          "level": 60,
+          "item": "charcoal",
+          "moves": [
+            "flamethrower",
+            "shadow-ball",
+            "rock-slide",
+			"iron-tail"
+          ]
+        },
+        {
+          "name": "samurott",
+          "level": 60,
+          "item": "focus-band",
+          "moves": [
+            "surf",
+            "ice-beam",
+            "horn-attack",
+			"cross-chop"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Radio Tower",
       "name": "burger-duncan",
 	  "meta": "spikes",
       "team": [
