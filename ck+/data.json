@@ -46017,7 +46017,7 @@
         {
           "name": "bouffalant",
 	  	  "level": 60,
-	  	  "item": "berserk-gene",
+	  	  "item": "gold-berry",
 	  	  "moves": [
 			"frustration",
 	    	"earthquake",
@@ -46026,25 +46026,25 @@
           ]
         },
         {
-          "name": "galvantula",
+          "name": "eelektross",
           "level": 60,
-          "item": "magnet",
+          "item": "focus-band",
           "moves": [
             "thunderbolt",
             "giga-drain",
-            "fury-cutter",
-			"crunch"
+            "cross-chop",
+			"flamethrower"
           ]
         },
         {
-          "name": "reuniclus",
+          "name": "kyurem",
           "level": 60,
-          "item": "twistedspoon",
+          "item": "dragon-fang",
           "moves": [
-            "psychic",
-            "fire-punch",
-            "giga-drain",
-			"ice-punch"
+            "blizzard",
+            "dragonbreath",
+            "steel-wing",
+			"rock-slide"
           ]
         },
         {
