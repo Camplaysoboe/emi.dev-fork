@@ -4157,10 +4157,6 @@
                         ]
                     },
                     "type": "walking"
-                },
-                {
-                    "pool": "fishing.deino.old",
-                    "type": "old-rod"
                 }
             ]
         },
@@ -4282,10 +4278,6 @@
                         ]
                     },
                     "type": "walking"
-                },
-                {
-                    "pool": "fishing.deino.old",
-                    "type": "old-rod"
                 }
             ]
         },
@@ -4407,10 +4399,6 @@
                         ]
                     },
                     "type": "walking"
-                },
-                {
-                    "pool": "fishing.deino.old",
-                    "type": "old-rod"
                 }
             ]
         },
@@ -4532,10 +4520,6 @@
                         ]
                     },
                     "type": "walking"
-                },
-                {
-                    "pool": "fishing.deino.old",
-                    "type": "old-rod"
                 }
             ]
         },
@@ -7184,43 +7168,43 @@
                     "pool": [
                         {
                             "chance": 19,
-                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 15/5/5/5/5 DVs. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
                             "level": 5,
                             "pokemon": "larvesta"
                         },
                         {
                             "chance": 19,
-                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 15/5/5/5/5 DVs. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
                             "level": 5,
                             "pokemon": "munna"
                         },
                         {
                             "chance": 16,
-                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 15/5/5/5/5 DVs. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
                             "level": 5,
                             "pokemon": "minccino"
                         },
                         {
                             "chance": 14,
-                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 15/5/5/5/5 DVs. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
                             "level": 5,
                             "pokemon": "vanillite"
                         },
                         {
                             "chance": 12,
-                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 15/5/5/5/5 DVs. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
                             "level": 5,
                             "pokemon": "mienfoo"
                         },
                         {
                             "chance": 11,
-                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 15/5/5/5/5 DVs. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
                             "level": 5,
                             "pokemon": "petilil"
                         },
                         {
                             "chance": 9,
-                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 0DV. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
+                            "extra": "Egg, can be hatched elsewhere. Knows Dizzy Punch. 86% chance to be 15/5/5/5/5 DVs. 14% chance to be shiny with 0 2\/10 10\/10 10 DVs",
                             "level": 5,
                             "pokemon": "cottonee"
                         }
@@ -8318,18 +8302,18 @@
                     "pool": [
                         {
                             "chance": 60,
-                            "level": 35,
-                            "pokemon": "poliwag"
+                            "level": 20,
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
-                            "level": 35,
-                            "pokemon": "poliwag"
+                            "level": 20,
+                            "pokemon": "basculin"
                         },
                         {
                             "chance": 10,
-                            "level": 35,
-                            "pokemon": "poliwhirl"
+                            "level": 20,
+                            "pokemon": "frillish"
                         }
                     ],
                     "type": "surfing"
@@ -13720,17 +13704,17 @@
                         {
                             "chance": 60,
                             "level": 45,
-                            "pokemon": "seadra"
+                            "pokemon": "simipour"
                         },
                         {
                             "chance": 30,
                             "level": 45,
-                            "pokemon": "seadra"
+                            "pokemon": "alomomola"
                         },
                         {
                             "chance": 10,
                             "level": 50,
-                            "pokemon": "kingdra"
+                            "pokemon": "frillish"
                         }
                     ],
                     "type": "surfing"
@@ -15669,23 +15653,7 @@
         },
         {
             "id": 40,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "",
-                    "item": "nevermeltice"
-                },
-                {
-                    "amount": "1",
-                    "info": "Basement Ice puzzle",
-                    "item": "tm-44"
-                },
-                {
-                    "amount": "1",
-                    "info": "First Ice puzzle",
-                    "item": "hm-07"
-                }
-            ],
+            "items": [],
             "locations": [
                 "ice-path-1f",
                 "ice-path-b1f",
@@ -15705,13 +15673,33 @@
             "items": [
                 {
                     "amount": "renewable",
-                    "info": "Buyable in pokemart",
-                    "item": "lucky-egg"
+                    "info": "$0 in mart",
+                    "item": "ultra-ball"
                 },
                 {
-                    "amount": "1",
-                    "info": "Located on cliff by dragon's den entrance",
-                    "item": "spell-tag"
+                    "amount": "renewable",
+                    "info": "$20,000 in mart",
+                    "item": "nevermeltice"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$20,000 in mart",
+                    "item": "twistedspoon"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$50,000 in mart",
+                    "item": "exp-share"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$2,500 in mart",
+                    "item": "moomoo-milk"
+                },
+                {
+                    "amount": "renewable",
+                    "info": "$5,000 in mart",
+                    "item": "mysteryberry"
                 }
             ],
             "locations": [
@@ -18338,7 +18326,7 @@
             "index": 243,
             "name": "mirror-coat",
             "power": 1,
-            "pp": 20,
+            "pp": 2,
             "type": "psychic"
         },
         {
@@ -22711,10 +22699,6 @@
                 {
                     "level": 44,
                     "move": "ice-beam"
-                },
-                {
-                    "level": 50,
-                    "move": "blizzard"
                 }
             ],
             "name": "vanilluxe",
@@ -23356,7 +23340,7 @@
             "evolutions": [
                 {
                     "into": "ferrothorn",
-                    "level": 22,
+                    "level": 40,
                     "method": "level"
                 }
             ],
@@ -23365,39 +23349,39 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "peck"
+                    "move": "tackle"
                 },
                 {
                     "level": 5,
-                    "move": "disable"
+                    "move": "metal-claw"
                 },
                 {
                     "level": 10,
-                    "move": "encore"
-                },
-                {
-                    "level": 14,
-                    "move": "bubblebeam"
+                    "move": "pin-missile"
                 },
                 {
                     "level": 16,
-                    "move": "confusion"
+                    "move": "selfdestruct"
                 },
                 {
                     "level": 23,
-                    "move": "screech"
+                    "move": "mega-drain"
                 },
                 {
                     "level": 31,
-                    "move": "psychic"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 40,
-                    "move": "future-sight"
+                    "move": "petal-dance"
                 },
                 {
-                    "level": 60,
-                    "move": "hydro-pump"
+                    "level": 50,
+                    "move": "explosion"
+                },
+                {
+                    "level": 63,
+                    "move": "leech-seed"
                 }
             ],
             "name": "ferroseed",
@@ -23433,47 +23417,43 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "peck"
+                    "move": "tackle"
                 },
                 {
-                    "level": 14,
-                    "move": "bubblebeam"
+                    "level": 5,
+                    "move": "metal-claw"
+                },
+                {
+                    "level": 10,
+                    "move": "pin-missile"
                 },
                 {
                     "level": 16,
-                    "move": "confusion"
+                    "move": "selfdestruct"
                 },
                 {
                     "level": 23,
-                    "move": "ice-punch"
-                },
-                {
-                    "level": 25,
-                    "move": "screech"
+                    "move": "mega-drain"
                 },
                 {
                     "level": 31,
-                    "move": "psychic"
-                },
-                {
-                    "level": 34,
-                    "move": "cross-chop"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 40,
-                    "move": "encore"
+                    "move": "petal-dance"
                 },
                 {
-                    "level": 42,
-                    "move": "disable"
+                    "level": 50,
+                    "move": "explosion"
                 },
                 {
-                    "level": 45,
-                    "move": "future-sight"
-                },
-                {
-                    "level": 60,
-                    "move": "hydro-pump"
+                    "level": 65,
+                    "move": "leech-seed"
+				},
+				{
+					"level": 72,
+					"move": "spikes"
                 }
             ],
             "name": "ferrothorn",
@@ -29350,10 +29330,6 @@
 		{
 		    "level": 44,
 	            "move": "recover"
-		},
-		{
-		    "level": 48,
-	            "move": "blizzard"
 		}
             ],
             "name": "cryogonal",
@@ -33001,6 +32977,10 @@
                 {
                     "level": 42,
                     "move": "flamethrower"
+                },
+                {
+                    "level": 48,
+                    "move": "submission"
                 }
             ],
             "name": "heatmor",
@@ -34408,10 +34388,6 @@
 				{
 					"level": 50, 
 					"move": "iron-tail"
-				},
-				{
-					"level": 64,
-					"move": "screech"
 				}
             ],
             "name": "durant",
@@ -34973,7 +34949,7 @@
             "evolutions": [
                 {
                     "into": "golurk",
-                    "level": 21,
+                    "level": 43,
                     "method": "level"
                 }
             ],
@@ -34986,51 +34962,35 @@
                 },
                 {
                     "level": 1,
-                    "move": "scary-face"
-                },
-                {
-                    "level": 4,
-                    "move": "tail-whip"
-                },
-                {
-                    "level": 8,
-                    "move": "charm"
-                },
-                {
-                    "level": 13,
-                    "move": "karate-chop"
-                },
-                {
-                    "level": 16,
-                    "move": "headbutt"
-                },
-                {
-                    "level": 19,
                     "move": "lick"
                 },
                 {
-                    "level": 26,
-                    "move": "roar"
+                    "level": 4,
+                    "move": "magnitude"
                 },
                 {
-                    "level": 34,
-                    "move": "submission"
+                    "level": 8,
+                    "move": "karate-chop"
                 },
                 {
-                    "level": 43,
-                    "move": "glare"
+                    "level": 13,
+                    "move": "metal-claw"
                 },
                 {
-                    "level": 49,
+                    "level": 19,
                     "move": "rock-slide"
                 },
                 {
-                    "level": 51,
-                    "move": "earthquake"
+                    "level": 26,
+                    "move": "ice-punch"
                 },
                 {
-                    "level": 55,
-                    "move": "return"
+                    "level": 36,
+                    "move": "shadow-ball"
+                },
+                {
+                    "level": 43,
+                    "move": "submission"
                 }
             ],
             "name": "golett",
@@ -35075,51 +35035,47 @@
                 },
                 {
                     "level": 1,
-                    "move": "scary-face"
-                },
-                {
-                    "level": 4,
-                    "move": "tail-whip"
-                },
-                {
-                    "level": 8,
-                    "move": "charm"
-                },
-                {
-                    "level": 13,
-                    "move": "karate-chop"
-                },
-                {
-                    "level": 16,
-                    "move": "headbutt"
-                },
-                {
-                    "level": 19,
                     "move": "lick"
                 },
                 {
-                    "level": 26,
-                    "move": "roar"
+                    "level": 4,
+                    "move": "magnitude"
                 },
                 {
-                    "level": 34,
-                    "move": "submission"
+                    "level": 8,
+                    "move": "karate-chop"
                 },
                 {
-                    "level": 43,
-                    "move": "glare"
+                    "level": 13,
+                    "move": "metal-claw"
                 },
                 {
-                    "level": 49,
+                    "level": 19,
                     "move": "rock-slide"
                 },
                 {
-                    "level": 51,
+                    "level": 26,
+                    "move": "ice-punch"
+                },
+                {
+                    "level": 36,
+                    "move": "shadow-ball"
+                },
+                {
+                    "level": 43,
+                    "move": "submission"
+                },
+                {
+                    "level": 47,
+                    "move": "mud-slap"
+                },
+                {
+                    "level": 52,
                     "move": "earthquake"
                 },
                 {
-                    "level": 55,
-                    "move": "return"
+                    "level": 60,
+                    "move": "cross-chop"
                 }
             ],
             "name": "golurk",
@@ -44878,12 +44834,12 @@
       "team": [
         {
           "name": "durant",
-          "level": 60,
+          "level": 59,
           "item": "metal-coat",
           "moves": [
             "iron-tail",
             "earthquake",
-			"rock-slide",
+			"ancientpower",
 			"fury-cutter"
           ]
         },
@@ -44950,12 +44906,12 @@
           ]
         },
         {
-          "name": "golurk",
+          "name": "stunfisk",
           "level": 60,
-          "item": "spell-tag",
+          "item": "quick-claw",
           "moves": [
-            "shadow-ball",
-            "submission",
+            "sludge-bomb",
+            "thunderbolt",
             "earthquake",
 			"rock-slide"
 		  ]
@@ -45040,7 +44996,7 @@
         },
         {
           "name": "samurott",
-	  	  "level": 60,
+	  	  "level": 59,
 	  	  "item": "mystic-water",
 	  	  "moves": [
 	    	"surf",
@@ -45061,14 +45017,14 @@
           ]
         },
         {
-          "name": "watchog",
+          "name": "darmanitan",
           "level": 60,
           "item": "quick-claw",
           "moves": [
-            "hypnosis",
-            "hyper-fang",
-            "iron-tail",
-			"fire-blast"
+            "fire-blast",
+            "frustration",
+            "rock-slide",
+			"earthquake"
 		  ]
 		}	    
       ]
@@ -45080,7 +45036,7 @@
       "team": [
         {
           "name": "scrafty",
-          "level": 60,
+          "level": 59,
           "item": "gold-berry",
           "moves": [
             "submission",
@@ -45094,7 +45050,7 @@
 	  	  "level": 60,
 	  	  "item": "pink-bow",
 	  	  "moves": [
-	    	"sky-attack",
+	    	"drill-peck",
 	    	"double-edge",
 	        "steel-wing",
 	    	"quick-attack"
@@ -45158,7 +45114,7 @@
           "item": "gold-berry",
           "moves": [
             "counter",
-            "cross-chop",
+            "submission",
             "rock-slide",
 			"earthquake"
           ]
@@ -45178,73 +45134,73 @@
     },
 	{
       "area": "Radio Tower",
-      "name": "executivem-3",
+      "name": "N-2",
 	  "meta": "spikes",
       "team": [
         {
-          "name": "stoutland",
-          "level": 60,
-          "item": "focus-band",
+          "name": "conkeldurr",
+          "level": 61,
+          "item": "gold-berry",
           "moves": [
-            "reflect",
-            "extremespeed",
-			"earthquake",
-			"submission"
-          ]
-        },
-        {
-          "name": "gothitelle",
-	  	  "level": 60,
-	  	  "item": "brightpowder",
-	  	  "moves": [
-	    	"light-screen",
-	    	"psychic",
-	        "crunch",
-	    	"thunderbolt"
-          ]
-        },
-        {
-          "name": "serperior",
-          "level": 60,
-          "item": "mysteryberry",
-          "moves": [
-            "reflect",
-            "leech-seed",
-            "giga-drain",
-			"iron-tail"
-          ]
-        },
-        {
-          "name": "alomomola",
-          "level": 60,
-          "item": "leftovers",
-          "moves": [
-            "light-screen",
-            "toxic",
-            "recover",
-			"surf"
-          ]
-        },
-        {
-          "name": "liepard",
-          "level": 60,
-          "item": "brightpowder",
-          "moves": [
-            "crunch",
-            "reflect",
+            "return",
             "submission",
-			"shadow-ball"
+			"earthquake",
+			"rock-slide"
+          ]
+        },
+        {
+          "name": "ferrothorn",
+	  	  "level": 61,
+	  	  "item": "focus-band",
+	  	  "moves": [
+	    	"leech-seed",
+	    	"giga-drain",
+	        "iron-tail",
+	    	"earthquake"
+          ]
+        },
+        {
+          "name": "zoroark",
+          "level": 61,
+          "item": "blackglasses",
+          "moves": [
+            "transform",
+            "crunch",
+            "flamethrower",
+			"return"
+          ]
+        },
+        {
+          "name": "archeops",
+          "level": 60,
+          "item": "gold-berry",
+          "moves": [
+            "fury-cutter",
+            "return",
+            "rock-slide",
+			"sky-attack"
+          ]
+        },
+        {
+          "name": "klinklang",
+          "level": 60,
+          "item": "quick-claw",
+          "moves": [
+            "toxic",
+            "substitute",
+            "comet-punch",
+			"return"
           ]
         },
         {
           "name": "genesect",
-          "level": 60,
-          "item": "magnet",
+          "level": 62,
+          "item": "mystic-water",
           "moves": [
-            "light-screen",
-            "zap-cannon",
-            "fury-cutter",
-			"iron-tail"
+            "octazooka",
+            "sleep-talk",
+            "petal-dance",
+			"rock-slide"
 		  ]
 		}	    
       ]
@@ -45286,18 +45242,18 @@
       "team": [
         {
           "name": "audino",
-          "level": 60,
+          "level": 61,
           "item": "leftovers",
           "moves": [
             "explosion",
             "shadow-ball",
 			"cross-chop",
-			"frustration"
+			"crunch"
           ]
         },
         {
           "name": "simipour",
-	  	  "level": 60,
+	  	  "level": 61,
 	  	  "item": "mystic-water",
 	  	  "moves": [
 	    	"surf",
@@ -45308,12 +45264,12 @@
         },
         {
           "name": "braviary",
-          "level": 60,
+          "level": 59,
           "item": "sharp-beak",
           "moves": [
-            "sky-attack",
+            "drill-peck",
             "double-edge",
-            "cross-chop",
+            "steel-wing",
 			"shadow-ball"
 		  ]
 		}	    
@@ -45353,7 +45309,7 @@
           "item": "leftovers",
           "moves": [
             "moonlight",
-            "sky-attack",
+            "night-shade",
             "bone-rush",
 			"shadow-ball"
 		  ]
@@ -45379,7 +45335,7 @@
         {
           "name": "eelektross",
 	  	  "level": 60,
-	  	  "item": "focus-band",
+	  	  "item": "quick-claw",
 	  	  "moves": [
 	    	"zap-cannon",
 	    	"flamethrower",
@@ -45452,7 +45408,7 @@
         {
           "name": "eelektross",
 	  	  "level": 60,
-	  	  "item": "focus-band",
+	  	  "item": "quick-claw",
 	  	  "moves": [
 	    	"zap-cannon",
 	    	"flamethrower",
@@ -45525,7 +45481,7 @@
         {
           "name": "eelektross",
 	  	  "level": 60,
-	  	  "item": "focus-band",
+	  	  "item": "quick-claw",
 	  	  "moves": [
 	    	"zap-cannon",
 	    	"flamethrower",
@@ -45586,7 +45542,7 @@
       "team": [
         {
           "name": "scolipede",
-          "level": 60,
+          "level": 59,
           "item": "gold-berry",
           "moves": [
             "sludge-bomb",
@@ -45711,9 +45667,9 @@
 	  	  "level": 60,
 	  	  "item": "gold-berry",
 	  	  "moves": [
-	    	"toxic",
 	    	"surf",
-	        "shadow-ball",
+	    	"destiny-bond",
+	        "giga-drain",
 	    	"ice-beam"
           ]
         },
@@ -45783,7 +45739,7 @@
         {
           "name": "vanilluxe",
           "level": 60,
-          "item": "focus-band",
+          "item": "nevermeltice",
           "moves": [
             "explosion",
             "mirror-coat",
@@ -45850,77 +45806,77 @@
 	  "meta": "spikes",
       "team": [
         {
-          "name": "crustle",
-          "level": 60,
+          "name": "stoutland",
+          "level": 61,
           "item": "gold-berry",
           "moves": [
-            "sandstorm",
-            "fury-cutter",
+            "reflect",
+            "extremespeed",
 			"earthquake",
-			"rock-slide"
+			"submission"
           ]
         },
         {
-          "name": "gigalith",
-	  	  "level": 60,
-	  	  "item": "leftovers",
+          "name": "gothitelle",
+	  	  "level": 61,
+	  	  "item": "brightpowder",
 	  	  "moves": [
-			"sandstorm",
-	    	"explosion",
-	    	"ancientpower",
-	        "earthquake"
+	    	"light-screen",
+	    	"psychic",
+	        "crunch",
+	    	"thunderbolt"
           ]
         },
         {
-          "name": "klinklang",
-                    "dvs": {
-                        "atk": 12,
-						"def": 15,
-						"hp": 7,
-						"spa": 15,
-						"spd": 15,
-						"spe": 15
-                    },
-          "level": 60,
-          "item": "metal-coat",
+          "name": "serperior",
+          "level": 61,
+          "item": "mysteryberry",
           "moves": [
-            "explosion",
-            "comet-punch",
-            "zap-cannon",
-			"hp-ground"
-          ]
-        },
-        {
-          "name": "carracosta",
-          "level": 60,
-          "item": "focus-band",
-          "moves": [
-            "sandstorm",
-            "surf",
-            "rock-slide",
-			"ice-beam"
-          ]
-        },
-        {
-          "name": "excadrill",
-          "level": 60,
-          "item": "quick-claw",
-          "moves": [
-            "earthquake",
-            "rock-slide",
-            "fury-cutter",
+            "reflect",
+            "leech-seed",
+            "petal-dance",
 			"iron-tail"
           ]
         },
         {
-          "name": "genesect",
-          "level": 60,
-          "item": "mystic-water",
+          "name": "alomomola",
+          "level": 61,
+          "item": "leftovers",
           "moves": [
-            "octazooka",
-            "sleep-talk",
-            "iron-tail",
-			"petal-dance"
+            "light-screen",
+            "toxic",
+            "mirror-coat",
+			"surf"
+          ]
+        },
+        {
+          "name": "liepard",
+                    "dvs": {
+                        "atk": 15,
+						"def": 13,
+						"hp": 15,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 61,
+          "item": "brightpowder",
+          "moves": [
+            "crunch",
+            "reflect",
+            "submission",
+			"hp-ice"
+          ]
+        },
+        {
+          "name": "genesect",
+          "level": 62,
+          "item": "magnet",
+          "moves": [
+            "light-screen",
+            "zap-cannon",
+            "fury-cutter",
+			"iron-tail"
 		  ]
 		}	    
       ]
@@ -45932,40 +45888,40 @@
       "team": [
         {
           "name": "accelgor",
-          "level": 60,
-          "item": "gold-berry",
+          "level": 61,
+          "item": "berserk-gene",
           "moves": [
-            "destiny-bond",
-            "toxic",
-			"fury-cutter",
-			"surf"
+            "fury-cutter",
+            "baton-pass",
+			"submission",
+			"toxic"
           ]
         },
         {
-          "name": "scrafty",
-	  	  "level": 60,
+          "name": "krookodile",
+	  	  "level": 61,
 	  	  "item": "quick-claw",
 	  	  "moves": [
 			"crunch",
-	    	"sleep-talk",
+	    	"earthquake",
 	    	"submission",
 	        "ancientpower"
           ]
         },
         {
-          "name": "zoroark",
+          "name": "haxorus",
           "level": 60,
-          "item": "blackglasses",
+          "item": "gold-berry",
           "moves": [
-            "transform",
-            "crunch",
-            "flamethrower",
-			"submission"
+            "outrage",
+            "surf",
+            "iron-tail",
+			"fury-cutter"
           ]
         },
         {
           "name": "bisharp",
-          "level": 60,
+          "level": 61,
           "item": "focus-band",
           "moves": [
             "crunch",
@@ -45976,7 +45932,7 @@
         },
         {
           "name": "cryogonal",
-          "level": 60,
+          "level": 61,
           "item": "brightpowder",
           "moves": [
             "selfdestruct",
@@ -45987,7 +45943,7 @@
         },
         {
           "name": "genesect",
-          "level": 60,
+          "level": 62,
           "item": "charcoal",
           "moves": [
             "sacred-fire",
@@ -46005,7 +45961,7 @@
       "team": [
         {
           "name": "cofagrigus",
-          "level": 60,
+          "level": 61,
           "item": "leftovers",
           "moves": [
             "protect",
@@ -46016,7 +45972,7 @@
         },
         {
           "name": "bouffalant",
-	  	  "level": 60,
+	  	  "level": 61,
 	  	  "item": "gold-berry",
 	  	  "moves": [
 			"frustration",
@@ -46027,7 +45983,7 @@
         },
         {
           "name": "eelektross",
-          "level": 60,
+          "level": 61,
           "item": "focus-band",
           "moves": [
             "thunderbolt",
@@ -46060,7 +46016,7 @@
         },
         {
           "name": "genesect",
-          "level": 60,
+          "level": 62,
           "item": "nevermeltice",
           "moves": [
             "blizzard",
@@ -46207,7 +46163,7 @@
 			"cross-chop",
 	    	"rock-slide",
 	    	"return",
-	        "sludge-bomb"
+	        "earthquake"
           ]
         },
         {
@@ -46293,10 +46249,10 @@
 	  	  "level": 60,
 	  	  "item": "pink-bow",
 	  	  "moves": [
+			"rest",
 			"extremespeed",
 	    	"double-edge",
-	    	"earthquake",
-	        "surf"
+	    	"earthquake"
           ]
         },
         {
