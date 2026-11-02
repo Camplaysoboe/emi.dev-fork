@@ -23376,6 +23376,10 @@
                     "move": "petal-dance"
                 },
                 {
+                    "level": 45,
+                    "move": "iron-tail"
+                },
+                {
                     "level": 50,
                     "move": "explosion"
                 },
@@ -23442,6 +23446,10 @@
                 {
                     "level": 40,
                     "move": "petal-dance"
+                },
+                {
+                    "level": 45,
+                    "move": "iron-tail"
                 },
                 {
                     "level": 50,
@@ -26185,6 +26193,10 @@
                 {
                     "level": 30,
                     "move": "thunderpunch"
+                },
+                {
+                    "level": 36,
+                    "move": "vital-throw"
                 }
             ],
             "name": "scraggy",
@@ -26224,6 +26236,34 @@
                  {
                     "level": 1,
                     "move": "tackle"
+                },
+                {
+                    "level": 6,
+                    "move": "headbutt"
+                },               
+				{
+                    "level": 9,
+                    "move": "karate-chop"
+                },
+                {
+                    "level": 12,
+                    "move": "faint-attack"
+                },
+                {
+                    "level": 20,
+                    "move": "crunch"
+                },
+                {
+                    "level": 26,
+                    "move": "submission"
+                },
+                {
+                    "level": 30,
+                    "move": "thunderpunch"
+                },
+                {
+                    "level": 36,
+                    "move": "vital-throw"
                 },
                 {
                     "level": 41,
@@ -27262,6 +27302,10 @@
                 {
                     "level": 40,
                     "move": "flamethrower"
+                },
+                {
+                    "level": 48,
+                    "move": "submission"
                 }
             ],
             "name": "zoroark",
@@ -29269,6 +29313,10 @@
                 {
                     "level": 62,
                     "move": "recover"
+                },
+                {
+                    "level": 66,
+                    "move": "whirlpool"
                 }
             ],
             "name": "alomomola",
@@ -35201,6 +35249,18 @@
                 {
                     "level": 48,
                     "move": "horn-attack"
+                },
+                {
+                    "level": 54,
+                    "move": "steel-wing"
+                },
+                {
+                    "level": 63,
+                    "move": "fury-cutter"
+                },
+                {
+                    "level": 68,
+                    "move": "iron-tail"
                 }
             ],
             "name": "escavalier",
@@ -42565,17 +42625,17 @@
             "fury-cutter",
             "submission",
             "crabhammer"
-          ]
-        },
-        {
-          "name": "emboar",
-	  	  "level": 42,
-	  	  "item": "charcoal",
-	  	  "moves": [
-	    	"flamethrower",
-	    	"cross-chop",
-	        "thunderpunch",
-	    	"double-edge"
+		  ]
+		},
+		{
+		  "name": "haxorus",
+		  "level": 41,
+		  "item": "miracleberry",
+		  "moves": [
+			"dragonbreath",
+			"cross-chop",
+			"earthquake",
+			"iron-tail"
           ]
         },
         {
@@ -42657,17 +42717,17 @@
 			"ice-punch",
 			"body-slam",
 			"sludge-bomb"
-		  ]
-		},
-		{
-		  "name": "haxorus",
-		  "level": 43,
-		  "item": "miracleberry",
-		  "moves": [
-			"dragonbreath",
-			"cross-chop",
-			"earthquake",
-			"iron-tail"
+          ]
+        },
+        {
+          "name": "emboar",
+	  	  "level": 44,
+	  	  "item": "charcoal",
+	  	  "moves": [
+	    	"flamethrower",
+	    	"cross-chop",
+	        "thunderpunch",
+	    	"double-edge"
 		  ]
 		}	    
       ]
