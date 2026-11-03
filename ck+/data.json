@@ -46554,14 +46554,14 @@
       "name": "elite-four-grimsley",
       "team": [
         {
-          "name": "beheeyem",
+          "name": "mandibuzz",
           "level": 70,
-          "item": "quick-claw",
+          "item": "gold-berry",
           "moves": [
-            "psychic",
-            "fire-punch",
-			"thunderpunch",
-			"ice-punch"
+            "crunch",
+            "drill-peck",
+			"bone-rush",
+			"egg-bomb"
           ]
         },
         {
