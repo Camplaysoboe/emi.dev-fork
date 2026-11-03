@@ -46487,13 +46487,21 @@
         },
         {
           "name": "musharna",
+                    "dvs": {
+                        "atk": 15,
+						"def": 13,
+						"hp": 15,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
 	  	  "level": 70,
 	  	  "item": "leftovers",
 	  	  "moves": [
 	    	"reflect",
 	    	"psychic",
-	        "hp-dark",
-	    	"thunderbolt"
+	        "hp-ice",
+	    	"petal-dance"
           ]
         },
         {
@@ -46587,25 +46595,25 @@
 		  ]
 		},
 		{
-		  "name": "ferrothorn",
+		  "name": "scolipede",
 		  "level": 70,
-		  "item": "quick-claw",
+		  "item": "silverpowder",
 		  "moves": [
-			"spikes",
-			"explosion",
-			"petal-dance",
+			"fury-cutter",
+			"sludge-bomb",
+			"horn-attack",
 			"iron-tail"
 		  ]
 		},
 		{
-		  "name": "emolga",
+		  "name": "alomomola",
 		  "level": 70,
-		  "item": "gold-berry",
+		  "item": "leftovers",
 		  "moves": [
-			"zap-cannon",
-			"sky-attack",
-			"iron-tail",
-			"quick-attack"
+			"toxic",
+			"recover",
+			"body-slam",
+			"ice-beam"
 		  ]
 		},
 		{
@@ -46648,14 +46656,14 @@
           ]
         },
         {
-          "name": "heatmor",
+          "name": "darmanitan",
           "level": 70,
-          "item": "quick-claw",
+          "item": "charcoal",
           "moves": [
-            "cross-chop",
             "flamethrower",
+            "submission",
             "earthquake",
-            "thunderpunch"
+            "rock-slide"
 		  ]
 		},
 		{
