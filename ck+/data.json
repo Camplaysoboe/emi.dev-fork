@@ -46469,6 +46469,389 @@
 		  ]
 		}	    
       ]
+    },
+	{
+      "area": "Elite 4",
+      "name": "elite-four-caitlin",
+      "team": [
+        {
+          "name": "reuniclus",
+          "level": 70,
+          "item": "twistedspoon",
+          "moves": [
+            "psychic",
+            "petal-dance",
+			"cross-chop",
+			"thunderbolt"
+          ]
+        },
+        {
+          "name": "musharna",
+	  	  "level": 70,
+	  	  "item": "leftovers",
+	  	  "moves": [
+	    	"reflect",
+	    	"psychic",
+	        "hp-dark",
+	    	"thunderbolt"
+          ]
+        },
+        {
+          "name": "sigilyph",
+          "level": 70,
+          "item": "miracleberry",
+          "moves": [
+            "confuse-ray",
+            "psychic",
+            "ice-beam",
+            "thunderbolt"
+		  ]
+		},
+		{
+		  "name": "gothitelle",
+		  "level": 70,
+		  "item": "gold-berry",
+		  "moves": [
+			"light-screen",
+			"psychic",
+			"petal-dance",
+			"crunch"
+		  ]
+		},
+		{
+		  "name": "klinklang",
+		  "level": 70,
+		  "item": "metal-coat",
+		  "moves": [
+			"thunder-wave",
+			"comet-punch",
+			"thunderbolt",
+			"rock-slide"
+		  ]
+		},
+		{
+		  "name": "darmanitan-zen",
+		  "level": 70,
+		  "item": "gold-berry",
+		  "moves": [
+			"fire-punch",
+			"psychic",
+			"crunch"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Elite 4",
+      "name": "elite-four-grimsley",
+      "team": [
+        {
+          "name": "beheeyem",
+          "level": 70,
+          "item": "quick-claw",
+          "moves": [
+            "psychic",
+            "fire-punch",
+			"thunderpunch",
+			"ice-punch"
+          ]
+        },
+        {
+          "name": "bisharp",
+                    "dvs": {
+                        "atk": 12,
+						"def": 13,
+						"hp": 7,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
+          "level": 70,
+          "item": "focus-band",
+          "moves": [
+            "iron-tail",
+            "sleep-talk",
+			"crunch",
+			"hp-flying"
+          ]
+        },
+        {
+          "name": "zoroark",
+          "level": 70,
+          "item": "blackglasses",
+          "moves": [
+            "transform",
+            "crunch",
+            "psychic",
+            "flamethrower"
+		  ]
+		},
+		{
+		  "name": "ferrothorn",
+		  "level": 70,
+		  "item": "quick-claw",
+		  "moves": [
+			"spikes",
+			"explosion",
+			"petal-dance",
+			"iron-tail"
+		  ]
+		},
+		{
+		  "name": "emolga",
+		  "level": 70,
+		  "item": "gold-berry",
+		  "moves": [
+			"zap-cannon",
+			"sky-attack",
+			"iron-tail",
+			"quick-attack"
+		  ]
+		},
+		{
+		  "name": "hydreigon",
+		  "level": 70,
+		  "item": "miracleberry",
+		  "moves": [
+			"crunch",
+			"earthquake",
+			"rock-slide",
+			"submission"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Elite 4",
+      "name": "elite-four-marshal",
+      "team": [
+        {
+          "name": "mienshao",
+          "level": 70,
+          "item": "blackbelt",
+          "moves": [
+            "hi-jump-kick",
+            "shadow-ball",
+			"ice-beam",
+			"thunderpunch"
+          ]
+        },
+        {
+          "name": "conkeldurr",
+          "level": 70,
+          "item": "gold-berry",
+          "moves": [
+            "cross-chop",
+            "body-slam",
+			"rock-slide",
+			"fire-punch"
+          ]
+        },
+        {
+          "name": "heatmor",
+          "level": 70,
+          "item": "quick-claw",
+          "moves": [
+            "cross-chop",
+            "flamethrower",
+            "earthquake",
+            "thunderpunch"
+		  ]
+		},
+		{
+		  "name": "beartic",
+		  "level": 70,
+		  "item": "quick-claw",
+		  "moves": [
+			"ice-beam",
+			"cross-chop",
+			"earthquake",
+			"return"
+		  ]
+		},
+		{
+		  "name": "gigalith",
+		  "level": 70,
+		  "item": "hard-stone",
+		  "moves": [
+			"rock-slide",
+			"earthquake",
+			"iron-tail",
+			"submission"
+		  ]
+		},
+		{
+		  "name": "archeops",
+                    "dvs": {
+                        "atk": 12,
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
+		  "level": 70,
+		  "item": "sharp-beak",
+		  "moves": [
+			"wing-attack",
+			"rock-slide",
+			"earthquake",
+			"hp-fighting"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Elite 4",
+      "name": "elite-four-shauntal",
+      "team": [
+        {
+          "name": "jellicent",
+          "level": 70,
+          "item": "gold-berry",
+          "moves": [
+            "toxic",
+            "surf",
+			"ice-beam",
+			"petal-dance"
+          ]
+        },
+        {
+          "name": "chandelure",
+          "level": 70,
+          "item": "charcoal",
+          "moves": [
+            "flamethrower",
+            "petal-dance",
+			"shadow-ball",
+			"psychic"
+          ]
+        },
+        {
+          "name": "cofagrigus",
+          "level": 70,
+          "item": "leftovers",
+          "moves": [
+            "toxic",
+            "protect",
+            "icy-wind",
+            "crunch"
+		  ]
+		},
+		{
+		  "name": "cryogonal",
+		  "level": 70,
+		  "item": "nevermeltice",
+		  "moves": [
+			"confuse-ray",
+			"ice-beam",
+			"surf",
+			"crunch"
+		  ]
+		},
+		{
+		  "name": "amoonguss",
+		  "level": 70,
+		  "item": "gold-berry",
+		  "moves": [
+			"toxic",
+			"giga-drain",
+			"sludge-bomb",
+			"pursuit"
+		  ]
+		},
+		{
+		  "name": "golurk",
+		  "level": 70,
+		  "item": "quick-claw",
+		  "moves": [
+			"earthquake",
+			"shadow-ball",
+			"submission",
+			"rock-slide"
+		  ]
+		}	    
+      ]
+    },
+	{
+      "area": "Elite 4",
+      "name": "champion-alder",
+      "team": [
+        {
+          "name": "accelgor",
+          "level": 72,
+          "item": "miracleberry",
+          "moves": [
+            "spikes",
+            "baton-pass",
+			"surf",
+			"fury-cutter"
+          ]
+        },
+        {
+          "name": "bouffalant",
+          "level": 72,
+          "item": "gold-berry",
+          "moves": [
+            "rest",
+            "sleep-talk",
+			"double-edge",
+			"earthquake"
+          ]
+        },
+        {
+          "name": "druddigon",
+          "level": 72,
+          "item": "quick-claw",
+          "moves": [
+            "outrage",
+            "cross-chop",
+            "crunch",
+            "flamethrower"
+		  ]
+		},
+		{
+		  "name": "vanilluxe",
+                    "dvs": {
+                        "atk": 14,
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
+		  "level": 72,
+		  "item": "quick-claw",
+		  "moves": [
+			"explosion",
+			"ice-beam",
+			"surf",
+			"hp-fire"
+		  ]
+		},
+		{
+		  "name": "escavalier",
+		  "level": 72,
+		  "item": "quick-claw",
+		  "moves": [
+			"fury-cutter",
+			"iron-tail",
+			"horn-attack",
+			"return"
+		  ]
+		},
+		{
+		  "name": "volcarona",
+		  "level": 72,
+		  "item": "charcoal",
+		  "moves": [
+			"sacred-fire",
+			"psychic",
+			"giga-drain",
+			"zap-cannon"
+		  ]
+		}	    
+      ]
     }
     ],
     "type_matchups": [
