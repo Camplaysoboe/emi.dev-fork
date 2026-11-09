@@ -47687,7 +47687,7 @@
       "team": [
         {
           "name": "reuniclus",
-          "level": 70,
+          "level": 69,
           "item": "twistedspoon",
           "moves": [
             "psychic",
@@ -47706,35 +47706,13 @@
 						"spd": 15,
 						"spe": 15
                     	},
-	  	  "level": 70,
+	  	  "level": 69,
 	  	  "item": "leftovers",
 	  	  "moves": [
 	    	"reflect",
 	    	"psychic",
 	        "hp-ice",
 	    	"petal-dance"
-          ]
-        },
-        {
-          "name": "sigilyph",
-          "level": 70,
-          "item": "miracleberry",
-          "moves": [
-            "confuse-ray",
-            "psychic",
-            "ice-beam",
-            "thunderbolt"
-		  ]
-		},
-		{
-		  "name": "gothitelle",
-		  "level": 70,
-		  "item": "gold-berry",
-		  "moves": [
-			"light-screen",
-			"psychic",
-			"petal-dance",
-			"crunch"
 		  ]
 		},
 		{
@@ -47746,6 +47724,36 @@
 			"comet-punch",
 			"thunderbolt",
 			"rock-slide"
+		  ]
+		},
+		{
+		  "name": "gothitelle",
+                    "dvs": {
+                        "atk": 14,
+						"def": 12,
+						"hp": 3,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    	},
+		  "level": 70,
+		  "item": "gold-berry",
+		  "moves": [
+			"light-screen",
+			"psychic",
+			"hp-fire",
+			"crunch"
+		  ]
+		},
+		{
+          "name": "sigilyph",
+          "level": 70,
+          "item": "miracleberry",
+          "moves": [
+            "confuse-ray",
+            "psychic",
+            "ice-beam",
+            "thunderbolt"
 		  ]
 		},
 		{
@@ -47829,7 +47837,7 @@
 		},
 		{
 		  "name": "hydreigon",
-		  "level": 70,
+		  "level": 69,
 		  "item": "miracleberry",
 		  "moves": [
 			"crunch",
@@ -47846,7 +47854,7 @@
       "team": [
         {
           "name": "mienshao",
-          "level": 70,
+          "level": 69,
           "item": "blackbelt",
           "moves": [
             "hi-jump-kick",
@@ -47857,7 +47865,7 @@
         },
         {
           "name": "conkeldurr",
-          "level": 70,
+          "level": 69,
           "item": "gold-berry",
           "moves": [
             "cross-chop",
@@ -47890,7 +47898,7 @@
 		},
 		{
 		  "name": "gigalith",
-		  "level": 70,
+		  "level": 69,
 		  "item": "hard-stone",
 		  "moves": [
 			"rock-slide",
@@ -47981,7 +47989,7 @@
 		},
 		{
 		  "name": "golurk",
-		  "level": 70,
+		  "level": 69,
 		  "item": "quick-claw",
 		  "moves": [
 			"earthquake",
@@ -48021,7 +48029,7 @@
         {
           "name": "druddigon",
           "level": 72,
-          "item": "quick-claw",
+          "item": "dragon-fang",
           "moves": [
             "outrage",
             "cross-chop",
