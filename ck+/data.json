@@ -47854,12 +47854,20 @@
       "team": [
         {
           "name": "mienshao",
-          "level": 69,
+                    "dvs": {
+                        "atk": 15,
+						"def": 13,
+						"hp": 15,
+						"spa": 15,
+						"spd": 15,
+						"spe": 15
+                    },
+          "level": 70,
           "item": "blackbelt",
           "moves": [
             "hi-jump-kick",
             "shadow-ball",
-			"ice-beam",
+			"hp-ice",
 			"thunderpunch"
           ]
         },
@@ -47979,18 +47987,18 @@
 		{
 		  "name": "amoonguss",
 		  "level": 70,
-		  "item": "gold-berry",
+		  "item": "quick-claw",
 		  "moves": [
 			"toxic",
 			"giga-drain",
 			"sludge-bomb",
-			"pursuit"
+			"shadow-ball"
 		  ]
 		},
 		{
 		  "name": "golurk",
 		  "level": 69,
-		  "item": "quick-claw",
+		  "item": "gold-berry",
 		  "moves": [
 			"earthquake",
 			"shadow-ball",
