@@ -20823,7 +20823,7 @@
                     "move": "tri-attack"
                 },
                 {
-                    "level": 75,
+                    "level": 61,
                     "move": "sky-attack"
                 }
             ],
@@ -27200,6 +27200,10 @@
                 {
                     "level": 57,
                     "move": "sky-attack"
+                },
+                {
+                    "level": 69,
+                    "move": "moonlight"
                 }
             ],
             "name": "mandibuzz",
@@ -35293,6 +35297,10 @@
                 {
                     "level": 52,
                     "move": "dragonbreath"
+                },
+                {
+                    "level": 56,
+                    "move": "shadow-ball"
                 }
             ],
             "name": "basculin",
@@ -36955,6 +36963,14 @@
                 {
                     "level": 42,
                     "move": "horn-attack"
+                },
+                {
+                    "level": 54,
+                    "move": "submission"
+                },
+                {
+                    "level": 67,
+                    "move": "earthquake"
                 }
             ],
             "name": "excadrill",
@@ -46749,7 +46765,7 @@
 	    	"rock-slide",
 	    	"sleep-talk",
 	        "earthquake",
-	    	"thunderpunch"
+	    	"fire-punch"
           ]
         },
         {
@@ -46976,7 +46992,7 @@
           "item": "quick-claw",
           "moves": [
             "megahorn",
-            "iron-tail",
+            "steel-wing",
             "horn-attack",
             "wing-attack"
 		  ]
@@ -47012,7 +47028,7 @@
       "team": [
         {
           "name": "larvesta",
-          "level": 90,
+          "level": 85,
           "item": "quick-claw",
           "moves": [
             "double-edge",
@@ -47276,7 +47292,7 @@
       "team": [
         {
           "name": "galvantula",
-          "level": 68,
+          "level": 67,
           "item": "magnet",
           "moves": [
             "thunderbolt",
@@ -47287,7 +47303,7 @@
         },
         {
           "name": "jellicent",
-	  	  "level": 68,
+	  	  "level": 67,
 	  	  "item": "mystic-water",
 	  	  "moves": [
 	    	"surf",
