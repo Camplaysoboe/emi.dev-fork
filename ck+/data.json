@@ -21325,6 +21325,10 @@
                     "move": "giga-drain"
                 },
                 {
+                    "level": 38,
+                    "move": "thunderbolt"
+                },
+                {
                     "level": 41,
                     "move": "thunderbolt"
                 },
